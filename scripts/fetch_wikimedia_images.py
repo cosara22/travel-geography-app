@@ -41,7 +41,7 @@ DATA_JSON_PATH = os.path.join(ROOT, "public", "data.json")
 OUT_DIR = os.path.join(ROOT, "public", "images")
 INDEX_JSON = os.path.join(OUT_DIR, "index.json")
 
-USER_AGENT = "NipponGeoQuest/1.0 (https://github.com/example/travel-geography-app; portfolio)"
+USER_AGENT = "NipponGeoQuest/1.0 (https://github.com/cosara22/travel-geography-app; portfolio)"
 
 WIKIPEDIA_API = "https://ja.wikipedia.org/w/api.php"
 WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"

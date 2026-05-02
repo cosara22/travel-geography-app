@@ -187,7 +187,7 @@ travel-geography-app/
 Issue / Pull Request 歓迎。データ追加・スクリプト改善・UI 改善・新カテゴリの提案など。
 
 ```bash
-git clone https://github.com/<your-handle>/travel-geography-app.git
+git clone https://github.com/cosara22/travel-geography-app.git
 cd travel-geography-app
 python -m http.server 8000
 ```
