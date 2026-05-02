@@ -9,6 +9,28 @@
 
 🌐 **Live Demo**: **<https://travel-geography-app.vercel.app>**
 
+## 📸 スクリーンショット
+
+### ホーム画面
+3つの探索モード（クイズ・地図・早見表）と統計情報を表示。
+
+![ホーム画面](docs/screenshots/01-home.png)
+
+### クイズ画面（11+モード）
+文字ベース7モード + 写真ベース5モードで日本の地理を学習。スコアは LocalStorage に保存。
+
+![クイズモード選択](docs/screenshots/02-quiz-modes.png)
+
+### 地図画面
+GeoJSON ベースの本物の県境マップ。クリックで都道府県の詳細パネルを表示し、観光地・温泉・郷土料理などの写真がずらりと並ぶ。
+
+![日本地図と詳細パネル](docs/screenshots/03-map.png)
+
+### 早見表
+タブ式の一覧。世界遺産・国立公園・温泉・祭り・郷土料理の各カードに Wikimedia Commons の写真と撮影者・ライセンス表示。
+
+![早見表（世界遺産タブ）](docs/screenshots/04-lookup-heritage.png)
+
 ## 🎯 概要
 
 「日本の観光地・温泉・郷土料理・世界遺産・国立公園 などを **Wikidata の SPARQL で Q-ID を解決し、Wikimedia Commons から写真をかき集めて見せる**」というデータパイプラインを軸にした静的Webアプリ。
