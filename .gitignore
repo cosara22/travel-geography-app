@@ -25,3 +25,5 @@ Thumbs.db
 # Node (if added later for tooling)
 node_modules/
 package-lock.json
+
+.vercel

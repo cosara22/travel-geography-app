@@ -7,7 +7,7 @@
 
 ## ✨ デモ
 
-🌐 **Live Demo**: _Vercelデプロイ後にURLを記載_
+🌐 **Live Demo**: **<https://travel-geography-app.vercel.app>**
 
 ## 🎯 概要
 
