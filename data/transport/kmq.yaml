@@ -1,0 +1,8 @@
+id: kmq
+name: 小松空港
+kana: こまつくうこう
+type: airport
+code: KMQ
+prefectures:
+- 石川県
+tags: []

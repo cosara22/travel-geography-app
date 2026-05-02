@@ -1,0 +1,11 @@
+id: kaike
+name: 皆生温泉
+kana: かいけおんせん
+prefecture: 鳥取県
+category: onsen
+location:
+  city: 米子市
+spring_quality:
+- 塩化物泉
+tags:
+- 日本一海に近い温泉

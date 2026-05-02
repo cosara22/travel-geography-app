@@ -1,0 +1,9 @@
+id: hsg
+name: 佐賀空港
+kana: さがくうこう
+type: airport
+code: HSG
+prefectures:
+- 佐賀県
+tags:
+- 九州佐賀国際空港

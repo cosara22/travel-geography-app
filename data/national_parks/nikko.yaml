@@ -1,0 +1,16 @@
+id: nikko
+name: 日光国立公園
+kana: にっこうこくりつこうえん
+category: national_park
+prefectures:
+- 福島県
+- 栃木県
+- 群馬県
+designation_year: 1934
+highlights:
+- 日光東照宮
+- 華厳の滝
+- 中禅寺湖
+- 戦場ヶ原
+- 鬼怒川
+- 尾瀬

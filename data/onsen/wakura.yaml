@@ -1,0 +1,12 @@
+id: wakura
+name: 和倉温泉
+kana: わくらおんせん
+prefecture: 石川県
+category: onsen
+location:
+  city: 七尾市
+spring_quality:
+- 塩化物泉
+tags:
+- 能登
+- 加賀屋

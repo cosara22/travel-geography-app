@@ -1,0 +1,11 @@
+id: atami
+name: 熱海温泉
+kana: あたみおんせん
+prefecture: 静岡県
+category: onsen
+location:
+  city: 熱海市
+spring_quality:
+- 塩化物泉
+tags:
+- 徳川家康ゆかり

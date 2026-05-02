@@ -1,0 +1,9 @@
+id: oka
+name: 那覇空港
+kana: なはくうこう
+type: airport
+code: OKA
+prefectures:
+- 沖縄県
+tags:
+- 沖縄の玄関

@@ -1,0 +1,16 @@
+id: arima
+name: 有馬温泉
+kana: ありまおんせん
+prefecture: 兵庫県
+category: onsen
+location:
+  city: 神戸市北区
+spring_quality:
+- 塩化物泉
+- 炭酸水素塩泉
+- 鉄泉
+tags:
+- 日本三名泉
+- 日本三古湯
+- 金泉
+- 銀泉

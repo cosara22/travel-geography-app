@@ -1,0 +1,16 @@
+id: beppu
+name: 別府温泉
+kana: べっぷおんせん
+prefecture: 大分県
+category: onsen
+location:
+  city: 別府市
+spring_quality:
+- 塩化物泉
+- 硫黄泉
+- 硫酸塩泉
+- 単純温泉
+tags:
+- 別府八湯
+- 源泉数日本一
+- 湧出量日本一

@@ -1,0 +1,13 @@
+id: tamatsukuri
+name: 玉造温泉
+kana: たまつくりおんせん
+prefecture: 島根県
+category: onsen
+location:
+  city: 松江市
+spring_quality:
+- 塩化物泉
+- 硫酸塩泉
+tags:
+- 美肌の湯
+- 日本最古級

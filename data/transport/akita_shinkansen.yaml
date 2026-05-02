@@ -1,0 +1,10 @@
+id: akita_shinkansen
+name: 秋田新幹線
+kana: あきたしんかんせん
+type: shinkansen
+prefectures:
+- 岩手県
+- 秋田県
+tags:
+- ミニ新幹線
+- こまち

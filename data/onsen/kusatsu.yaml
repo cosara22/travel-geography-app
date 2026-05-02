@@ -1,0 +1,15 @@
+id: kusatsu
+name: 草津温泉
+kana: くさつおんせん
+prefecture: 群馬県
+category: onsen
+location:
+  city: 草津町
+spring_quality:
+- 酸性泉
+- 硫黄泉
+tags:
+- 日本三名泉
+- 湯畑
+- 湯もみ
+- 湧出量日本一

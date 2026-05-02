@@ -1,0 +1,9 @@
+id: toy
+name: 富山空港
+kana: とやまくうこう
+type: airport
+code: TOY
+prefectures:
+- 富山県
+tags:
+- 富山きときと空港

@@ -1,0 +1,10 @@
+id: hnd
+name: 東京国際空港（羽田）
+kana: とうきょうこくさいくうこう
+type: airport
+code: HND
+prefectures:
+- 東京都
+tags:
+- 国内線中枢
+- 首都圏

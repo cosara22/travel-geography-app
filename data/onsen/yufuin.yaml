@@ -1,0 +1,12 @@
+id: yufuin
+name: 由布院温泉
+kana: ゆふいんおんせん
+prefecture: 大分県
+category: onsen
+location:
+  city: 由布市
+spring_quality:
+- 単純温泉
+tags:
+- 金鱗湖
+- 由布岳

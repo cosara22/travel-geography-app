@@ -1,0 +1,8 @@
+id: mmy
+name: 宮古空港
+kana: みやこくうこう
+type: airport
+code: MMY
+prefectures:
+- 沖縄県
+tags: []

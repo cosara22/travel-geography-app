@@ -1,0 +1,8 @@
+id: hkd
+name: 函館空港
+kana: はこだてくうこう
+type: airport
+code: HKD
+prefectures:
+- 北海道
+tags: []

@@ -1,0 +1,11 @@
+id: ryujin
+name: 龍神温泉
+kana: りゅうじんおんせん
+prefecture: 和歌山県
+category: onsen
+location:
+  city: 田辺市
+spring_quality:
+- 炭酸水素塩泉
+tags:
+- 日本三美人湯

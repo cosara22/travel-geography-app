@@ -1,0 +1,16 @@
+id: okuhida
+name: 奥飛騨温泉郷
+kana: おくひだおんせんきょう
+prefecture: 岐阜県
+category: onsen
+location:
+  city: 高山市
+spring_quality:
+- 単純温泉
+- 塩化物泉
+tags:
+- 平湯
+- 福地
+- 新平湯
+- 栃尾
+- 新穂高

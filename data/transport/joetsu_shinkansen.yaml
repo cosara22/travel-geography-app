@@ -1,0 +1,12 @@
+id: joetsu_shinkansen
+name: 上越新幹線
+kana: じょうえつしんかんせん
+type: shinkansen
+prefectures:
+- 東京都
+- 埼玉県
+- 群馬県
+- 新潟県
+tags:
+- とき
+- Maxとき

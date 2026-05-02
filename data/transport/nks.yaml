@@ -1,0 +1,8 @@
+id: nks
+name: 新潟空港
+kana: にいがたくうこう
+type: airport
+code: KIJ
+prefectures:
+- 新潟県
+tags: []

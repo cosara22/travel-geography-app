@@ -1,0 +1,16 @@
+id: tokaido_shinkansen
+name: 東海道新幹線
+kana: とうかいどうしんかんせん
+type: shinkansen
+prefectures:
+- 東京都
+- 神奈川県
+- 静岡県
+- 愛知県
+- 岐阜県
+- 滋賀県
+- 京都府
+- 大阪府
+tags:
+- 1964年開業
+- JR東海

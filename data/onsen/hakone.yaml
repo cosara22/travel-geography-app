@@ -1,0 +1,14 @@
+id: hakone
+name: 箱根温泉
+kana: はこねおんせん
+prefecture: 神奈川県
+category: onsen
+location:
+  city: 箱根町
+spring_quality:
+- 塩化物泉
+- 硫黄泉
+- 単純温泉
+tags:
+- 箱根七湯
+- 箱根二十湯

@@ -1,0 +1,695 @@
+{
+  "佐久島": {
+    "qid": "Q11382608",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sakushima_Island_Aerial_photograph.jpg/500px-Sakushima_Island_Aerial_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sakushima_Island_Aerial_photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "篠島": {
+    "qid": "Q11603714",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Shinojima_Island_Aerial_photograph.jpg/500px-Shinojima_Island_Aerial_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shinojima_Island_Aerial_photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "日間賀島": {
+    "qid": "Q393031",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Himakajima_Island_Aerial_photograph.jpg/500px-Himakajima_Island_Aerial_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Himakajima_Island_Aerial_photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "大三島（しまなみ海道）": {
+    "qid": "Q9009869",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Omishima_Bridge.jpg/500px-Omishima_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Omishima_Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "mukarin from Tokyo, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "伯方島（伯方の塩）": {
+    "qid": "Q9009569",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Omishima_Bridge.jpg/500px-Omishima_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Omishima_Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "mukarin from Tokyo, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "因島（広島県）": {
+    "qid": "Q11420237",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg/500px-%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "OS6",
+    "fetched_at": "2026-05-02"
+  },
+  "沖ノ島（神宿る島、女人禁制、世界遺産）": {
+    "qid": "Q7082047",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Okinoshima_viewing_01.jpg/500px-Okinoshima_viewing_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okinoshima_viewing_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Indiana jo",
+    "fetched_at": "2026-05-02"
+  },
+  "能古島（福岡市沖）": {
+    "qid": "Q10859834",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Beach_on_Nokonoshima_Island_20140506-1.JPG/500px-Beach_on_Nokonoshima_Island_20140506-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Beach_on_Nokonoshima_Island_20140506-1.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "玄界島": {
+    "qid": "Q11572311",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Genkaijima.jpg/500px-Genkaijima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Genkaijima.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Chihaya Sta",
+    "fetched_at": "2026-05-02"
+  },
+  "大久野島（うさぎ島）": {
+    "qid": "Q385313",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Okunoshima_2.JPG/500px-Okunoshima_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okunoshima_2.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Vickerman625",
+    "fetched_at": "2026-05-02"
+  },
+  "因島": {
+    "qid": "Q11420237",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg/500px-%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%9B%A0%E5%B3%B6%E5%A4%A7%E6%B5%9C%E7%94%BA_Innoshima-Ohama_cho_-_panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "OS6",
+    "fetched_at": "2026-05-02"
+  },
+  "生口島（瀬戸田、レモン）": {
+    "qid": "Q11574434",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ikuchijima_gezien_vanaf_de_Tatara-brug%2C_-16_maart_2014_a.jpg/500px-Ikuchijima_gezien_vanaf_de_Tatara-brug%2C_-16_maart_2014_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ikuchijima_gezien_vanaf_de_Tatara-brug,_-16_maart_2014_a.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "redlegsfan21 from Vandalia, OH, United States",
+    "fetched_at": "2026-05-02"
+  },
+  "大三島": {
+    "qid": "Q9009869",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Omishima_Bridge.jpg/500px-Omishima_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Omishima_Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "mukarin from Tokyo, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "仙酔島": {
+    "qid": "Q11378204",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tomonoura_-01.jpg/500px-Tomonoura_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tomonoura_-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Aimaimyi",
+    "fetched_at": "2026-05-02"
+  },
+  "利尻島": {
+    "qid": "Q495476",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Rishiri_Airport_17-Sept-2018_p2.jpg/500px-Rishiri_Airport_17-Sept-2018_p2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Rishiri_Airport_17-Sept-2018_p2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "皓月旗",
+    "fetched_at": "2026-05-02"
+  },
+  "礼文島": {
+    "qid": "Q623490",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/130726_Cape_Gorota_in_Rebun_Island_Hokkaido_Japan01s5.jpg/500px-130726_Cape_Gorota_in_Rebun_Island_Hokkaido_Japan01s5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:130726_Cape_Gorota_in_Rebun_Island_Hokkaido_Japan01s5.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "奥尻島": {
+    "qid": "Q675101",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okushiri_Horonai_Dodo39.JPG/500px-Okushiri_Horonai_Dodo39.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okushiri_Horonai_Dodo39.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Soica2001 (talk)",
+    "fetched_at": "2026-05-02"
+  },
+  "焼尻島": {
+    "qid": "Q3108859",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Yagishiri_Island.JPG/500px-Yagishiri_Island.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yagishiri_Island.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55",
+    "fetched_at": "2026-05-02"
+  },
+  "天売島": {
+    "qid": "Q490610",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%A4%A9%E5%A3%B2%E5%B3%B6.jpg/500px-%E5%A4%A9%E5%A3%B2%E5%B3%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E5%A3%B2%E5%B3%B6.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia.",
+    "fetched_at": "2026-05-02"
+  },
+  "淡路島（神戸鳴門と橋で結ばれる）": {
+    "qid": "Q504373",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Awaji-island_1.png/500px-Awaji-island_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Awaji-island_1.png",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Pinqui",
+    "fetched_at": "2026-05-02"
+  },
+  "沼島": {
+    "qid": "Q5366609",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nushima_1.jpg/500px-Nushima_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nushima_1.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Pinqui",
+    "fetched_at": "2026-05-02"
+  },
+  "舳倉島": {
+    "qid": "Q49507",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hegura_island_-13_%28175815774%29.jpg/500px-Hegura_island_-13_%28175815774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hegura_island_-13_(175815774).jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "tsuda from Tsushima, Aichi, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "七ツ島": {
+    "qid": "Q49503",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nanatsu-jima_island_north.JPG/500px-Nanatsu-jima_island_north.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nanatsu-jima_island_north.JPG",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "小豆島（瀬戸内海第2位、オリーブ・醤油・素麺）": {
+    "qid": "Q2166413",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Syodoshima_landsat.jpg/500px-Syodoshima_landsat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Syodoshima_landsat.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Tdk",
+    "fetched_at": "2026-05-02"
+  },
+  "直島（現代アート）": {
+    "qid": "Q20267482",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naoshima_%287046724589%29.jpg/500px-Naoshima_%287046724589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Naoshima_(7046724589).jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "KimonBerlin",
+    "fetched_at": "2026-05-02"
+  },
+  "犬島": {
+    "qid": "Q75322",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Inujima_01.jpg/500px-Inujima_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Inujima_01.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "User:ラハール",
+    "fetched_at": "2026-05-02"
+  },
+  "屋久島（縄文杉、世界自然遺産）": {
+    "qid": "Q242176",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yakushima_from_Ferry_Amami_20121116.jpg/500px-Yakushima_from_Ferry_Amami_20121116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yakushima_from_Ferry_Amami_20121116.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "tsuda from Tsushima, Aichi, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "種子島（鉄砲伝来・宇宙センター）": {
+    "qid": "Q696228",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tanegashima_ISS048.jpg/500px-Tanegashima_ISS048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tanegashima_ISS048.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Image Science and Analysis Laboratory, NASA - Johnson Space…",
+    "fetched_at": "2026-05-02"
+  },
+  "奄美大島": {
+    "qid": "Q697278",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kasari_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kasari_Beach.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "boreal eye",
+    "fetched_at": "2026-05-02"
+  },
+  "徳之島": {
+    "qid": "Q701847",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tokunoshima.jpg/500px-Tokunoshima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokunoshima.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "User: (WT-shared) Skysoblue at wts wikivoyage",
+    "fetched_at": "2026-05-02"
+  },
+  "沖永良部島": {
+    "qid": "Q94736",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yakomo_beach.jpg/500px-Yakomo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yakomo_beach.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "与論島": {
+    "qid": "Q94762",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2021-04-09_Yoronjima-seito_%E4%B8%8E%E8%AB%96%E5%B3%B6%E8%A3%BD%E7%B3%96%EF%BC%88%E6%A0%AA%EF%BC%89DJI_Mini2-0023.jpg/500px-2021-04-09_Yoronjima-seito_%E4%B8%8E%E8%AB%96%E5%B3%B6%E8%A3%BD%E7%B3%96%EF%BC%88%E6%A0%AA%EF%BC%89DJI_Mini2-0023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:2021-04-09_Yoronjima-seito_%E4%B8%8E%E8%AB%96%E5%B3%B6%E8%A3%BD%E7%B3%96%EF%BC%88%E6%A0%AA%EF%BC%89DJI_Mini2-0023.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "松岡明芳",
+    "fetched_at": "2026-05-02"
+  },
+  "喜界島": {
+    "qid": "Q711507",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hyakunodai%2C_Kikai.jpg/500px-Hyakunodai%2C_Kikai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hyakunodai,_Kikai.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55",
+    "fetched_at": "2026-05-02"
+  },
+  "加計呂麻島": {
+    "qid": "Q711584",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_of_Koniya_from_Kochi-yama.jpg/500px-View_of_Koniya_from_Kochi-yama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:View_of_Koniya_from_Kochi-yama.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "岩元剛 Tsuyoshi Iwamoto",
+    "fetched_at": "2026-05-02"
+  },
+  "江の島": {
+    "qid": "Q989803",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Enoshima_06.jpg/500px-Enoshima_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Enoshima_06.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Σ64",
+    "fetched_at": "2026-05-02"
+  },
+  "城ヶ島": {
+    "qid": "Q908857",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jo_ga_Shima01.jpg/500px-Jo_ga_Shima01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Jo_ga_Shima01.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "鵜来島": {
+    "qid": "Q11675721",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Uguru-Shima_island_Aerial_Photograph.JPG/500px-Uguru-Shima_island_Aerial_Photograph.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Uguru-Shima_island_Aerial_Photograph.JPG",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "冠島": {
+    "qid": "Q6363834",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Amanohashidate_%284573550742%29.jpg/500px-Amanohashidate_%284573550742%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Amanohashidate_(4573550742).jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "KimonBerlin",
+    "fetched_at": "2026-05-02"
+  },
+  "沓島": {
+    "qid": "Q11552439",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kutsujima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kutsujima.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "ぱむ (talk · contribs)",
+    "fetched_at": "2026-05-02"
+  },
+  "答志島": {
+    "qid": "Q7862729",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/T%C5%8Dshijima.jpg/500px-T%C5%8Dshijima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:T%C5%8Dshijima.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "菅島": {
+    "qid": "Q130120",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Suga_Island.JPG/500px-Suga_Island.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Suga_Island.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "五島列島（福江島・中通島・若松島・奈留島・久賀島）": {
+    "qid": "Q1333790",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Map-GotoRetto-en.png/500px-Map-GotoRetto-en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Map-GotoRetto-en.png",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "User:Akanemoto",
+    "fetched_at": "2026-05-02"
+  },
+  "平戸島": {
+    "qid": "Q1019313",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hiradojima_Island_from_Tabira_Port.jpg/500px-Hiradojima_Island_from_Tabira_Port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hiradojima_Island_from_Tabira_Port.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "対馬（韓国に近接、上対馬〜下対馬）": {
+    "qid": "Q52051",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tsushima_Island_ISS034.jpg/500px-Tsushima_Island_ISS034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsushima_Island_ISS034.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Image Science and Analysis Laboratory, NASA-Johnson Space Ce…",
+    "fetched_at": "2026-05-02"
+  },
+  "壱岐島": {
+    "qid": "Q494914",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gounoura%2C_Iki-4.jpg/500px-Gounoura%2C_Iki-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gounoura,_Iki-4.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "佐渡島（沖縄本島・国後島・択捉島に次ぐ国内4位、本州離島では最大）": {
+    "qid": "Q998623",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sadogashima_ISS064.jpg/500px-Sadogashima_ISS064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sadogashima_ISS064.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Image Science and Analysis Laboratory, NASA - Johnson Space…",
+    "fetched_at": "2026-05-02"
+  },
+  "犬島（現代アートの島）": {
+    "qid": "Q75322",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Inujima_01.jpg/500px-Inujima_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Inujima_01.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "User:ラハール",
+    "fetched_at": "2026-05-02"
+  },
+  "真鍋島（笠岡諸島）": {
+    "qid": "Q3285144",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sanahijima_honura_osima.jpg/500px-Sanahijima_honura_osima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sanahijima_honura_osima.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "きーひょ",
+    "fetched_at": "2026-05-02"
+  },
+  "北木島": {
+    "qid": "Q11401908",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kitagishima-Ooura1.jpg/500px-Kitagishima-Ooura1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kitagishima-Ooura1.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "At by At",
+    "fetched_at": "2026-05-02"
+  },
+  "沖縄本島": {
+    "qid": "Q600614",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Okinawa_Island-ISS042.jpg/500px-Okinawa_Island-ISS042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okinawa_Island-ISS042.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Image Science and Analysis Laboratory, NASA - Johnson Space…",
+    "fetched_at": "2026-05-02"
+  },
+  "石垣島": {
+    "qid": "Q714339",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kabira_Bay_Ishigaki_Island41s3s4500.jpg/500px-Kabira_Bay_Ishigaki_Island41s3s4500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kabira_Bay_Ishigaki_Island41s3s4500.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "西表島（マングローブ・イリオモテヤマネコ）": {
+    "qid": "Q432124",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mangrove_swamp%2C_Iriomote_Island%2C_Okinawa%2C_Japan.jpg/500px-Mangrove_swamp%2C_Iriomote_Island%2C_Okinawa%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Anagounagi",
+    "fetched_at": "2026-05-02"
+  },
+  "宮古島": {
+    "qid": "Q700946",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yonahamaehama_Miyakojima_Okinawa_Japan06s3s4592.jpg/500px-Yonahamaehama_Miyakojima_Okinawa_Japan06s3s4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yonahamaehama_Miyakojima_Okinawa_Japan06s3s4592.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "久米島": {
+    "qid": "Q247515",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tounnahajou-Kumejima%2C_Okinawa%EF%BC%88%E7%99%BB%E6%AD%A6%E9%82%A3%E8%A6%87%E5%9F%8E%E3%81%8B%E3%82%89%E3%81%BF%E3%82%8B%E5%A5%A5%E6%AD%A6%E5%B3%B6%E3%80%81%E3%81%AF%E3%81%A6%E3%81%AE%E6%B5%9C%EF%BC%89DSCF6530.JPG/500px-Tounnahajou-Kumejima%2C_Okinawa%EF%BC%88%E7%99%BB%E6%AD%A6%E9%82%A3%E8%A6%87%E5%9F%8E%E3%81%8B%E3%82%89%E3%81%BF%E3%82%8B%E5%A5%A5%E6%AD%A6%E5%B3%B6%E3%80%81%E3%81%AF%E3%81%A6%E3%81%AE%E6%B5%9C%EF%BC%89DSCF6530.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tounnahajou-Kumejima,_Okinawa%EF%BC%88%E7%99%BB%E6%AD%A6%E9%82%A3%E8%A6%87%E5%9F%8E%E3%81%8B%E3%82%89%E3%81%BF%E3%82%8B%E5%A5%A5%E6%AD%A6%E5%B3%B6%E3%80%81%E3%81%AF%E3%81%A6%E3%81%AE%E6%B5%9C%EF%BC%89DSCF6530.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "松岡明芳",
+    "fetched_at": "2026-05-02"
+  },
+  "与那国島（日本最西端）": {
+    "qid": "Q220701",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yonaguni_Island_Aerial_photograph.2012.jpg/500px-Yonaguni_Island_Aerial_photograph.2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yonaguni_Island_Aerial_photograph.2012.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土地理院",
+    "fetched_at": "2026-05-02"
+  },
+  "与那国島": {
+    "qid": "Q220701",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yonaguni_Island_Aerial_photograph.2012.jpg/500px-Yonaguni_Island_Aerial_photograph.2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yonaguni_Island_Aerial_photograph.2012.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土地理院",
+    "fetched_at": "2026-05-02"
+  },
+  "慶良間諸島（座間味・阿嘉・渡嘉敷・慶留間）": {
+    "qid": "Q198422",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Akajima2.jpg/500px-Akajima2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akajima2.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Robdav69 (talk) 11:32, 8 November 2008 (UTC)",
+    "fetched_at": "2026-05-02"
+  },
+  "竹富島": {
+    "qid": "Q474560",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/JP-47_Taketomi_Water-buffalo-taxi.jpg/500px-JP-47_Taketomi_Water-buffalo-taxi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JP-47_Taketomi_Water-buffalo-taxi.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Flickr user: Ken@Okinawa Okinawa, Japan https://www.flickr.c…",
+    "fetched_at": "2026-05-02"
+  },
+  "鳩間島": {
+    "qid": "Q702410",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hatoma_jima_1977_cok-77-5_c1_2.jpg/500px-Hatoma_jima_1977_cok-77-5_c1_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hatoma_jima_1977_cok-77-5_c1_2.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "Retuched by Paipateroma (talk).",
+    "fetched_at": "2026-05-02"
+  },
+  "波照間島（日本最南端の有人島）": {
+    "qid": "Q697600",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Haterumajima_Island_Aerial_photograph.2009.jpg/500px-Haterumajima_Island_Aerial_photograph.2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Haterumajima_Island_Aerial_photograph.2009.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土地理院",
+    "fetched_at": "2026-05-02"
+  },
+  "加唐島": {
+    "qid": "Q11398556",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kakara-shima_Island_from_Madara-shima.jpg/500px-Kakara-shima_Island_from_Madara-shima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kakara-shima_Island_from_Madara-shima.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "LT sfm",
+    "fetched_at": "2026-05-02"
+  },
+  "馬渡島": {
+    "qid": "Q11668024",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Madara-shima_Island_from_the_sea.jpg/500px-Madara-shima_Island_from_the_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Madara-shima_Island_from_the_sea.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "LT sfm",
+    "fetched_at": "2026-05-02"
+  },
+  "竹生島（琵琶湖、宝厳寺、都久夫須麻神社）": {
+    "qid": "Q2975401",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chikubushima-2016-07-21.jpg/500px-Chikubushima-2016-07-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chikubushima-2016-07-21.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "HAL-Guandu",
+    "fetched_at": "2026-05-02"
+  },
+  "沖島（琵琶湖、有人島）": {
+    "qid": "Q2017235",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oki_Island_from_Miyagahama.jpg/500px-Oki_Island_from_Miyagahama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oki_Island_from_Miyagahama.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "多景島": {
+    "qid": "Q11430798",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Biwako_Takei_island2012.jpg/500px-Biwako_Takei_island2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Biwako_Takei_island2012.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "PekePON",
+    "fetched_at": "2026-05-02"
+  },
+  "隠岐諸島（島後・島前：西ノ島・中ノ島・知夫里島）": {
+    "qid": "Q483146",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E6%B5%B7%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%9F%A5%E5%A4%AB%E8%B5%A4%E5%A3%81.jpg/500px-%E6%B5%B7%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%9F%A5%E5%A4%AB%E8%B5%A4%E5%A3%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E7%9F%A5%E5%A4%AB%E8%B5%A4%E5%A3%81.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "KoheiU",
+    "fetched_at": "2026-05-02"
+  },
+  "大根島（中海の溶岩台地）": {
+    "qid": "Q3274310",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Daikon_Island_in_Lake_Nakaumi_Aerial_photograph.1976.jpg/500px-Daikon_Island_in_Lake_Nakaumi_Aerial_photograph.1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Daikon_Island_in_Lake_Nakaumi_Aerial_photograph.1976.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "初島（熱海沖）": {
+    "qid": "Q689643",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hatsushima_20120802.jpg/500px-Hatsushima_20120802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hatsushima_20120802.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Batholith",
+    "fetched_at": "2026-05-02"
+  },
+  "神子元島": {
+    "qid": "Q11589438",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mikomotoshima_20200113_103740.jpg/500px-Mikomotoshima_20200113_103740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mikomotoshima_20200113_103740.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ka23 13",
+    "fetched_at": "2026-05-02"
+  },
+  "伊豆諸島（伊豆大島・利島・新島・式根島・神津島・三宅島・御蔵島・八丈島・青ヶ島）": {
+    "qid": "Q864302",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Map_of_Izu_Islands.png/500px-Map_of_Izu_Islands.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Map_of_Izu_Islands.png",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Artanisen",
+    "fetched_at": "2026-05-02"
+  },
+  "小笠原諸島（父島・母島・南鳥島・沖ノ鳥島・硫黄島）": {
+    "qid": "Q13383295",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wai-Beach.jpg/500px-Wai-Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wai-Beach.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "タクナワン",
+    "fetched_at": "2026-05-02"
+  },
+  "友ヶ島（沖ノ島・地ノ島）": {
+    "qid": "Q7820112",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%E5%8F%8B%E3%81%8C%E5%B3%B6%E3%83%BB%E7%B4%80%E6%B7%A1%E6%B5%B7%E5%B3%A1PA071003.jpg/500px-%E5%8F%8B%E3%81%8C%E5%B3%B6%E3%83%BB%E7%B4%80%E6%B7%A1%E6%B5%B7%E5%B3%A1PA071003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%8F%8B%E3%81%8C%E5%B3%B6%E3%83%BB%E7%B4%80%E6%B7%A1%E6%B5%B7%E5%B3%A1PA071003.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "秋空から蛇が降ってきた",
+    "fetched_at": "2026-05-02"
+  },
+  "沖ノ島": {
+    "qid": "Q7082047",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Okinoshima_viewing_01.jpg/500px-Okinoshima_viewing_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okinoshima_viewing_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Indiana jo",
+    "fetched_at": "2026-05-02"
+  },
+  "周防大島（屋代島）": {
+    "qid": "Q1083890",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Yashirojima_Island_from_train_near_Obatake_Station_1.jpg/500px-Yashirojima_Island_from_train_near_Obatake_Station_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yashirojima_Island_from_train_near_Obatake_Station_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "角島（角島大橋）": {
+    "qid": "Q7850236",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tsunoshima_Bridge_%2832994549311%29.jpg/500px-Tsunoshima_Bridge_%2832994549311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsunoshima_Bridge_(32994549311).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Raita Futo from Tokyo, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "巖流島": {
+    "qid": "Q909675",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Funashima_island.jpg/500px-Funashima_island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Funashima_island.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Twilight2640",
+    "fetched_at": "2026-05-02"
+  },
+  "笠戸島": {
+    "qid": "Q11599897",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kasadojima_Island_and_Suo_Sea_from_train_near_Hikari_Station.jpg/500px-Kasadojima_Island_and_Suo_Sea_from_train_near_Hikari_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kasadojima_Island_and_Suo_Sea_from_train_near_Hikari_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  }
+}

@@ -1,0 +1,9 @@
+id: cts
+name: 新千歳空港
+kana: しんちとせくうこう
+type: airport
+code: CTS
+prefectures:
+- 北海道
+tags:
+- 北海道の玄関

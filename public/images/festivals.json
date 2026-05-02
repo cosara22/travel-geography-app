@@ -1,0 +1,272 @@
+{
+  "aoi_matsuri": {
+    "qid": "Q773085",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aoi_Matsuri.jpg/500px-Aoi_Matsuri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aoi_Matsuri.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Japanexperterna",
+    "fetched_at": "2026-05-02"
+  },
+  "aomori_owarara": {
+    "qid": "Q2071242",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kazenobon01.jpg/500px-Kazenobon01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kazenobon01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Jinzuu",
+    "fetched_at": "2026-05-02"
+  },
+  "awa_odori": {
+    "qid": "Q1185363",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Awa-odori_2008_Tokushima_03.jpg/500px-Awa-odori_2008_Tokushima_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima_03.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Rosino",
+    "fetched_at": "2026-05-02"
+  },
+  "chichibu_yomatsuri": {
+    "qid": "Q11596116",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChichibuFes1.jpg/500px-ChichibuFes1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:ChichibuFes1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ちちびあん",
+    "fetched_at": "2026-05-02"
+  },
+  "gion_matsuri": {
+    "qid": "Q979873",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gion_Matsuri_2017-5.jpg/500px-Gion_Matsuri_2017-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gion_Matsuri_2017-5.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "江戸村のとくぞう",
+    "fetched_at": "2026-05-02"
+  },
+  "gujo_odori": {
+    "qid": "Q6430768",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gujo_Odori2.jpg/500px-Gujo_Odori2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gujo_Odori2.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "郡上市観光課",
+    "fetched_at": "2026-05-02"
+  },
+  "hakata_dontaku": {
+    "qid": "Q11408926",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hakata_Dontaku_78338697_org.jpg/500px-Hakata_Dontaku_78338697_org.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hakata_Dontaku_78338697_org.jpg",
+    "license": "CC BY-SA 2.1 jp",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "author": "フェレス",
+    "fetched_at": "2026-05-02"
+  },
+  "hakata_yamakasa": {
+    "qid": "Q1749262",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hakata_gion_yamakasa_2005_01.jpg/500px-Hakata_gion_yamakasa_2005_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hakata_gion_yamakasa_2005_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Pontafon",
+    "fetched_at": "2026-05-02"
+  },
+  "hirosaki_neputa": {
+    "qid": "Q11487200",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%C5%8Cgi_Neputa.jpg/500px-%C5%8Cgi_Neputa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%C5%8Cgi_Neputa.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Rosino",
+    "fetched_at": "2026-05-02"
+  },
+  "jidai_matsuri": {
+    "qid": "Q912124",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JidaiMatsuri_Gohouren.jpg/500px-JidaiMatsuri_Gohouren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JidaiMatsuri_Gohouren.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "PlusMinus",
+    "fetched_at": "2026-05-02"
+  },
+  "kanda_matsuri": {
+    "qid": "Q218646",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kanda_Matsuri_2009-1_in_Akihabara.jpg/500px-Kanda_Matsuri_2009-1_in_Akihabara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kanda_Matsuri_2009-1_in_Akihabara.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Jose Fernando from Tokyo, Japan",
+    "fetched_at": "2026-05-02"
+  },
+  "kanto": {
+    "qid": "Q4701224",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Akita_Kanto_Festival_2017.jpg/500px-Akita_Kanto_Festival_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akita_Kanto_Festival_2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "karatsu_kunchi": {
+    "qid": "Q493695",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hikiyama.jpg/500px-Hikiyama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hikiyama.jpg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "kishiwada_danjiri": {
+    "qid": "Q6416609",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kishiwada-Danjiri-Matsuri_Osaka_Japan.jpg/500px-Kishiwada-Danjiri-Matsuri_Osaka_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kishiwada-Danjiri-Matsuri_Osaka_Japan.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Kounosu",
+    "fetched_at": "2026-05-02"
+  },
+  "nada_kenka": {
+    "qid": "Q11566794",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nada_no_Kenka_matsuri_04.jpg/500px-Nada_no_Kenka_matsuri_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nada_no_Kenka_matsuri_04.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Corpse Reviver",
+    "fetched_at": "2026-05-02"
+  },
+  "nagasaki_kunchi": {
+    "qid": "Q114712",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jaodori_of_Nagasaki_Kunchi.jpg/500px-Jaodori_of_Nagasaki_Kunchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Jaodori_of_Nagasaki_Kunchi.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Marine-Blue",
+    "fetched_at": "2026-05-02"
+  },
+  "nebuta": {
+    "qid": "Q862407",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aomori_Nebuta_Festival_Float_August_2006.jpg/500px-Aomori_Nebuta_Festival_Float_August_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aomori_Nebuta_Festival_Float_August_2006.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Fisherman",
+    "fetched_at": "2026-05-02"
+  },
+  "nishimonai_bon": {
+    "qid": "Q11630000",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nishimonai_Bon_Odori.jpg/500px-Nishimonai_Bon_Odori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nishimonai_Bon_Odori.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rufiyaa",
+    "fetched_at": "2026-05-02"
+  },
+  "onbashira": {
+    "qid": "Q3698846",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ONBASHIRA_festival_%28tree_drop%29_Nagano%2CJAPAN.jpg/500px-ONBASHIRA_festival_%28tree_drop%29_Nagano%2CJAPAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:ONBASHIRA_festival_(tree_drop)_Nagano,JAPAN.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Si-take. at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "sanja_matsuri": {
+    "qid": "Q219122",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/View_of_mikoshi_from_sensoji_Sanja_Matsuri_2006-3.jpg/500px-View_of_mikoshi_from_sensoji_Sanja_Matsuri_2006-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:View_of_mikoshi_from_sensoji_Sanja_Matsuri_2006-3.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "View_of_mikoshi_from_sensoji_Sanja_Matsuri_2006-2.jpg: *View…",
+    "fetched_at": "2026-05-02"
+  },
+  "sendai_tanabata": {
+    "qid": "Q9385159",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sendai_Tanabata_2023.jpg/500px-Sendai_Tanabata_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sendai_Tanabata_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "souma_nomaoi": {
+    "qid": "Q11582543",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Soma_Nomaoi_2005-5.jpg/500px-The_Soma_Nomaoi_2005-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:The_Soma_Nomaoi_2005-5.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "PekePON",
+    "fetched_at": "2026-05-02"
+  },
+  "takayama_matsuri": {
+    "qid": "Q7677467",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%E5%A4%A7%E5%9B%BD%E5%8F%B0_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%29_-_panoramio_%282%29.jpg/500px-%E5%A4%A7%E5%9B%BD%E5%8F%B0_%28%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82%29_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%9B%BD%E5%8F%B0_(%E5%B2%90%E9%98%9C%E7%9C%8C%E9%AB%98%E5%B1%B1%E5%B8%82)_-_panoramio_(2).jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "gundam2345",
+    "fetched_at": "2026-05-02"
+  },
+  "tenjin_matsuri": {
+    "qid": "Q5371810",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/120725_Osaka_Tenjinmatsuri_Japan08bs.jpg/500px-120725_Osaka_Tenjinmatsuri_Japan08bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:120725_Osaka_Tenjinmatsuri_Japan08bs.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "yamagata_hanagasa": {
+    "qid": "Q109930449",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hanagasa_Festa_2002.jpg/500px-Hanagasa_Festa_2002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hanagasa_Festa_2002.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "No machine-readable author provided. Crown of Lenten rose as…",
+    "fetched_at": "2026-05-02"
+  },
+  "yosakoi": {
+    "qid": "Q11255132",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2005_65.jpg/500px-Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2005_65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yosakoi_Performers_at_Kochi_Yosakoi_Matsuri_2005_65.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "工房 やまもも",
+    "fetched_at": "2026-05-02"
+  },
+  "yosakoi_soran": {
+    "qid": "Q11255141",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/YOSAKOI_Soran_Festival.jpg/500px-YOSAKOI_Soran_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:YOSAKOI_Soran_Festival.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "もんもん at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "yuki_matsuri": {
+    "qid": "Q929531",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SapporoFestival8.JPG/500px-SapporoFestival8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SapporoFestival8.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Materialscientist",
+    "fetched_at": "2026-05-02"
+  },
+  "kasai_matsuri": {
+    "qid": "Q11627549",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kinryouzan_Saidaiji_01.JPG/500px-Kinryouzan_Saidaiji_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kinryouzan_Saidaiji_01.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "by Reggaeman",
+    "fetched_at": "2026-05-02"
+  },
+  "omizutori": {
+    "qid": "Q9302453",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Omizutori.jpg/500px-Omizutori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Omizutori.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "en:User:Kansaikiwi",
+    "fetched_at": "2026-05-02"
+  }
+}

@@ -1,0 +1,12 @@
+id: train_suite_shikishima
+name: TRAIN SUITE 四季島
+kana: トレインスイートしきしま
+type: tourist_railway
+prefectures:
+- 東京都
+- 北海道
+- 青森県
+- 岩手県
+tags:
+- クルーズトレイン
+- JR東日本

@@ -1,0 +1,72 @@
+{
+  "world_heritage": {
+    "file": "world_heritage.json",
+    "count": 24,
+    "updated": "2026-05-02"
+  },
+  "national_parks": {
+    "file": "national_parks.json",
+    "count": 34,
+    "updated": "2026-05-02"
+  },
+  "onsen": {
+    "file": "onsen.json",
+    "count": 37,
+    "updated": "2026-05-02"
+  },
+  "festivals": {
+    "file": "festivals.json",
+    "count": 30,
+    "updated": "2026-05-02"
+  },
+  "cuisine": {
+    "file": "cuisine.json",
+    "count": 72,
+    "updated": "2026-05-02"
+  },
+  "attractions": {
+    "file": "attractions.json",
+    "count": 584,
+    "updated": "2026-05-02"
+  },
+  "mountains": {
+    "file": "mountains.json",
+    "count": 127,
+    "updated": "2026-05-02"
+  },
+  "islands": {
+    "file": "islands.json",
+    "count": 77,
+    "updated": "2026-05-02"
+  },
+  "lakes": {
+    "file": "lakes.json",
+    "count": 53,
+    "updated": "2026-05-02"
+  },
+  "capes": {
+    "file": "capes.json",
+    "count": 55,
+    "updated": "2026-05-02"
+  },
+  "rivers": {
+    "file": "rivers.json",
+    "count": 101,
+    "updated": "2026-05-02"
+  },
+  "stations": {
+    "file": "stations.json",
+    "count": 200,
+    "updated": "2026-05-02"
+  },
+  "airports": {
+    "file": "airports.json",
+    "count": 82,
+    "updated": "2026-05-02"
+  },
+  "jr_lines": {
+    "file": "jr_lines.json",
+    "count": 205,
+    "updated": "2026-05-02"
+  }
+}

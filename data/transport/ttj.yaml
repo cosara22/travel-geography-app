@@ -1,0 +1,9 @@
+id: ttj
+name: 鳥取砂丘コナン空港
+kana: とっとりさきゅうコナンくうこう
+type: airport
+code: TTJ
+prefectures:
+- 鳥取県
+tags:
+- コナン

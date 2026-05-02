@@ -1,0 +1,13 @@
+id: kurokawa
+name: 黒川温泉
+kana: くろかわおんせん
+prefecture: 熊本県
+category: onsen
+location:
+  city: 南小国町
+spring_quality:
+- 塩化物泉
+- 硫黄泉
+tags:
+- 入湯手形
+- 山あいの温泉

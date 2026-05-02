@@ -1,0 +1,14 @@
+id: kii_sacred_sites
+name: 紀伊山地の霊場と参詣道
+kana: きいさんちのれいじょうとさんけいみち
+type: cultural
+year: 2004
+prefectures:
+- 奈良県
+- 和歌山県
+- 三重県
+components:
+- 吉野・大峯（奈良）
+- 熊野三山（和歌山）
+- 高野山（和歌山）
+- 熊野古道（中辺路・小辺路・大辺路・伊勢路・大峯奥駈道）

@@ -1,0 +1,10 @@
+id: horyuji
+name: 法隆寺地域の仏教建造物
+kana: ほうりゅうじちいきのぶっきょうけんぞうぶつ
+type: cultural
+year: 1993
+prefectures:
+- 奈良県
+components:
+- 法隆寺
+- 法起寺

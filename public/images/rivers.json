@@ -1,0 +1,911 @@
+{
+  "木曽川": {
+    "qid": "Q779607",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kiso_River_from_Sarubami_Castle_2010-11-23.jpg/500px-Kiso_River_from_Sarubami_Castle_2010-11-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kiso_River_from_Sarubami_Castle_2010-11-23.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "庄内川": {
+    "qid": "Q7506182",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Scene_Johoku_and_Sh%C5%8Dnai_River_bridge.JPG/500px-The_Scene_Johoku_and_Sh%C5%8Dnai_River_bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:The_Scene_Johoku_and_Sh%C5%8Dnai_River_bridge.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "矢作川": {
+    "qid": "Q1132256",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/View_of_Toyota-ohashi_Bridge_from_Kyucho-bashi_Bridge%2C_Toyota_2012.jpg/500px-View_of_Toyota-ohashi_Bridge_from_Kyucho-bashi_Bridge%2C_Toyota_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:View_of_Toyota-ohashi_Bridge_from_Kyucho-bashi_Bridge,_Toyota_2012.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tomio344456",
+    "fetched_at": "2026-05-02"
+  },
+  "豊川": {
+    "qid": "Q11633588",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Toyokawa_Bridge1.jpg/500px-Toyokawa_Bridge1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Toyokawa_Bridge1.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Darklanlan",
+    "fetched_at": "2026-05-02"
+  },
+  "雄物川": {
+    "qid": "Q1513968",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OmonogawaBridge.jpg/500px-OmonogawaBridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:OmonogawaBridge.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "ALVE",
+    "fetched_at": "2026-05-02"
+  },
+  "米代川": {
+    "qid": "Q11603978",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kimimatisaka.JPG/500px-Kimimatisaka.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kimimatisaka.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "らんで",
+    "fetched_at": "2026-05-02"
+  },
+  "抱返り渓谷": {
+    "qid": "Q10856424",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_of_Dakigaeri_Gorge_from_Kami-no-iwahashi_Bridge.jpg/500px-View_of_Dakigaeri_Gorge_from_Kami-no-iwahashi_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:View_of_Dakigaeri_Gorge_from_Kami-no-iwahashi_Bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "奥入瀬渓流": {
+    "qid": "Q10942580",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/500px-Oirase-keiryu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oirase-keiryu.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "岩木川": {
+    "qid": "Q5359180",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Iwaki_River_Goshogawara.jpg/500px-Iwaki_River_Goshogawara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Iwaki_River_Goshogawara.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "利根川（茨城県境、河口は銚子）": {
+    "qid": "Q177452",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/KurihashiSuiiKansokujo2005-6.jpg/500px-KurihashiSuiiKansokujo2005-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:KurihashiSuiiKansokujo2005-6.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "No machine-readable author provided. Kinori assumed (based o…",
+    "fetched_at": "2026-05-02"
+  },
+  "江戸川（東京境）": {
+    "qid": "Q1194505",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/EdoGawa2004.jpg/500px-EdoGawa2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:EdoGawa2004.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "No machine-readable author provided. Kinori assumed (based o…",
+    "fetched_at": "2026-05-02"
+  },
+  "肱川（大洲）": {
+    "qid": "Q11611628",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/R%C3%ADo_Hijikawa_-_Castillo_Ozu.jpg/500px-R%C3%ADo_Hijikawa_-_Castillo_Ozu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Hijikawa_-_Castillo_Ozu.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "重信川": {
+    "qid": "Q11644695",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rio_Shigenobugawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Rio_Shigenobugawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Original uploader was Myaataro at ja.wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "九頭竜川": {
+    "qid": "Q6449325",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mouth_of_Kuzuryu_river_200507.jpg/500px-Mouth_of_Kuzuryu_river_200507.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mouth_of_Kuzuryu_river_200507.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "足羽川（福井市）": {
+    "qid": "Q3307289",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Row_of_sakura%2C_Asuwa_River%2C_Fukui.jpg/500px-Row_of_sakura%2C_Asuwa_River%2C_Fukui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Row_of_sakura,_Asuwa_River,_Fukui.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "HarueFukuiJapan",
+    "fetched_at": "2026-05-02"
+  },
+  "筑後川（九州最大の川、筑紫次郎）": {
+    "qid": "Q954320",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chikugo_river_up20060426.jpg/500px-Chikugo_river_up20060426.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chikugo_river_up20060426.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "那珂川": {
+    "qid": "Q1076983",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nakagawa_Mito.jpg/500px-Nakagawa_Mito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nakagawa_Mito.jpg",
+    "license": "GFDL",
+    "license_url": "http://www.gnu.org/copyleft/fdl.html",
+    "author": "Chinchilla at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "遠賀川": {
+    "qid": "Q11642388",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ongagawa_River_from_Ongabashi_Bridge_%28north%29_5.jpg/500px-Ongagawa_River_from_Ongabashi_Bridge_%28north%29_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ongagawa_River_from_Ongabashi_Bridge_(north)_5.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ (Soramimi)",
+    "fetched_at": "2026-05-02"
+  },
+  "矢部川": {
+    "qid": "Q11584292",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Yabegawa_kurogi.jpg/500px-Yabegawa_kurogi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yabegawa_kurogi.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "User:みんと",
+    "fetched_at": "2026-05-02"
+  },
+  "阿武隈川": {
+    "qid": "Q335853",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Abukuma_River%2C_Fukushima_City%2C_Japan.JPG/500px-Abukuma_River%2C_Fukushima_City%2C_Japan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Abukuma_River,_Fukushima_City,_Japan.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Brian Adler (BrianAdler)",
+    "fetched_at": "2026-05-02"
+  },
+  "只見川": {
+    "qid": "Q7674310",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tadamigawa-River_at_Tadami%2C_Tadami%2C_Fukushima.jpg/500px-Tadamigawa-River_at_Tadami%2C_Tadami%2C_Fukushima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tadamigawa-River_at_Tadami,_Tadami,_Fukushima.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Taken by me (Breakover).",
+    "fetched_at": "2026-05-02"
+  },
+  "木曽川（木曽三川）": {
+    "qid": "Q779607",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kiso_River_from_Sarubami_Castle_2010-11-23.jpg/500px-Kiso_River_from_Sarubami_Castle_2010-11-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kiso_River_from_Sarubami_Castle_2010-11-23.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "alpsdake",
+    "fetched_at": "2026-05-02"
+  },
+  "長良川（清流、鵜飼）": {
+    "qid": "Q1194094",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chidori-Bashi-Gifu01.JPG/500px-Chidori-Bashi-Gifu01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chidori-Bashi-Gifu01.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Monami",
+    "fetched_at": "2026-05-02"
+  },
+  "揖斐川（木曽三川）": {
+    "qid": "Q1204160",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ibigawa_Kaizu.jpg/500px-Ibigawa_Kaizu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ibigawa_Kaizu.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "飛騨川": {
+    "qid": "Q3366160",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gero-onsen01s3200.jpg/500px-Gero-onsen01s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gero-onsen01s3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "渡良瀬川": {
+    "qid": "Q3566607",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Watarase~river.JPG/500px-Watarase~river.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Watarase~river.JPG",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "ホッカイロ",
+    "fetched_at": "2026-05-02"
+  },
+  "吾妻川": {
+    "qid": "Q1636255",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Agatsuma_River_as_seen_from_Mihara_Bridge_in_Tsumagoi_village_Gunma_prefecture_Japan_20111008_0938_photo_by_Pcs34560.jpg/500px-Agatsuma_River_as_seen_from_Mihara_Bridge_in_Tsumagoi_village_Gunma_prefecture_Japan_20111008_0938_photo_by_Pcs34560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Agatsuma_River_as_seen_from_Mihara_Bridge_in_Tsumagoi_village_Gunma_prefecture_Japan_20111008_0938_photo_by_Pcs34560.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "pcs34560 from jawp This photo was taken with Canon EOS 500D",
+    "fetched_at": "2026-05-02"
+  },
+  "太田川（広島市デルタ）": {
+    "qid": "Q386095",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ryuoh_Bridge_at_Hiroshima_pt1.jpg/500px-Ryuoh_Bridge_at_Hiroshima_pt1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ryuoh_Bridge_at_Hiroshima_pt1.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Ujinaport",
+    "fetched_at": "2026-05-02"
+  },
+  "江の川（島根との境）": {
+    "qid": "Q2090210",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tomoe_bridge_Miyoshi.jpg/500px-Tomoe_bridge_Miyoshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tomoe_bridge_Miyoshi.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Ozizo",
+    "fetched_at": "2026-05-02"
+  },
+  "石狩川": {
+    "qid": "Q1061515",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ishikari-gawa-at-shintosukawa.jpg/500px-Ishikari-gawa-at-shintosukawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ishikari-gawa-at-shintosukawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "SN74LS00",
+    "fetched_at": "2026-05-02"
+  },
+  "十勝川": {
+    "qid": "Q3491135",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tokachi_river.JPG/500px-Tokachi_river.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokachi_river.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "星組背番号10",
+    "fetched_at": "2026-05-02"
+  },
+  "天塩川": {
+    "qid": "Q1184865",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Teshio_River-01.jpg/500px-Teshio_River-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Teshio_River-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Tnk3a",
+    "fetched_at": "2026-05-02"
+  },
+  "阿寒川": {
+    "qid": "Q3647369",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Akan_Riv_1.JPG/500px-Akan_Riv_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akan_Riv_1.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Highten31",
+    "fetched_at": "2026-05-02"
+  },
+  "武庫川": {
+    "qid": "Q6933569",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mukogawa01.jpg/500px-Mukogawa01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mukogawa01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Mass Ave 975",
+    "fetched_at": "2026-05-02"
+  },
+  "揖保川": {
+    "qid": "Q11498396",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ibo_River_Tatsuno_Hyogo01n4272.jpg/500px-Ibo_River_Tatsuno_Hyogo01n4272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ibo_River_Tatsuno_Hyogo01n4272.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "加古川": {
+    "qid": "Q11398501",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kakogawa-Bridge-JR223.jpg/500px-Kakogawa-Bridge-JR223.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kakogawa-Bridge-JR223.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "由良川（一部）": {
+    "qid": "Q11577617",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yura_River_in_Nantan_city_3.jpg/500px-Yura_River_in_Nantan_city_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yura_River_in_Nantan_city_3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Indiana jo",
+    "fetched_at": "2026-05-02"
+  },
+  "久慈川": {
+    "qid": "Q11369332",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kuji_River_13.jpg/500px-Kuji_River_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kuji_River_13.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Σ64",
+    "fetched_at": "2026-05-02"
+  },
+  "鬼怒川（栃木・茨城・千葉）": {
+    "qid": "Q1042040",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tochigi%2C_Utsunomiya%2C_Kinu_river_%286243914032%29.jpg/500px-Tochigi%2C_Utsunomiya%2C_Kinu_river_%286243914032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tochigi,_Utsunomiya,_Kinu_river_(6243914032).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "motoshi ohmori from tokyo, JAPAN",
+    "fetched_at": "2026-05-02"
+  },
+  "浅野川（金沢）": {
+    "qid": "Q11557352",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%E6%B5%85%E9%87%8E%E5%B7%9D_-_panoramio.jpg/500px-%E6%B5%85%E9%87%8E%E5%B7%9D_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E6%B5%85%E9%87%8E%E5%B7%9D_-_panoramio.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "くろふね",
+    "fetched_at": "2026-05-02"
+  },
+  "大聖寺川": {
+    "qid": "Q11438532",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Daisyoujigawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Daisyoujigawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Akimoto",
+    "fetched_at": "2026-05-02"
+  },
+  "北上川": {
+    "qid": "Q1348297",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Morioka_and_Mount_Iwate_and_River_Kitakami_in_May_2019.jpg/500px-Morioka_and_Mount_Iwate_and_River_Kitakami_in_May_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Morioka_and_Mount_Iwate_and_River_Kitakami_in_May_2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Yuichi Shiraishi",
+    "fetched_at": "2026-05-02"
+  },
+  "土器川": {
+    "qid": "Q10927655",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dokigawa_hourai.jpg/500px-Dokigawa_hourai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Dokigawa_hourai.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "川内川": {
+    "qid": "Q3478526",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sendaigawa-estuaire_%28Miyazaki%29.jpg/500px-Sendaigawa-estuaire_%28Miyazaki%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sendaigawa-estuaire_(Miyazaki).jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "KEI at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "多摩川": {
+    "qid": "Q1063006",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tamagawa-sakaihasi.JPG/500px-Tamagawa-sakaihasi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tamagawa-sakaihasi.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Σ64",
+    "fetched_at": "2026-05-02"
+  },
+  "相模川": {
+    "qid": "Q612253",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sagamigawa.JPG/500px-Sagamigawa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sagamigawa.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Σ64",
+    "fetched_at": "2026-05-02"
+  },
+  "四万十川（日本最後の清流、最長195km）": {
+    "qid": "Q124878",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Spring_in_Shimanto_River.jpg/500px-Spring_in_Shimanto_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Spring_in_Shimanto_River.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "鍋太郎",
+    "fetched_at": "2026-05-02"
+  },
+  "仁淀川（仁淀ブルー）": {
+    "qid": "Q9071989",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Niyodogawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niyodogawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "hiroshin3",
+    "fetched_at": "2026-05-02"
+  },
+  "物部川": {
+    "qid": "Q11570692",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kami_Kochi_Monobegawa_Sinzaisyobasi_1.jpg/500px-Kami_Kochi_Monobegawa_Sinzaisyobasi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kami_Kochi_Monobegawa_Sinzaisyobasi_1.jpg",
+    "license": "Copyrighted free use",
+    "license_url": "",
+    "author": "京浜にけ",
+    "fetched_at": "2026-05-02"
+  },
+  "球磨川（日本三大急流）": {
+    "qid": "Q1358183",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kumagawa_Shiroishi.jpg/500px-Kumagawa_Shiroishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kumagawa_Shiroishi.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "緑川": {
+    "qid": "Q11607819",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Reitai_Bridge_01.jpg/500px-Reitai_Bridge_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Reitai_Bridge_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Taken by YAPON(ja:利用者:YAPON)",
+    "fetched_at": "2026-05-02"
+  },
+  "五十鈴川（伊勢神宮）": {
+    "qid": "Q6089522",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Uji-bashi_01.JPG/500px-Uji-bashi_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Uji-bashi_01.JPG",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "No machine-readable author provided. N yotarou assumed (base…",
+    "fetched_at": "2026-05-02"
+  },
+  "熊野川（和歌山県境）": {
+    "qid": "Q1972071",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kumanogawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kumanogawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Miketsukunibito at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "名取川（秋保大滝）": {
+    "qid": "Q11414763",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/211029_Natori_River_Sendai_Miyagi_pref_Japan01s5.jpg/500px-211029_Natori_River_Sendai_Miyagi_pref_Japan01s5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:211029_Natori_River_Sendai_Miyagi_pref_Japan01s5.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "五ヶ瀬川（高千穂峡）": {
+    "qid": "Q3109953",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Takachiho-gorge.jpg/500px-Takachiho-gorge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Takachiho-gorge.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "Takasunrise0921",
+    "fetched_at": "2026-05-02"
+  },
+  "大淀川": {
+    "qid": "Q3594062",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ooyodogawa_River.jpg/500px-Ooyodogawa_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ooyodogawa_River.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ray_go",
+    "fetched_at": "2026-05-02"
+  },
+  "一ツ瀬川": {
+    "qid": "Q3138665",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hitotsuse-river_Shintomi.jpg/500px-Hitotsuse-river_Shintomi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hitotsuse-river_Shintomi.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "耳川": {
+    "qid": "Q3314593",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mimikawa_Misato_Saigo_01.JPG/500px-Mimikawa_Misato_Saigo_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mimikawa_Misato_Saigo_01.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "ja:User:Sanjo",
+    "fetched_at": "2026-05-02"
+  },
+  "千曲川（県内、新潟で信濃川になる）": {
+    "qid": "Q734455",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Niigata_from_Bandaijima_Building_20200906.jpg/500px-Niigata_from_Bandaijima_Building_20200906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niigata_from_Bandaijima_Building_20200906.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "皓月旗",
+    "fetched_at": "2026-05-02"
+  },
+  "天竜川": {
+    "qid": "Q13667",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tenry%C5%AB_River_December_28%2C_2005.JPG/500px-Tenry%C5%AB_River_December_28%2C_2005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tenry%C5%AB_River_December_28,_2005.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Oneself",
+    "fetched_at": "2026-05-02"
+  },
+  "本明川": {
+    "qid": "Q11520395",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Honmyougawa1209.jpg/500px-Honmyougawa1209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Honmyougawa1209.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "ふうけ",
+    "fetched_at": "2026-05-02"
+  },
+  "吉野川（紀伊半島）": {
+    "qid": "Q979774",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ohashi-2303-r1.jpg/500px-Ohashi-2303-r1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ohashi-2303-r1.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "河川一等兵",
+    "fetched_at": "2026-05-02"
+  },
+  "熊野川": {
+    "qid": "Q1972071",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kumanogawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kumanogawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Miketsukunibito at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "大和川（大阪湾へ）": {
+    "qid": "Q9001527",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Yamato_River_in_Kashiwara%2C_Osaka001.JPG/500px-Yamato_River_in_Kashiwara%2C_Osaka001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yamato_River_in_Kashiwara,_Osaka001.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Kansai explorer",
+    "fetched_at": "2026-05-02"
+  },
+  "信濃川（日本一長い、長野で千曲川）": {
+    "qid": "Q734455",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Niigata_from_Bandaijima_Building_20200906.jpg/500px-Niigata_from_Bandaijima_Building_20200906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niigata_from_Bandaijima_Building_20200906.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "皓月旗",
+    "fetched_at": "2026-05-02"
+  },
+  "阿賀野川": {
+    "qid": "Q390458",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Agano_River.jpg/500px-Agano_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Agano_River.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Triglav",
+    "fetched_at": "2026-05-02"
+  },
+  "清津川（清津峡）": {
+    "qid": "Q11561259",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kiyotsukyo_Summer.jpg/500px-Kiyotsukyo_Summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kiyotsukyo_Summer.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "清兵衛 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "大分川": {
+    "qid": "Q11432686",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Oita_River_and_Bridges.jpg/500px-Oita_River_and_Bridges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oita_River_and_Bridges.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Project Kei",
+    "fetched_at": "2026-05-02"
+  },
+  "大野川": {
+    "qid": "Q3594042",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ono-gawa_Inukai.jpg/500px-Ono-gawa_Inukai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ono-gawa_Inukai.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "山国川（耶馬渓）": {
+    "qid": "Q11467676",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Divergence_of_Yamakunigawa_river_and_Nakatsugawa_river.jpg/500px-Divergence_of_Yamakunigawa_river_and_Nakatsugawa_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Divergence_of_Yamakunigawa_river_and_Nakatsugawa_river.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Twilight2640 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "高梁川": {
+    "qid": "Q1132339",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Takahashi_River_near_Kiyone_Station.jpg/500px-Takahashi_River_near_Kiyone_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Takahashi_River_near_Kiyone_Station.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "吉井川": {
+    "qid": "Q11412583",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tenjinyama_Castle_02.JPG/500px-Tenjinyama_Castle_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tenjinyama_Castle_02.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "by Reggaeman",
+    "fetched_at": "2026-05-02"
+  },
+  "浦内川（西表島最大）": {
+    "qid": "Q4521517",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Urauchi_River_Iriomote_2007-04-05.jpg/500px-Urauchi_River_Iriomote_2007-04-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Urauchi_River_Iriomote_2007-04-05.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "No machine-readable author provided. Geomr~commonswiki assum…",
+    "fetched_at": "2026-05-02"
+  },
+  "仲間川（西表島）": {
+    "qid": "Q11378628",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nakama_River_Iriomote_Okinawa_Japan06s3.jpg/500px-Nakama_River_Iriomote_Okinawa_Japan06s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nakama_River_Iriomote_Okinawa_Japan06s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "淀川（琵琶湖を源、大阪湾に注ぐ）": {
+    "qid": "Q1140505",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Yodogawa_1.jpg/500px-Yodogawa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yodogawa_1.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Hyougushi's photos",
+    "fetched_at": "2026-05-02"
+  },
+  "嘉瀬川": {
+    "qid": "Q11419428",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kase-river_Saga.jpg/500px-Kase-river_Saga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kase-river_Saga.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "利根川": {
+    "qid": "Q177452",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/KurihashiSuiiKansokujo2005-6.jpg/500px-KurihashiSuiiKansokujo2005-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:KurihashiSuiiKansokujo2005-6.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "No machine-readable author provided. Kinori assumed (based o…",
+    "fetched_at": "2026-05-02"
+  },
+  "安曇川": {
+    "qid": "Q11450763",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Adogawa_Kosei-line.jpg/500px-Adogawa_Kosei-line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Adogawa_Kosei-line.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "野洲川": {
+    "qid": "Q8049935",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yasu_River_park.jpg/500px-Yasu_River_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yasu_River_park.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Douggers",
+    "fetched_at": "2026-05-02"
+  },
+  "斐伊川（出雲、ヤマタノオロチ伝説）": {
+    "qid": "Q11500714",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hiikawa_river.jpg/500px-Hiikawa_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hiikawa_river.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "As6022014",
+    "fetched_at": "2026-05-02"
+  },
+  "大井川（蓬莱橋・SL）": {
+    "qid": "Q1044017",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SumataRiverMeetsOiJP22Feb05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page_url": "https://commons.wikimedia.org/wiki/File:SumataRiverMeetsOiJP22Feb05.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "安倍川": {
+    "qid": "Q318136",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Abekawa_Shizuoka.jpg/500px-Abekawa_Shizuoka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Abekawa_Shizuoka.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Chichilla",
+    "fetched_at": "2026-05-02"
+  },
+  "富士川": {
+    "qid": "Q596110",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fuji-fujigawa.jpg/500px-Fuji-fujigawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fuji-fujigawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ans~jawiki at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "鬼怒川": {
+    "qid": "Q1042040",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tochigi%2C_Utsunomiya%2C_Kinu_river_%286243914032%29.jpg/500px-Tochigi%2C_Utsunomiya%2C_Kinu_river_%286243914032%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tochigi,_Utsunomiya,_Kinu_river_(6243914032).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "motoshi ohmori from tokyo, JAPAN",
+    "fetched_at": "2026-05-02"
+  },
+  "那賀川": {
+    "qid": "Q11642863",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%E9%82%A3%E8%B3%80%E5%B7%9D%EF%BC%88%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E5%8D%97%E5%B8%82%EF%BC%89.JPG/500px-%E9%82%A3%E8%B3%80%E5%B7%9D%EF%BC%88%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E5%8D%97%E5%B8%82%EF%BC%89.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E9%82%A3%E8%B3%80%E5%B7%9D%EF%BC%88%E5%BE%B3%E5%B3%B6%E7%9C%8C%E9%98%BF%E5%8D%97%E5%B8%82%EF%BC%89.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Jsqwfthbfs",
+    "fetched_at": "2026-05-02"
+  },
+  "祖谷川（祖谷渓）": {
+    "qid": "Q11588555",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Iya_Valley_01.jpg/500px-Iya_Valley_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Iya_Valley_01.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "na0905",
+    "fetched_at": "2026-05-02"
+  },
+  "隅田川": {
+    "qid": "Q222149",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sumida-gawa_2023-08-21_%2806%29.jpg/500px-Sumida-gawa_2023-08-21_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sumida-gawa_2023-08-21_(06).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mauricio V. Genta",
+    "fetched_at": "2026-05-02"
+  },
+  "千代川": {
+    "qid": "Q7450175",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sakuradote02_1920.jpg/500px-Sakuradote02_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sakuradote02_1920.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "天神川": {
+    "qid": "Q16141827",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tenjin_river_Tottori_Japan.JPG/500px-Tenjin_river_Tottori_Japan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tenjin_river_Tottori_Japan.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Triglav",
+    "fetched_at": "2026-05-02"
+  },
+  "日野川": {
+    "qid": "Q3307256",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hino_River_near_Yonago%2C_Tottori%2C_Japan.jpg/500px-Hino_River_near_Yonago%2C_Tottori%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hino_River_near_Yonago,_Tottori,_Japan.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "黒部川（黒部峡谷）": {
+    "qid": "Q1132271",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kurobe_kyokoku_view_from_Kurobe_Dam.jpg/500px-Kurobe_kyokoku_view_from_Kurobe_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kurobe_kyokoku_view_from_Kurobe_Dam.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Qurren",
+    "fetched_at": "2026-05-02"
+  },
+  "庄川": {
+    "qid": "Q7506083",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sho_River_%28Gifu_%26_Toyama%2C_Japan%29_1.jpg/500px-Sho_River_%28Gifu_%26_Toyama%2C_Japan%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sho_River_(Gifu_%26_Toyama,_Japan)_1.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "柑橘類 (talk)",
+    "fetched_at": "2026-05-02"
+  },
+  "神通川": {
+    "qid": "Q1156518",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Zinzugawa002.jpg/500px-Zinzugawa002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Zinzugawa002.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "ネプチューン",
+    "fetched_at": "2026-05-02"
+  },
+  "紀の川": {
+    "qid": "Q1042624",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kinokawa_Wakayama.jpg/500px-Kinokawa_Wakayama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kinokawa_Wakayama.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Takato Marui (w:Flickr user m-louis)",
+    "fetched_at": "2026-05-02"
+  },
+  "古座川": {
+    "qid": "Q11411252",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kozagawa_Takaike.jpg/500px-Kozagawa_Takaike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kozagawa_Takaike.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "最上川（日本三大急流）": {
+    "qid": "Q596120",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mogamigawa-kawakudari.jpg/500px-Mogamigawa-kawakudari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mogamigawa-kawakudari.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Yen80 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "赤川": {
+    "qid": "Q11635570",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Akagawa_Tsuruoka.jpg/500px-Akagawa_Tsuruoka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akagawa_Tsuruoka.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "User:Chinchilla",
+    "fetched_at": "2026-05-02"
+  },
+  "錦川（錦帯橋）": {
+    "qid": "Q7040592",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nishiki_River_from_Kintai_Bridge.jpg/500px-Nishiki_River_from_Kintai_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nishiki_River_from_Kintai_Bridge.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Umako",
+    "fetched_at": "2026-05-02"
+  },
+  "富士川（日本三大急流）": {
+    "qid": "Q596110",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fuji-fujigawa.jpg/500px-Fuji-fujigawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fuji-fujigawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ans~jawiki at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "笛吹川": {
+    "qid": "Q11599751",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fuefuki-river_Tamaho.jpg/500px-Fuefuki-river_Tamaho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fuefuki-river_Tamaho.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Bakkai",
+    "fetched_at": "2026-05-02"
+  },
+  "釜無川": {
+    "qid": "Q596110",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fuji-fujigawa.jpg/500px-Fuji-fujigawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fuji-fujigawa.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ans~jawiki at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  }
+}

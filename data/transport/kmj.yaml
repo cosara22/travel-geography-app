@@ -1,0 +1,8 @@
+id: kmj
+name: 阿蘇くまもと空港
+kana: あそくまもとくうこう
+type: airport
+code: KMJ
+prefectures:
+- 熊本県
+tags: []

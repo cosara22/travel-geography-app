@@ -1,0 +1,11 @@
+id: chuo_alps
+name: 中央アルプス国立公園
+kana: ちゅうおうアルプスこくりつこうえん
+category: national_park
+prefectures:
+- 長野県
+designation_year: 2020
+highlights:
+- 木曽駒ヶ岳
+- 宝剣岳
+- 千畳敷カール

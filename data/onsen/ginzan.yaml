@@ -1,0 +1,13 @@
+id: ginzan
+name: 銀山温泉
+kana: ぎんざんおんせん
+prefecture: 山形県
+category: onsen
+location:
+  city: 尾花沢市
+spring_quality:
+- 塩化物泉
+- 硫酸塩泉
+tags:
+- 大正ロマン
+- NHK朝ドラ『おしん』

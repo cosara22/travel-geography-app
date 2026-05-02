@@ -1,0 +1,15 @@
+id: tohoku_shinkansen
+name: 東北新幹線
+kana: とうほくしんかんせん
+type: shinkansen
+prefectures:
+- 東京都
+- 埼玉県
+- 栃木県
+- 福島県
+- 宮城県
+- 岩手県
+- 青森県
+tags:
+- JR東日本
+- はやぶさ

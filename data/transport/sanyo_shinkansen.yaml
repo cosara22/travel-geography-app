@@ -1,0 +1,13 @@
+id: sanyo_shinkansen
+name: 山陽新幹線
+kana: さんようしんかんせん
+type: shinkansen
+prefectures:
+- 大阪府
+- 兵庫県
+- 岡山県
+- 広島県
+- 山口県
+- 福岡県
+tags:
+- JR西日本

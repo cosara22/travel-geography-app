@@ -1,0 +1,12 @@
+id: takeo
+name: 武雄温泉
+kana: たけおおんせん
+prefecture: 佐賀県
+category: onsen
+location:
+  city: 武雄市
+spring_quality:
+- 塩化物泉
+tags:
+- 楼門
+- 辰野金吾設計

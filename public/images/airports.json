@@ -1,0 +1,740 @@
+{
+  "中部国際空港 (NGO、セントレア)": {
+    "qid": "Q679345",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chubu_Centrair_International_Airport_-_North_Wing_-_01.JPG/500px-Chubu_Centrair_International_Airport_-_North_Wing_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chubu_Centrair_International_Airport_-_North_Wing_-_01.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "JKT-c",
+    "fetched_at": "2026-05-02"
+  },
+  "県営名古屋空港 (NKM)": {
+    "qid": "Q1322497",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nagoya_airfiled201304.JPG/500px-Nagoya_airfiled201304.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagoya_airfiled201304.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "アラツク",
+    "fetched_at": "2026-05-02"
+  },
+  "秋田空港 (AXT)": {
+    "qid": "Q1336514",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Akita_Airport_Domestic_Terminal_20190602.jpg/500px-Akita_Airport_Domestic_Terminal_20190602.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akita_Airport_Domestic_Terminal_20190602.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "大館能代空港 (ONJ)": {
+    "qid": "Q1016960",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Odate-Noshiro_Airport_02.jpg/500px-Odate-Noshiro_Airport_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Odate-Noshiro_Airport_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Marho",
+    "fetched_at": "2026-05-02"
+  },
+  "青森空港 (AOJ)": {
+    "qid": "Q628429",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aomori_Airport_Aerial_photograph.2017.jpg/500px-Aomori_Airport_Aerial_photograph.2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aomori_Airport_Aerial_photograph.2017.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土地理院",
+    "fetched_at": "2026-05-02"
+  },
+  "三沢空港 (MSJ)": {
+    "qid": "Q1350451",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Misawa_Air_Base_Aerial_photograph_1975.jpg/500px-Misawa_Air_Base_Aerial_photograph_1975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Misawa_Air_Base_Aerial_photograph_1975.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "成田国際空港 (NRT、日本の表玄関)": {
+    "qid": "Q36454",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Narita_International_Air_Port_%28cropped%29.jpg/500px-Narita_International_Air_Port_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Narita_International_Air_Port_(cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "PSnyan",
+    "fetched_at": "2026-05-02"
+  },
+  "松山空港 (MYJ)": {
+    "qid": "Q255345",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matsuyama_Airport_Terminal_Bldg_20090807-001.jpg/500px-Matsuyama_Airport_Terminal_Bldg_20090807-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Matsuyama_Airport_Terminal_Bldg_20090807-001.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "J o",
+    "fetched_at": "2026-05-02"
+  },
+  "福岡空港 (FUK、市街地に近接)": {
+    "qid": "Q1137465",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fukuoka_Airport_Domestic_Terminal.jpg/500px-Fukuoka_Airport_Domestic_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fukuoka_Airport_Domestic_Terminal.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Nkmr844",
+    "fetched_at": "2026-05-02"
+  },
+  "北九州空港 (KKJ、24時間運用海上空港)": {
+    "qid": "Q594223",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kitakyushu_Airport_Access_Bridge_1010074.jpg/500px-Kitakyushu_Airport_Access_Bridge_1010074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kitakyushu_Airport_Access_Bridge_1010074.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Hiroshi Nakai",
+    "fetched_at": "2026-05-02"
+  },
+  "福島空港 (FKS)": {
+    "qid": "Q177473",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fukushima-Airport.jpg/500px-Fukushima-Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fukushima-Airport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Antonio Kwong (AkDoraemon 18:12, 11 August 2007 (UTC))",
+    "fetched_at": "2026-05-02"
+  },
+  "広島空港 (HIJ)": {
+    "qid": "Q82240",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hiroshima_airport_japan.jpg/500px-Hiroshima_airport_japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hiroshima_airport_japan.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "nattou",
+    "fetched_at": "2026-05-02"
+  },
+  "新千歳空港 (CTS)": {
+    "qid": "Q908296",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hokkaido_New_Chitose_Airport13n4272.jpg/500px-Hokkaido_New_Chitose_Airport13n4272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hokkaido_New_Chitose_Airport13n4272.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "函館空港 (HKD)": {
+    "qid": "Q1155685",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hakodate_Airport_Hokkaido_Japan06s3.jpg/500px-Hakodate_Airport_Hokkaido_Japan06s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hakodate_Airport_Hokkaido_Japan06s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "釧路空港 (KUH)": {
+    "qid": "Q1333925",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kushiro_airport01.JPG/500px-Kushiro_airport01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kushiro_airport01.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "221.20 (talk)",
+    "fetched_at": "2026-05-02"
+  },
+  "女満別空港 (MMB)": {
+    "qid": "Q651482",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Memanbetsu_Airport02n.jpg/500px-Memanbetsu_Airport02n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Memanbetsu_Airport02n.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "旭川空港 (AKJ)": {
+    "qid": "Q387048",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg/500px-140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:140724_Asahikawa_Airport_Hokkaido_Japan02s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "帯広空港 (OBO)": {
+    "qid": "Q1332254",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/131012_Obihiro_Airport_Hokkaido_Japan01s5.jpg/500px-131012_Obihiro_Airport_Hokkaido_Japan01s5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:131012_Obihiro_Airport_Hokkaido_Japan01s5.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "稚内空港 (WKJ)": {
+    "qid": "Q1368344",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wakkanai_Airport06111.jpg/500px-Wakkanai_Airport06111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wakkanai_Airport06111.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Furiko7e",
+    "fetched_at": "2026-05-02"
+  },
+  "紋別空港 (MBE)": {
+    "qid": "Q1432054",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monbetsu_Airport_Aerial_photograph.1977.jpg/500px-Monbetsu_Airport_Aerial_photograph.1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Monbetsu_Airport_Aerial_photograph.1977.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "中標津空港 (SHB)": {
+    "qid": "Q1432123",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Nakashibetsu_airport01.jpg/500px-Nakashibetsu_airport01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nakashibetsu_airport01.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "221.20 (talk)",
+    "fetched_at": "2026-05-02"
+  },
+  "利尻空港 (RIS)": {
+    "qid": "Q1049856",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rishiri-airport.jpg/500px-Rishiri-airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Rishiri-airport.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "しんかわな",
+    "fetched_at": "2026-05-02"
+  },
+  "神戸空港 (UKB)": {
+    "qid": "Q741372",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kobe_Airport06s5s3200.jpg/500px-Kobe_Airport06s5s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kobe_Airport06s5s3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "但馬空港 (TJH)": {
+    "qid": "Q1931194",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TajimaAirport.jpg/500px-TajimaAirport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:TajimaAirport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Nukebuster",
+    "fetched_at": "2026-05-02"
+  },
+  "茨城空港 (IBR、百里基地併用)": {
+    "qid": "Q1156420",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/003_Ibaraki_Airport%2C_Japan_-_%E7%99%BE%E9%87%8C%E9%A3%9B%E8%A1%8C%E5%A0%B4-%E7%99%BE%E9%87%8C%E5%9F%BA%E5%9C%B0.JPG/500px-003_Ibaraki_Airport%2C_Japan_-_%E7%99%BE%E9%87%8C%E9%A3%9B%E8%A1%8C%E5%A0%B4-%E7%99%BE%E9%87%8C%E5%9F%BA%E5%9C%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:003_Ibaraki_Airport,_Japan_-_%E7%99%BE%E9%87%8C%E9%A3%9B%E8%A1%8C%E5%A0%B4-%E7%99%BE%E9%87%8C%E5%9F%BA%E5%9C%B0.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Marek Ślusarczyk (Tupungato) Photo gallery",
+    "fetched_at": "2026-05-02"
+  },
+  "小松空港 (KMQ)": {
+    "qid": "Q1141511",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Komatsu_airport_terminal_building.jpg/500px-Komatsu_airport_terminal_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Komatsu_airport_terminal_building.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Shift at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "能登空港 (NTQ、のと里山空港)": {
+    "qid": "Q1432192",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Noto_Airport_20160528.jpg/500px-Noto_Airport_20160528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Noto_Airport_20160528.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Rsa",
+    "fetched_at": "2026-05-02"
+  },
+  "いわて花巻空港 (HNA)": {
+    "qid": "Q1320088",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hanamaki_airport_terminal.jpg/500px-Hanamaki_airport_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hanamaki_airport_terminal.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ・プラス",
+    "fetched_at": "2026-05-02"
+  },
+  "高松空港 (TAK)": {
+    "qid": "Q1334603",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TakamatsuKukou01.jpg/500px-TakamatsuKukou01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:TakamatsuKukou01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Toto-tarou",
+    "fetched_at": "2026-05-02"
+  },
+  "鹿児島空港 (KOJ)": {
+    "qid": "Q1156310",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kagoshima_Airport01n4592.jpg/500px-Kagoshima_Airport01n4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kagoshima_Airport01n4592.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "屋久島空港 (KUM)": {
+    "qid": "Q1433247",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yakushima_airport.JPG/500px-Yakushima_airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yakushima_airport.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "種子島空港 (TNE)": {
+    "qid": "Q1432159",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tanenewair.jpg/500px-Tanenewair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tanenewair.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Tubame2004 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "奄美空港 (ASJ)": {
+    "qid": "Q1430769",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Amami.airport.jpg/500px-Amami.airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Amami.airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ",
+    "fetched_at": "2026-05-02"
+  },
+  "喜界空港 (KKX)": {
+    "qid": "Q1927346",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kikai.airport2.jpg/500px-Kikai.airport2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kikai.airport2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ・プラス",
+    "fetched_at": "2026-05-02"
+  },
+  "沖永良部空港 (OKE)": {
+    "qid": "Q2901234",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Oke.JPG/500px-Oke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oke.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "与論空港 (RNJ)": {
+    "qid": "Q1927310",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Terminal_building_in_Yoron_Airport_Kagoshima%2C_JAPAN.jpg/500px-Terminal_building_in_Yoron_Airport_Kagoshima%2C_JAPAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Terminal_building_in_Yoron_Airport_Kagoshima,_JAPAN.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Si-take at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "高知龍馬空港 (KCZ)": {
+    "qid": "Q1156315",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg/500px-%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%9F%A5%E9%BE%8D%E9%A6%AC%E7%A9%BA%E6%B8%AF%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB_-_panoramio.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "r18 INO (PACHIMO)",
+    "fetched_at": "2026-05-02"
+  },
+  "阿蘇くまもと空港 (KMJ)": {
+    "qid": "Q1199773",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/En-Kumamoto_Airport_2007.jpg/500px-En-Kumamoto_Airport_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:En-Kumamoto_Airport_2007.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Kumamoto at English Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "天草空港 (AXJ)": {
+    "qid": "Q1073798",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amakusa-airport.JPG/500px-Amakusa-airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Amakusa-airport.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "まも",
+    "fetched_at": "2026-05-02"
+  },
+  "仙台空港 (SDJ)": {
+    "qid": "Q1054857",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/211028_Sendai_Airport_Sendai_Miyagi_prefecture_Japan01bs.jpg/500px-211028_Sendai_Airport_Sendai_Miyagi_prefecture_Japan01bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:211028_Sendai_Airport_Sendai_Miyagi_prefecture_Japan01bs.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "宮崎空港 (KMI)": {
+    "qid": "Q1378640",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miyazaki_Airport_Feb_2008.jpg/500px-Miyazaki_Airport_Feb_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Miyazaki_Airport_Feb_2008.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "ja:User:Sanjo",
+    "fetched_at": "2026-05-02"
+  },
+  "信州まつもと空港 (MMJ)": {
+    "qid": "Q652331",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Matsumoto_Airport01s3200.jpg/500px-Matsumoto_Airport01s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Matsumoto_Airport01s3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "長崎空港 (NGS、世界初の海上空港)": {
+    "qid": "Q133796",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nagasaki_Airport_Omura_Nagasaki_pref_Japan06n.jpg/500px-Nagasaki_Airport_Omura_Nagasaki_pref_Japan06n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagasaki_Airport_Omura_Nagasaki_pref_Japan06n.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "対馬空港 (TSJ)": {
+    "qid": "Q1134491",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tsushimaairport.jpg/500px-Tsushimaairport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsushimaairport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "けんみんたろう at Japanese Wikipedia First version: Miita at Japane…",
+    "fetched_at": "2026-05-02"
+  },
+  "五島福江空港 (FUJ)": {
+    "qid": "Q1431393",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gotoh_fukue_airport.jpg/500px-Gotoh_fukue_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gotoh_fukue_airport.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "User:Kitty Cat_Ja",
+    "fetched_at": "2026-05-02"
+  },
+  "壱岐空港 (IKI)": {
+    "qid": "Q1038664",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Iki_Airport.jpg/500px-Iki_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Iki_Airport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ackeyyama",
+    "fetched_at": "2026-05-02"
+  },
+  "新潟空港 (KIJ)": {
+    "qid": "Q1197536",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Niigata_Airport_Aerial_Photograph.jpg/500px-Niigata_Airport_Aerial_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niigata_Airport_Aerial_Photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "佐渡空港 (SDS)": {
+    "qid": "Q1019284",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sado_Airport.JPG/500px-Sado_Airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sado_Airport.JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "まも",
+    "fetched_at": "2026-05-02"
+  },
+  "大分空港 (OIT)": {
+    "qid": "Q1334587",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Oita_Airport_Terminal_Building.jpg/500px-Oita_Airport_Terminal_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oita_Airport_Terminal_Building.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Oita trip",
+    "fetched_at": "2026-05-02"
+  },
+  "岡山桃太郎空港 (OKJ)": {
+    "qid": "Q1322391",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Okayama_airport_terminal.jpg/500px-Okayama_airport_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okayama_airport_terminal.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ・プラス",
+    "fetched_at": "2026-05-02"
+  },
+  "那覇空港 (OKA)": {
+    "qid": "Q1197455",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Naha_Airport12s3s4350.jpg/500px-Naha_Airport12s3s4350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Naha_Airport12s3s4350.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "石垣空港（南ぬ島石垣空港、ISG）": {
+    "qid": "Q11434817",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ishigaki_new_ishigaki_airport.jpg/500px-Ishigaki_new_ishigaki_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ishigaki_new_ishigaki_airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paipateroma",
+    "fetched_at": "2026-05-02"
+  },
+  "宮古空港 (MMY)": {
+    "qid": "Q116725",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Miyako_Airport_and_its_controll_tower_being_repaired_just_after_typhoon.jpg/500px-Miyako_Airport_and_its_controll_tower_being_repaired_just_after_typhoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Miyako_Airport_and_its_controll_tower_being_repaired_just_after_typhoon.jpg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "下地島空港 (SHI)": {
+    "qid": "Q654922",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Shimojishima.airport.jpg/500px-Shimojishima.airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shimojishima.airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ",
+    "fetched_at": "2026-05-02"
+  },
+  "与那国空港 (OGN)": {
+    "qid": "Q708517",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Terminal_building_in_Yonaguni_Airport_Ryukyu%2C_JAPAN.jpg/500px-Terminal_building_in_Yonaguni_Airport_Ryukyu%2C_JAPAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Terminal_building_in_Yonaguni_Airport_Ryukyu,_JAPAN.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Si-take. at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "久米島空港 (UEO)": {
+    "qid": "Q3235075",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/JA8936.jpg/500px-JA8936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JA8936.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ブルーノ",
+    "fetched_at": "2026-05-02"
+  },
+  "多良間空港 (TRA)": {
+    "qid": "Q2233042",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tarama_tarama_airport_2.jpg/500px-Tarama_tarama_airport_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tarama_tarama_airport_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Paipateroma",
+    "fetched_at": "2026-05-02"
+  },
+  "北大東空港 (KTD)": {
+    "qid": "Q1930831",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ktd.jpg/500px-Ktd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ktd.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "南大東空港 (MMD)": {
+    "qid": "Q1057877",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Minami_Daito_ap.jpg/500px-Minami_Daito_ap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Minami_Daito_ap.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Snap55 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "粟国空港 (AGJ)": {
+    "qid": "Q252768",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aguni_airport_Terminal.jpg/500px-Aguni_airport_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aguni_airport_Terminal.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "ブルーノ・プラス",
+    "fetched_at": "2026-05-02"
+  },
+  "関西国際空港 (KIX、24時間運用、海上空港)": {
+    "qid": "Q193682",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg/500px-%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E5%85%A8%E4%BD%93%E5%86%99%E7%9C%9F20220811.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ankou1192",
+    "fetched_at": "2026-05-02"
+  },
+  "大阪国際空港（伊丹、ITM）": {
+    "qid": "Q1046748",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Osaka_Airport01.jpg/500px-Osaka_Airport01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Osaka_Airport01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "八尾空港 (OBO)": {
+    "qid": "Q1366065",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Yao_Airport.jpg/500px-Yao_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yao_Airport.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Hyougushi / Hideyuki KAMON from Takarazuka, Hyogo, JAPAN",
+    "fetched_at": "2026-05-02"
+  },
+  "佐賀空港 (HSG、九州佐賀国際空港)": {
+    "qid": "Q1366663",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saga_Airport_runway%2C_taxiway_and_tarmac.JPG/500px-Saga_Airport_runway%2C_taxiway_and_tarmac.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Saga_Airport_runway,_taxiway_and_tarmac.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Mixtures",
+    "fetched_at": "2026-05-02"
+  },
+  "出雲縁結び空港 (IZO)": {
+    "qid": "Q1139412",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/150322_Izumo_Airport_Izumo_Shimane_pref_Japan01s3.jpg/500px-150322_Izumo_Airport_Izumo_Shimane_pref_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:150322_Izumo_Airport_Izumo_Shimane_pref_Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "萩・石見空港 (IWJ)": {
+    "qid": "Q1431559",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hagi-Iwami_Airport_%28IWJ_RJOW%29_2.jpg/500px-Hagi-Iwami_Airport_%28IWJ_RJOW%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hagi-Iwami_Airport_(IWJ_RJOW)_2.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Hyougushi / Hideyuki KAMON from Takarazuka, Hyogo, JAPAN",
+    "fetched_at": "2026-05-02"
+  },
+  "隠岐空港 (OKI)": {
+    "qid": "Q1148447",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oki_airport.JPG/500px-Oki_airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oki_airport.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "アラツク",
+    "fetched_at": "2026-05-02"
+  },
+  "静岡空港 (FSZ、富士山静岡空港)": {
+    "qid": "Q1209993",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fujisan-Shizuoka_airport%2CMakinohara-city%2CJapan.jpg/500px-Fujisan-Shizuoka_airport%2CMakinohara-city%2CJapan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fujisan-Shizuoka_airport,Makinohara-city,Japan.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "katorisi",
+    "fetched_at": "2026-05-02"
+  },
+  "徳島阿波おどり空港 (TKS)": {
+    "qid": "Q1142453",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tokushima-Awaodori_Airport.jpg/500px-Tokushima-Awaodori_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokushima-Awaodori_Airport.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Squash-0601",
+    "fetched_at": "2026-05-02"
+  },
+  "東京国際空港（羽田、HND）": {
+    "qid": "Q204853",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tokyo-International-Airport_Satellite.jpg/500px-Tokyo-International-Airport_Satellite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokyo-International-Airport_Satellite.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "大島空港 (OIM)": {
+    "qid": "Q1196909",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Oshima_airport_aerial-photo.jpg/500px-Oshima_airport_aerial-photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oshima_airport_aerial-photo.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "user:tdk",
+    "fetched_at": "2026-05-02"
+  },
+  "八丈島空港 (HAC)": {
+    "qid": "Q2512004",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hachij%C5%8Djima_Airport_01.jpg/500px-Hachij%C5%8Djima_Airport_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hachij%C5%8Djima_Airport_01.jpg",
+    "license": "CC BY-SA 2.1 jp",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+    "author": "miyuki",
+    "fetched_at": "2026-05-02"
+  },
+  "新島空港 (NIJ)": {
+    "qid": "Q2248108",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Niijima_Airport_Aerial_photograph.1978.jpg/500px-Niijima_Airport_Aerial_photograph.1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niijima_Airport_Aerial_photograph.1978.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "三宅島空港 (MYE)": {
+    "qid": "Q2234528",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Miyakejima_Airport_Aerial_photograph.jpg/500px-Miyakejima_Airport_Aerial_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Miyakejima_Airport_Aerial_photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "鳥取砂丘コナン空港 (TTJ)": {
+    "qid": "Q1433078",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tottori_Airport_Aerial_Photograph.jpg/500px-Tottori_Airport_Aerial_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tottori_Airport_Aerial_Photograph.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "国土交通省",
+    "fetched_at": "2026-05-02"
+  },
+  "米子鬼太郎空港 (YGJ)": {
+    "qid": "Q1141913",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/YonagoAirport.jpg/500px-YonagoAirport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:YonagoAirport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "TaitaFkm",
+    "fetched_at": "2026-05-02"
+  },
+  "富山空港 (TOY、富山きときと空港)": {
+    "qid": "Q1191625",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Toyama_Airport.jpg/500px-Toyama_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Toyama_Airport.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "RESPITE",
+    "fetched_at": "2026-05-02"
+  },
+  "南紀白浜空港 (SHM)": {
+    "qid": "Q1064050",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shirahamaairport.jpg/500px-Shirahamaairport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shirahamaairport.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Kouchiumi at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "山形空港 (GAJ)": {
+    "qid": "Q176187",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg/500px-220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:220428_Yamagata_Airport_Yamagata_Yamagata_pref_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "庄内空港 (SYO)": {
+    "qid": "Q1927323",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Shonai_Airport_Terminal_and_Tower_%28cropped%29.JPG/500px-Shonai_Airport_Terminal_and_Tower_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shonai_Airport_Terminal_and_Tower_(cropped).JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "アラツク",
+    "fetched_at": "2026-05-02"
+  },
+  "山口宇部空港 (UBJ)": {
+    "qid": "Q1328906",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Yamaguchi-Ube-Airport.JPG/500px-Yamaguchi-Ube-Airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yamaguchi-Ube-Airport.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "ふじさきけんじ",
+    "fetched_at": "2026-05-02"
+  },
+  "岩国錦帯橋空港 (IWK)": {
+    "qid": "Q1030389",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Iwakuni_kintaikyo_Airport.JPG/500px-Iwakuni_kintaikyo_Airport.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Iwakuni_kintaikyo_Airport.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "アラツク",
+    "fetched_at": "2026-05-02"
+  }
+}

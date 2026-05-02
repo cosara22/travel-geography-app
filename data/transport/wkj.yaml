@@ -1,0 +1,9 @@
+id: wkj
+name: 稚内空港
+kana: わっかないくうこう
+type: airport
+code: WKJ
+prefectures:
+- 北海道
+tags:
+- 最北端

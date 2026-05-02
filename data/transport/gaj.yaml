@@ -1,0 +1,8 @@
+id: gaj
+name: 山形空港
+kana: やまがたくうこう
+type: airport
+code: GAJ
+prefectures:
+- 山形県
+tags: []

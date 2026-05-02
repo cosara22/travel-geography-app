@@ -1,0 +1,12 @@
+id: iizaka
+name: 飯坂温泉
+kana: いいざかおんせん
+prefecture: 福島県
+category: onsen
+location:
+  city: 福島市
+spring_quality:
+- 単純温泉
+tags:
+- 奥州三名湯
+- 鯖湖湯

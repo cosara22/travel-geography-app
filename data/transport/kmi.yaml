@@ -1,0 +1,8 @@
+id: kmi
+name: 宮崎空港
+kana: みやざきくうこう
+type: airport
+code: KMI
+prefectures:
+- 宮崎県
+tags: []

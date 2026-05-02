@@ -1,0 +1,8 @@
+id: aoj
+name: 青森空港
+kana: あおもりくうこう
+type: airport
+code: AOJ
+prefectures:
+- 青森県
+tags: []

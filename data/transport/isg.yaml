@@ -1,0 +1,9 @@
+id: isg
+name: 南ぬ島石垣空港
+kana: ぱいぬしまいしがきくうこう
+type: airport
+code: ISG
+prefectures:
+- 沖縄県
+tags:
+- 八重山

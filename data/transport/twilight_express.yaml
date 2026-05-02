@@ -1,0 +1,14 @@
+id: twilight_express
+name: TWILIGHT EXPRESS 瑞風
+kana: トワイライトエクスプレスみずかぜ
+type: tourist_railway
+prefectures:
+- 大阪府
+- 京都府
+- 兵庫県
+- 鳥取県
+- 島根県
+- 山口県
+tags:
+- クルーズトレイン
+- JR西日本

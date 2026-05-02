@@ -1,0 +1,1802 @@
+{
+  "名古屋駅（東海道新幹線・中央本線・関西本線）": {
+    "qid": "Q49381",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nagoya-station_hirokoji-guchi.jpg/500px-Nagoya-station_hirokoji-guchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagoya-station_hirokoji-guchi.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "K-star",
+    "fetched_at": "2026-05-02"
+  },
+  "豊橋駅": {
+    "qid": "Q771465",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Toyohashi_Station.jpg/500px-Toyohashi_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Toyohashi_Station.jpg",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Lombroso",
+    "fetched_at": "2026-05-02"
+  },
+  "岡崎駅": {
+    "qid": "Q872492",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/JRC_tokaido_main_line_Okazaki_station_01.jpg/500px-JRC_tokaido_main_line_Okazaki_station_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRC_tokaido_main_line_Okazaki_station_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "おはぐろ蜻蛉 at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "中部国際空港駅（名鉄）": {
+    "qid": "Q5061298",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Railroad_-_Central_Japan_International_Airport_Station.jpg/500px-Nagoya_Railroad_-_Central_Japan_International_Airport_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagoya_Railroad_-_Central_Japan_International_Airport_Station.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "JKT-c",
+    "fetched_at": "2026-05-02"
+  },
+  "秋田駅": {
+    "qid": "Q1316396",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Akita_Station_west_exit_20200823c.jpg/500px-Akita_Station_west_exit_20200823c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Akita_Station_west_exit_20200823c.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "角館駅": {
+    "qid": "Q1137025",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kakunodate_Station_building_in_Semboku_City%2C_Akita_Pref.jpg/500px-Kakunodate_Station_building_in_Semboku_City%2C_Akita_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kakunodate_Station_building_in_Semboku_City,_Akita_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "田沢湖駅": {
+    "qid": "Q692529",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tazawako_Station_20221031-1.jpg/500px-Tazawako_Station_20221031-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tazawako_Station_20221031-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "新青森駅": {
+    "qid": "Q1187835",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/JRE_Shin-Aomori-STA_East.jpg/500px-JRE_Shin-Aomori-STA_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Shin-Aomori-STA_East.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "青森駅": {
+    "qid": "Q59516",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aomori_Station_new_building_20240324.jpg/500px-Aomori_Station_new_building_20240324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aomori_Station_new_building_20240324.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "弘前駅": {
+    "qid": "Q5770722",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hirosaki_Station_20170329.jpg/500px-Hirosaki_Station_20170329.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hirosaki_Station_20170329.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Suicasmo",
+    "fetched_at": "2026-05-02"
+  },
+  "八戸駅": {
+    "qid": "Q800866",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/JRE-Aoimoritetsudou_HachinoheStation-West.jpg/500px-JRE-Aoimoritetsudou_HachinoheStation-West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Aoimoritetsudou_HachinoheStation-West.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Wakkubox",
+    "fetched_at": "2026-05-02"
+  },
+  "千葉駅": {
+    "qid": "Q800625",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chiba_Station_2024.jpg/500px-Chiba_Station_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Chiba_Station_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Xser21",
+    "fetched_at": "2026-05-02"
+  },
+  "成田空港駅": {
+    "qid": "Q906732",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/JRE-Narita-Airport-Terminal-1-Station_Home.jpg/500px-JRE-Narita-Airport-Terminal-1-Station_Home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Narita-Airport-Terminal-1-Station_Home.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "銚子駅": {
+    "qid": "Q861084",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Choshi-STA.jpg/500px-Choshi-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Choshi-STA.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "舞浜駅（ディズニーリゾート）": {
+    "qid": "Q801154",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/JRE_Maihama-STA_South-Gate.jpg/500px-JRE_Maihama-STA_South-Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Maihama-STA_South-Gate.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "木更津駅": {
+    "qid": "Q575433",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JR_Uchib%C5%8D_Line%E3%83%BBKururi_Line_Kisarazu_Station_Platform_1%E3%83%BB2.jpg/500px-JR_Uchib%C5%8D_Line%E3%83%BBKururi_Line_Kisarazu_Station_Platform_1%E3%83%BB2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Uchib%C5%8D_Line%E3%83%BBKururi_Line_Kisarazu_Station_Platform_1%E3%83%BB2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "松山市駅（伊予鉄）": {
+    "qid": "Q6788233",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Iyotetsu_takashimaya.JPG/500px-Iyotetsu_takashimaya.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Iyotetsu_takashimaya.JPG",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "ぺ有家音",
+    "fetched_at": "2026-05-02"
+  },
+  "道後温泉駅": {
+    "qid": "Q11641715",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/DogoOnsen_station.JPG/500px-DogoOnsen_station.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:DogoOnsen_station.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Kanko3131",
+    "fetched_at": "2026-05-02"
+  },
+  "今治駅": {
+    "qid": "Q875869",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/JR_Imabari_Station_platform_-_panoramio_%282%29.jpg/500px-JR_Imabari_Station_platform_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Imabari_Station_platform_-_panoramio_(2).jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "DVMG",
+    "fetched_at": "2026-05-02"
+  },
+  "宇和島駅": {
+    "qid": "Q1057654",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Uwajima-Station-Platform-20100526.jpg/500px-Uwajima-Station-Platform-20100526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Uwajima-Station-Platform-20100526.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Rsa",
+    "fetched_at": "2026-05-02"
+  },
+  "敦賀駅（北陸新幹線終点・特急サンダーバード乗換）": {
+    "qid": "Q5364670",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Tsuruga_Station_2024.03.jpg/500px-Tsuruga_Station_2024.03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsuruga_Station_2024.03.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "有島あける",
+    "fetched_at": "2026-05-02"
+  },
+  "越前たけふ駅": {
+    "qid": "Q6962163",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%E8%B6%8A%E5%89%8D%E3%81%9F%E3%81%91%E3%81%B5%E9%A7%85%EF%BC%88%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A%EF%BC%8920251010-P1074005.jpg/500px-%E8%B6%8A%E5%89%8D%E3%81%9F%E3%81%91%E3%81%B5%E9%A7%85%EF%BC%88%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A%EF%BC%8920251010-P1074005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%89%8D%E3%81%9F%E3%81%91%E3%81%B5%E9%A7%85%EF%BC%88%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A%EF%BC%8920251010-P1074005.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "くろふね",
+    "fetched_at": "2026-05-02"
+  },
+  "芦原温泉駅": {
+    "qid": "Q4829830",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Awaraonsen_station_South_20240506.JPG/500px-Awaraonsen_station_South_20240506.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Awaraonsen_station_South_20240506.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Rsa",
+    "fetched_at": "2026-05-02"
+  },
+  "小浜駅": {
+    "qid": "Q7074612",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/150725_Obama_Station_Obama_Fukui_pref_Japan02n.jpg/500px-150725_Obama_Station_Obama_Fukui_pref_Japan02n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:150725_Obama_Station_Obama_Fukui_pref_Japan02n.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "博多駅（山陽・九州新幹線、新幹線2路線が交わる）": {
+    "qid": "Q800875",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/JR_Hakata_City_2011_Jan.jpg/500px-JR_Hakata_City_2011_Jan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Hakata_City_2011_Jan.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "ぱちょぴ",
+    "fetched_at": "2026-05-02"
+  },
+  "太宰府駅": {
+    "qid": "Q5243657",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dazaifu_Station_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E9%A7%852.jpg/500px-Dazaifu_Station_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E9%A7%852.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Dazaifu_Station_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E9%A7%852.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "ノボホショコロトソ",
+    "fetched_at": "2026-05-02"
+  },
+  "大牟田駅": {
+    "qid": "Q871063",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Omuta_Station_2026-03_ac_%281%29.jpg/500px-Omuta_Station_2026-03_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Omuta_Station_2026-03_ac_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "会津若松駅": {
+    "qid": "Q4699462",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/JR_East_Aizu-Wakamatsu_Station_building.jpg/500px-JR_East_Aizu-Wakamatsu_Station_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Aizu-Wakamatsu_Station_building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "いわき駅": {
+    "qid": "Q5353428",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/JRE_Iwaki-STA_Platforms.jpg/500px-JRE_Iwaki-STA_Platforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Iwaki-STA_Platforms.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "猪苗代駅": {
+    "qid": "Q6013835",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/JR_East_Inawashiro_Station_Platform.jpg/500px-JR_East_Inawashiro_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Inawashiro_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "岐阜駅": {
+    "qid": "Q1144885",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gifu_sta_entrance.jpg/500px-Gifu_sta_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gifu_sta_entrance.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Dabikun",
+    "fetched_at": "2026-05-02"
+  },
+  "岐阜羽島駅（東海道新幹線）": {
+    "qid": "Q800820",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gifu_Hashima_Station_01.JPG/500px-Gifu_Hashima_Station_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gifu_Hashima_Station_01.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Hide-sp",
+    "fetched_at": "2026-05-02"
+  },
+  "高山駅": {
+    "qid": "Q874020",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Takayama_Station.jpg/500px-Takayama_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Takayama_Station.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "EXECUTOR",
+    "fetched_at": "2026-05-02"
+  },
+  "飛騨古川駅": {
+    "qid": "Q875450",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JR_Hida-Furukawa_Station_ac_%281%29.jpg/500px-JR_Hida-Furukawa_Station_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Hida-Furukawa_Station_ac_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "下呂駅": {
+    "qid": "Q873111",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gero-Sta001.JPG/500px-Gero-Sta001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Gero-Sta001.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "阪神強いな at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "高崎駅": {
+    "qid": "Q801505",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/JRE-Takasaki-STA_West.jpg/500px-JRE-Takasaki-STA_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Takasaki-STA_West.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "前橋駅": {
+    "qid": "Q1062416",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/JR_Ryomo_Line_Maebashi_Station_Platform_1%E3%83%BB2.jpg/500px-JR_Ryomo_Line_Maebashi_Station_Platform_1%E3%83%BB2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Ryomo_Line_Maebashi_Station_Platform_1%E3%83%BB2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "水上駅": {
+    "qid": "Q1770451",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Minakami-STA_Platforms.jpg/500px-Minakami-STA_Platforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Minakami-STA_Platforms.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "草津温泉駅（特急草津・四万）": {
+    "qid": "Q133864077",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kusakaru-kusatueki-ato.JPG/500px-Kusakaru-kusatueki-ato.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kusakaru-kusatueki-ato.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown",
+    "fetched_at": "2026-05-02"
+  },
+  "広島駅": {
+    "qid": "Q576459",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%E5%BA%83%E5%B3%B6%E9%A7%85%E9%A7%85%E8%88%8E.jpg/500px-%E5%BA%83%E5%B3%B6%E9%A7%85%E9%A7%85%E8%88%8E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E9%A7%85%E9%A7%85%E8%88%8E.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Wikiyasu",
+    "fetched_at": "2026-05-02"
+  },
+  "福山駅": {
+    "qid": "Q800797",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fukuyama-STA_Platform7-8.jpg/500px-Fukuyama-STA_Platform7-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Fukuyama-STA_Platform7-8.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "三原駅": {
+    "qid": "Q1136514",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mihara_Station_20180429.jpg/500px-Mihara_Station_20180429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mihara_Station_20180429.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "尾道駅": {
+    "qid": "Q861547",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Onomichi-Station-new-South-building2020.jpg/500px-Onomichi-Station-new-South-building2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Onomichi-Station-new-South-building2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "宮島口駅": {
+    "qid": "Q875417",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Miyajimaguchi_Station.JPG/500px-Miyajimaguchi_Station.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Miyajimaguchi_Station.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Taisyo",
+    "fetched_at": "2026-05-02"
+  },
+  "札幌駅": {
+    "qid": "Q801404",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JR_Sapporo_Sta03n3200.jpg/500px-JR_Sapporo_Sta03n3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Sapporo_Sta03n3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "新函館北斗駅": {
+    "qid": "Q1039122",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shin-Hakodate-Hokuto-STA_South.jpg/500px-Shin-Hakodate-Hokuto-STA_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shin-Hakodate-Hokuto-STA_South.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "旭川駅": {
+    "qid": "Q1073617",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JR_Asahikwa_Station_building_%28North_Exit%29.jpg/500px-JR_Asahikwa_Station_building_%28North_Exit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Asahikwa_Station_building_(North_Exit).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "釧路駅": {
+    "qid": "Q1073704",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JR_Nemuro-Main-Line_Kushiro_Station_building.jpg/500px-JR_Nemuro-Main-Line_Kushiro_Station_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Nemuro-Main-Line_Kushiro_Station_building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "網走駅": {
+    "qid": "Q848265",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Abashiri_Station01s3.jpg/500px-Abashiri_Station01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Abashiri_Station01s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "稚内駅": {
+    "qid": "Q840452",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wakkanai-STA_Entrance.jpg/500px-Wakkanai-STA_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wakkanai-STA_Entrance.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "函館駅": {
+    "qid": "Q1151274",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/JRH_Hakodate-STA_Entrance.jpg/500px-JRH_Hakodate-STA_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRH_Hakodate-STA_Entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新神戸駅（山陽新幹線）": {
+    "qid": "Q801435",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JR_Shin_Kobe_Station.jpg/500px-JR_Shin_Kobe_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Shin_Kobe_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "KishujiRapid",
+    "fetched_at": "2026-05-02"
+  },
+  "三ノ宮駅（神戸の中心駅）": {
+    "qid": "Q14616729",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JR_Sannomiya_Central_Concourse.jpg/500px-JR_Sannomiya_Central_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Sannomiya_Central_Concourse.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mihimaru Vista",
+    "fetched_at": "2026-05-02"
+  },
+  "姫路駅": {
+    "qid": "Q119301",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/JR_Himeji_station_%2C_JR_%E5%A7%AB%E8%B7%AF%E9%A7%85_-_panoramio_%284%29.jpg/500px-JR_Himeji_station_%2C_JR_%E5%A7%AB%E8%B7%AF%E9%A7%85_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Himeji_station_,_JR_%E5%A7%AB%E8%B7%AF%E9%A7%85_-_panoramio_(4).jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "z tanuki",
+    "fetched_at": "2026-05-02"
+  },
+  "城崎温泉駅": {
+    "qid": "Q1055689",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/161030_Kinosaki-Onsen_Station_Toyooka_Hyogo_pref_Japan01bs3.jpg/500px-161030_Kinosaki-Onsen_Station_Toyooka_Hyogo_pref_Japan01bs3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:161030_Kinosaki-Onsen_Station_Toyooka_Hyogo_pref_Japan01bs3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "水戸駅": {
+    "qid": "Q909499",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JRE_Mito-STA_Platform3-4.jpg/500px-JRE_Mito-STA_Platform3-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Mito-STA_Platform3-4.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "土浦駅": {
+    "qid": "Q5364280",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/JR_J%C5%8Dban_Line_Tsuchiura_Station_Platform.jpg/500px-JR_J%C5%8Dban_Line_Tsuchiura_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_J%C5%8Dban_Line_Tsuchiura_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "取手駅": {
+    "qid": "Q847830",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toride-Sta-West.JPG/500px-Toride-Sta-West.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Toride-Sta-West.JPG",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Nyao148",
+    "fetched_at": "2026-05-02"
+  },
+  "日立駅": {
+    "qid": "Q39929",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JR_J%C5%8Dban_Line_Hitachi_Station_Platform.jpg/500px-JR_J%C5%8Dban_Line_Hitachi_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_J%C5%8Dban_Line_Hitachi_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "金沢駅（北陸新幹線、もてなしドーム・鼓門）": {
+    "qid": "Q1136378",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kanazawa-STA_Tsuzumi-mon.jpg/500px-Kanazawa-STA_Tsuzumi-mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kanazawa-STA_Tsuzumi-mon.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "小松駅": {
+    "qid": "Q5359990",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Komatsu-STA_East.jpg/500px-Komatsu-STA_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Komatsu-STA_East.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "加賀温泉駅": {
+    "qid": "Q5359613",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaga-Onsen_Station_ac_%282%29.jpg/500px-Kaga-Onsen_Station_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kaga-Onsen_Station_ac_(2).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "七尾駅": {
+    "qid": "Q6962435",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Nanao_Station_2021.jpg/500px-Nanao_Station_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nanao_Station_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "SONIC BLOOMING",
+    "fetched_at": "2026-05-02"
+  },
+  "和倉温泉駅": {
+    "qid": "Q6138219",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wakura_Onsen_Station.jpg/500px-Wakura_Onsen_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wakura_Onsen_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "SONIC BLOOMING",
+    "fetched_at": "2026-05-02"
+  },
+  "盛岡駅": {
+    "qid": "Q785390",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Morioka_Station_20220525b.jpg/500px-Morioka_Station_20220525b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Morioka_Station_20220525b.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "一ノ関駅": {
+    "qid": "Q800946",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/230729_Ichinoseki_Station_Ichinoseki_Iwate_pref_Japan01s3.jpg/500px-230729_Ichinoseki_Station_Ichinoseki_Iwate_pref_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:230729_Ichinoseki_Station_Ichinoseki_Iwate_pref_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "平泉駅": {
+    "qid": "Q899369",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/JR_East_Hiraizumi_Station_building%2C_Iwate_Pref_20240212.jpg/500px-JR_East_Hiraizumi_Station_building%2C_Iwate_Pref_20240212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Hiraizumi_Station_building,_Iwate_Pref_20240212.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "釜石駅": {
+    "qid": "Q3892979",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JR%26Sanriku_Railway_Kamaishi_Station.JPG/500px-JR%26Sanriku_Railway_Kamaishi_Station.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR%26Sanriku_Railway_Kamaishi_Station.JPG",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Kickenovic",
+    "fetched_at": "2026-05-02"
+  },
+  "宮古駅": {
+    "qid": "Q6884271",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sanriku_Railway_and_JR_East_Miyako_Station.jpg/500px-Sanriku_Railway_and_JR_East_Miyako_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sanriku_Railway_and_JR_East_Miyako_Station.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Yasu (talk)",
+    "fetched_at": "2026-05-02"
+  },
+  "丸亀駅": {
+    "qid": "Q874116",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marugame_Station-201508%282%29_NorthGate.JPG/500px-Marugame_Station-201508%282%29_NorthGate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Marugame_Station-201508(2)_NorthGate.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sunport1216",
+    "fetched_at": "2026-05-02"
+  },
+  "坂出駅": {
+    "qid": "Q873215",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sakaide-STA_Platforms.jpg/500px-Sakaide-STA_Platforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sakaide-STA_Platforms.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "琴平駅": {
+    "qid": "Q899906",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kotohira-station-building.jpg/500px-Kotohira-station-building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kotohira-station-building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kansai-good",
+    "fetched_at": "2026-05-02"
+  },
+  "鹿児島中央駅（九州新幹線終点）": {
+    "qid": "Q1316913",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kagoshima-Chuo-Station-building20201004.jpg/500px-Kagoshima-Chuo-Station-building20201004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kagoshima-Chuo-Station-building20201004.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "鹿児島駅": {
+    "qid": "Q874167",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/JR-Kagoshima-Station-building2020-10.jpg/500px-JR-Kagoshima-Station-building2020-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR-Kagoshima-Station-building2020-10.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "西大山駅（JR最南端）": {
+    "qid": "Q801260",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nishi-Ooyama-station-20100627-Bench.jpg/500px-Nishi-Ooyama-station-20100627-Bench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nishi-Ooyama-station-20100627-Bench.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Rsa This photo was taken with Nikon Coolpix 7600",
+    "fetched_at": "2026-05-02"
+  },
+  "枕崎駅（最南端の終着駅）": {
+    "qid": "Q5374442",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Makurazaki-STA_Entrance.jpg/500px-Makurazaki-STA_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Makurazaki-STA_Entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "横浜駅": {
+    "qid": "Q801658",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yokohama-STA_East-2023.jpg/500px-Yokohama-STA_East-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yokohama-STA_East-2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新横浜駅（東海道新幹線）": {
+    "qid": "Q801437",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/JR_Shin_yokohama_sta_001.jpg/500px-JR_Shin_yokohama_sta_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Shin_yokohama_sta_001.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "東京特許許可局",
+    "fetched_at": "2026-05-02"
+  },
+  "鎌倉駅": {
+    "qid": "Q932895",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/JR_Yokosuka-Line_Kamakura_Station_Platform.jpg/500px-JR_Yokosuka-Line_Kamakura_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Yokosuka-Line_Kamakura_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "小田原駅": {
+    "qid": "Q801290",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/161223_Odawara_Station_Odawara_Japan01s3.jpg/500px-161223_Odawara_Station_Odawara_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:161223_Odawara_Station_Odawara_Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "箱根湯本駅（小田急・箱根登山）": {
+    "qid": "Q2593075",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hakone-Yumoto_Station_20180102.jpg/500px-Hakone-Yumoto_Station_20180102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hakone-Yumoto_Station_20180102.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kounoichi",
+    "fetched_at": "2026-05-02"
+  },
+  "高知駅": {
+    "qid": "Q869293",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kochi-STA.jpg/500px-Kochi-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kochi-STA.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "中村駅": {
+    "qid": "Q8190561",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nakamura_Station%2C_ekisha.jpg/500px-Nakamura_Station%2C_ekisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nakamura_Station,_ekisha.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "須崎駅": {
+    "qid": "Q7647477",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/JR_Susaki_Station_ac_%281%29.jpg/500px-JR_Susaki_Station_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Susaki_Station_ac_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "安芸駅": {
+    "qid": "Q4700860",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aki_Station%2C_terminal.jpg/500px-Aki_Station%2C_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Aki_Station,_terminal.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "熊本駅（九州新幹線）": {
+    "qid": "Q969324",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%E7%86%8A%E6%9C%AC%E9%A7%85%E9%A7%85%E8%88%8E20210924-IMG_6752.jpg/500px-%E7%86%8A%E6%9C%AC%E9%A7%85%E9%A7%85%E8%88%8E20210924-IMG_6752.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E6%9C%AC%E9%A7%85%E9%A7%85%E8%88%8E20210924-IMG_6752.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "くろふね",
+    "fetched_at": "2026-05-02"
+  },
+  "新八代駅（九州新幹線）": {
+    "qid": "Q1187743",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platform_of_Shin-Yatsushiro_Station_%28Kagoshima_Main_Line%29_2.jpg/500px-Platform_of_Shin-Yatsushiro_Station_%28Kagoshima_Main_Line%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Platform_of_Shin-Yatsushiro_Station_(Kagoshima_Main_Line)_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "阿蘇駅": {
+    "qid": "Q4807479",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kumamoto-Aso-station-platform2020.jpg/500px-Kumamoto-Aso-station-platform2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kumamoto-Aso-station-platform2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "人吉駅": {
+    "qid": "Q8190132",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hitoyoshi_Station%2C_ekisha.jpg/500px-Hitoyoshi_Station%2C_ekisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Hitoyoshi_Station,_ekisha.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "京都駅（東海道新幹線・山陰・近鉄・地下鉄）": {
+    "qid": "Q801046",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/JR_Kyoto_sta01nt3200.jpg/500px-JR_Kyoto_sta01nt3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Kyoto_sta01nt3200.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "福知山駅": {
+    "qid": "Q1131673",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/230502_Fukuchiyama_Station_Fukuchiyama_Kyoto_pref_Japan01s3.jpg/500px-230502_Fukuchiyama_Station_Fukuchiyama_Kyoto_pref_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:230502_Fukuchiyama_Station_Fukuchiyama_Kyoto_pref_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "天橋立駅": {
+    "qid": "Q4739922",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Amanohashidate-St.jpg/500px-Amanohashidate-St.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Amanohashidate-St.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tenkyoritsu",
+    "fetched_at": "2026-05-02"
+  },
+  "伊勢市駅": {
+    "qid": "Q6079748",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JRC_sangu_line_Ise-shi_station_01.jpg/500px-JRC_sangu_line_Ise-shi_station_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRC_sangu_line_Ise-shi_station_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Kansai explorer at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "宇治山田駅（近鉄）": {
+    "qid": "Q7878210",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ujiyamadaeki_060716.JPG/500px-Ujiyamadaeki_060716.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ujiyamadaeki_060716.JPG",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "No machine-readable author provided. N yotarou assumed (base…",
+    "fetched_at": "2026-05-02"
+  },
+  "鳥羽駅": {
+    "qid": "Q7811445",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JR%E9%B3%A5%E7%BE%BD%E9%A7%85%E3%81%AE0%E7%95%AA%E7%B7%9A%E8%B7%A1.jpg/500px-JR%E9%B3%A5%E7%BE%BD%E9%A7%85%E3%81%AE0%E7%95%AA%E7%B7%9A%E8%B7%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR%E9%B3%A5%E7%BE%BD%E9%A7%85%E3%81%AE0%E7%95%AA%E7%B7%9A%E8%B7%A1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Megalopa-kanisan",
+    "fetched_at": "2026-05-02"
+  },
+  "賢島駅（志摩線終点）": {
+    "qid": "Q6374294",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kashikojima_Station02.jpg/500px-Kashikojima_Station02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kashikojima_Station02.jpg",
+    "license": "CC BY 2.1 jp",
+    "license_url": "https://creativecommons.org/licenses/by/2.1/jp/deed.en",
+    "author": "Tawashi2006",
+    "fetched_at": "2026-05-02"
+  },
+  "松阪駅": {
+    "qid": "Q5357756",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Matsusaka_Station_2024-04_ac_%281%29.jpg/500px-Matsusaka_Station_2024-04_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Matsusaka_Station_2024-04_ac_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "津駅": {
+    "qid": "Q869763",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tsu_Station-Platform_3.jpg/500px-Tsu_Station-Platform_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsu_Station-Platform_3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ButuCC",
+    "fetched_at": "2026-05-02"
+  },
+  "仙台駅": {
+    "qid": "Q801429",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sendai_Station_20230806.jpg/500px-Sendai_Station_20230806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sendai_Station_20230806.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "掬茶",
+    "fetched_at": "2026-05-02"
+  },
+  "古川駅": {
+    "qid": "Q1136520",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JR_East_Furukawa_Station_JR_Line_Platform%2C_Miyagi_Pref.jpg/500px-JR_East_Furukawa_Station_JR_Line_Platform%2C_Miyagi_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Furukawa_Station_JR_Line_Platform,_Miyagi_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "鳴子温泉駅": {
+    "qid": "Q6966446",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/JR_East_Naruko-Onsen_Station_building%2C_Miyagi_Pref.jpg/500px-JR_East_Naruko-Onsen_Station_building%2C_Miyagi_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Naruko-Onsen_Station_building,_Miyagi_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "松島海岸駅": {
+    "qid": "Q6788203",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/JR_East_Matsushimakaigan_Station_Platform%2C_Miyagi_Pref.jpg/500px-JR_East_Matsushimakaigan_Station_Platform%2C_Miyagi_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Matsushimakaigan_Station_Platform,_Miyagi_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "宮崎駅": {
+    "qid": "Q899703",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MiyazakiStnishi.jpg/500px-MiyazakiStnishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:MiyazakiStnishi.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Kouchiumi",
+    "fetched_at": "2026-05-02"
+  },
+  "都城駅": {
+    "qid": "Q899376",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Miyakonojo_Station_20170317.jpg/500px-Miyakonojo_Station_20170317.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Miyakonojo_Station_20170317.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "延岡駅": {
+    "qid": "Q5357994",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nobeoka_Station_%26_Encross.jpg/500px-Nobeoka_Station_%26_Encross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nobeoka_Station_%26_Encross.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Route275",
+    "fetched_at": "2026-05-02"
+  },
+  "日南駅": {
+    "qid": "Q7024855",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E7%B7%A0%E7%B5%90%E6%B4%BB%E5%8B%95%E7%85%A7%E7%89%87_%E9%A0%81%E9%9D%A2_01_%E5%BD%B1%E5%83%8F_0001.jpg/500px-%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E7%B7%A0%E7%B5%90%E6%B4%BB%E5%8B%95%E7%85%A7%E7%89%87_%E9%A0%81%E9%9D%A2_01_%E5%BD%B1%E5%83%8F_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E5%8D%97%E8%BB%8A%E7%AB%99%E7%B7%A0%E7%B5%90%E6%B4%BB%E5%8B%95%E7%85%A7%E7%89%87_%E9%A0%81%E9%9D%A2_01_%E5%BD%B1%E5%83%8F_0001.jpg",
+    "license": "Attribution",
+    "license_url": "",
+    "author": "臺灣鐵路管理局",
+    "fetched_at": "2026-05-02"
+  },
+  "長野駅": {
+    "qid": "Q374916",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nagano_Station_2023-05-27.jpg/500px-Nagano_Station_2023-05-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagano_Station_2023-05-27.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "快速踊り子",
+    "fetched_at": "2026-05-02"
+  },
+  "松本駅": {
+    "qid": "Q843167",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Matsumoto_West_Entrance_2018.jpg/500px-Matsumoto_West_Entrance_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Matsumoto_West_Entrance_2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tohnass",
+    "fetched_at": "2026-05-02"
+  },
+  "軽井沢駅": {
+    "qid": "Q1064215",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/260322_Karuizawa_Station_Karuizawa_Japan01s3.jpg/500px-260322_Karuizawa_Station_Karuizawa_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:260322_Karuizawa_Station_Karuizawa_Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "上田駅": {
+    "qid": "Q1071375",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ueda-STA_Castle-side-Entrance.jpg/500px-Ueda-STA_Castle-side-Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ueda-STA_Castle-side-Entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "飯田駅": {
+    "qid": "Q985322",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/JR_Central_Iida_Station_Platform%2C_Nagano_Pref.jpg/500px-JR_Central_Iida_Station_Platform%2C_Nagano_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Central_Iida_Station_Platform,_Nagano_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "茅野駅（諏訪・八ヶ岳・蓼科の玄関）": {
+    "qid": "Q844063",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JR_Chuo-Main-Line_Chino_Station_West_Exit.jpg/500px-JR_Chuo-Main-Line_Chino_Station_West_Exit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Chuo-Main-Line_Chino_Station_West_Exit.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "長崎駅（西九州新幹線終点）": {
+    "qid": "Q1076315",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nagasaki_Station_20200407_03.jpg/500px-Nagasaki_Station_20200407_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagasaki_Station_20200407_03.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Houjyou-Minori",
+    "fetched_at": "2026-05-02"
+  },
+  "諫早駅": {
+    "qid": "Q901393",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Isahaya-STA_East.jpg/500px-Isahaya-STA_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Isahaya-STA_East.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "佐世保駅": {
+    "qid": "Q848748",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/200320_Sasebo_Station_Sasebo_Nagasaki_pref_Japan03s3.jpg/500px-200320_Sasebo_Station_Sasebo_Nagasaki_pref_Japan03s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:200320_Sasebo_Station_Sasebo_Nagasaki_pref_Japan03s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "島原駅": {
+    "qid": "Q7496811",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Platform_of_Shimabara_Station_2.jpg/500px-Platform_of_Shimabara_Station_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Platform_of_Shimabara_Station_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "ハウステンボス駅": {
+    "qid": "Q852106",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Platform_of_Huis_Ten_Bosch_Station_%28North%29.JPG/500px-Platform_of_Huis_Ten_Bosch_Station_%28North%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Platform_of_Huis_Ten_Bosch_Station_(North).JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "奈良駅": {
+    "qid": "Q1150978",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nara_Station%2C_ekisha.jpg/500px-Nara_Station%2C_ekisha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nara_Station,_ekisha.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "近鉄奈良駅": {
+    "qid": "Q6414371",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kintetsu_Nara_station_20140902.jpg/500px-Kintetsu_Nara_station_20140902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kintetsu_Nara_station_20140902.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Degueulasse",
+    "fetched_at": "2026-05-02"
+  },
+  "大和西大寺駅（近鉄結節点）": {
+    "qid": "Q489786",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E5%A4%A7%E5%92%8C%E8%A5%BF%E5%A4%A7%E5%AF%BA%E9%A7%85%E5%8C%97%E5%8F%A3_20240508.jpg/500px-%E5%A4%A7%E5%92%8C%E8%A5%BF%E5%A4%A7%E5%AF%BA%E9%A7%85%E5%8C%97%E5%8F%A3_20240508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%92%8C%E8%A5%BF%E5%A4%A7%E5%AF%BA%E9%A7%85%E5%8C%97%E5%8F%A3_20240508.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Nux-vomica 1007",
+    "fetched_at": "2026-05-02"
+  },
+  "橿原神宮前駅": {
+    "qid": "Q6374283",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/251206_Kashiharajingu-mae_Station_Kashihara_Nara_pref_Japan02s3.jpg/500px-251206_Kashiharajingu-mae_Station_Kashihara_Nara_pref_Japan02s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:251206_Kashiharajingu-mae_Station_Kashihara_Nara_pref_Japan02s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "新潟駅（上越新幹線終点）": {
+    "qid": "Q701753",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Niigata-STA_Platform5.jpg/500px-Niigata-STA_Platform5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Niigata-STA_Platform5.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "長岡駅": {
+    "qid": "Q1138252",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nagaoka_Station_Main_Gate%28Local%29.JPG/500px-Nagaoka_Station_Main_Gate%28Local%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nagaoka_Station_Main_Gate(Local).JPG",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "ほぶ",
+    "fetched_at": "2026-05-02"
+  },
+  "越後湯沢駅": {
+    "qid": "Q1188630",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/JR_East_Echigo-Yuzawa_Station_JR_Line_Platform_2_-_4_20221219.jpg/500px-JR_East_Echigo-Yuzawa_Station_JR_Line_Platform_2_-_4_20221219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Echigo-Yuzawa_Station_JR_Line_Platform_2_-_4_20221219.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "上越妙高駅（北陸新幹線）": {
+    "qid": "Q15629351",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/JR%E3%83%BBEchigo_TOKImeki_Railway_Joetsumyoko_Station_Echigo_TOKImeki_Railway_%28Local_Line%29_Platform.jpg/500px-JR%E3%83%BBEchigo_TOKImeki_Railway_Joetsumyoko_Station_Echigo_TOKImeki_Railway_%28Local_Line%29_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR%E3%83%BBEchigo_TOKImeki_Railway_Joetsumyoko_Station_Echigo_TOKImeki_Railway_(Local_Line)_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "直江津駅": {
+    "qid": "Q130065",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Echigo_TOKImeki_Railway%E3%83%BBJR_Naoetsu_Station_Platform_3%E3%83%BB4.jpg/500px-Echigo_TOKImeki_Railway%E3%83%BBJR_Naoetsu_Station_Platform_3%E3%83%BB4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Echigo_TOKImeki_Railway%E3%83%BBJR_Naoetsu_Station_Platform_3%E3%83%BB4.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "大分駅": {
+    "qid": "Q861542",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Oita_jr_oita_sta_concourse.jpg/500px-Oita_jr_oita_sta_concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Oita_jr_oita_sta_concourse.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "大分帰省中",
+    "fetched_at": "2026-05-02"
+  },
+  "由布院駅": {
+    "qid": "Q8060317",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Kyudai_Main_Line_Yufuin_Station_Panoramic.jpg/500px-Kyudai_Main_Line_Yufuin_Station_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kyudai_Main_Line_Yufuin_Station_Panoramic.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "G43",
+    "fetched_at": "2026-05-02"
+  },
+  "岡山駅（山陽新幹線・四国玄関口）": {
+    "qid": "Q801293",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Okayama_station_east.jpg/500px-Okayama_station_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Okayama_station_east.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "No machine-readable author provided. Volfgang assumed (based…",
+    "fetched_at": "2026-05-02"
+  },
+  "倉敷駅": {
+    "qid": "Q844677",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/JRW_Kurashiki-STA_South.jpg/500px-JRW_Kurashiki-STA_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRW_Kurashiki-STA_South.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "津山駅": {
+    "qid": "Q844686",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tsuyama_Sta01n3200.jpg/500px-Tsuyama_Sta01n3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tsuyama_Sta01n3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "新倉敷駅": {
+    "qid": "Q1067908",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Shin-Kurashiki_Station_Building_%28South%29_20200524.jpg/500px-Shin-Kurashiki_Station_Building_%28South%29_20200524.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shin-Kurashiki_Station_Building_(South)_20200524.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "1stfinal",
+    "fetched_at": "2026-05-02"
+  },
+  "那覇空港駅（ゆいレール）": {
+    "qid": "Q841429",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Nahaairport_Station001.jpg/500px-Nahaairport_Station001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nahaairport_Station001.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "hashi photo",
+    "fetched_at": "2026-05-02"
+  },
+  "首里駅（ゆいレール）": {
+    "qid": "Q841561",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shuri-Station-Building-2020.jpg/500px-Shuri-Station-Building-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shuri-Station-Building-2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "てだこ浦西駅（ゆいレール終点）": {
+    "qid": "Q11558339",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tedako-Uranishi-Station-building.jpg/500px-Tedako-Uranishi-Station-building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tedako-Uranishi-Station-building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tokyo-Good",
+    "fetched_at": "2026-05-02"
+  },
+  "新大阪駅（東海道・山陽新幹線）": {
+    "qid": "Q801438",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shin-%C5%8Csaka_Station.jpg/500px-Shin-%C5%8Csaka_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shin-%C5%8Csaka_Station.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "EXECUTOR",
+    "fetched_at": "2026-05-02"
+  },
+  "大阪駅": {
+    "qid": "Q801694",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JR_Osaka_Station_20151226.JPG/500px-JR_Osaka_Station_20151226.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Osaka_Station_20151226.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "KishujiRapid",
+    "fetched_at": "2026-05-02"
+  },
+  "天王寺駅": {
+    "qid": "Q1132328",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tennoji_sta01s3872.jpg/500px-Tennoji_sta01s3872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tennoji_sta01s3872.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "関西空港駅": {
+    "qid": "Q844023",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kansai_Airport_Station01s5s3200.jpg/500px-Kansai_Airport_Station01s5s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kansai_Airport_Station01s5s3200.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "佐賀駅": {
+    "qid": "Q1042665",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saga_Station_south_square_August_2023.jpg/500px-Saga_Station_south_square_August_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Saga_Station_south_square_August_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Peka",
+    "fetched_at": "2026-05-02"
+  },
+  "武雄温泉駅（西九州新幹線）": {
+    "qid": "Q2105971",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/JRKyushu_Takeo-Onsen_Station_NorthExit_200912.jpg/500px-JRKyushu_Takeo-Onsen_Station_NorthExit_200912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRKyushu_Takeo-Onsen_Station_NorthExit_200912.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Atsasebo",
+    "fetched_at": "2026-05-02"
+  },
+  "唐津駅": {
+    "qid": "Q852147",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JR_Karatsu_Station_ac.jpg/500px-JR_Karatsu_Station_ac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Karatsu_Station_ac.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "有田駅": {
+    "qid": "Q4791116",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arita-eki-1.jpg/500px-Arita-eki-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Arita-eki-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ribbon",
+    "fetched_at": "2026-05-02"
+  },
+  "さいたま新都心駅": {
+    "qid": "Q801393",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Saitama-Shintoshin-STA_Gate.jpg/500px-Saitama-Shintoshin-STA_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Saitama-Shintoshin-STA_Gate.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "川越駅": {
+    "qid": "Q800995",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kawagoe-STA_West.jpg/500px-Kawagoe-STA_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kawagoe-STA_West.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "西武秩父駅": {
+    "qid": "Q7446590",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Seibu_chichibu_sta._20180101.jpg/500px-Seibu_chichibu_sta._20180101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Seibu_chichibu_sta._20180101.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kaze315",
+    "fetched_at": "2026-05-02"
+  },
+  "米原駅（新幹線・北陸本線分岐）": {
+    "qid": "Q801158",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Maibara-station-west-entrance_20110731.jpg/500px-Maibara-station-west-entrance_20110731.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Maibara-station-west-entrance_20110731.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Rsa",
+    "fetched_at": "2026-05-02"
+  },
+  "大津駅": {
+    "qid": "Q1042976",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/JR_West_%C5%8Ctsu_Station_Platform.jpg/500px-JR_West_%C5%8Ctsu_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_West_%C5%8Ctsu_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "彦根駅": {
+    "qid": "Q1131151",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HikoneStation-WestGate.jpg/500px-HikoneStation-WestGate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:HikoneStation-WestGate.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Onagadori",
+    "fetched_at": "2026-05-02"
+  },
+  "長浜駅": {
+    "qid": "Q1037083",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/JRW-NagahamaStation-IbukiGate.jpg/500px-JRW-NagahamaStation-IbukiGate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRW-NagahamaStation-IbukiGate.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Onagadori",
+    "fetched_at": "2026-05-02"
+  },
+  "松江駅": {
+    "qid": "Q1058652",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Matsue_Station_Platform.jpg/500px-Matsue_Station_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Matsue_Station_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tzu-hsun Hsu",
+    "fetched_at": "2026-05-02"
+  },
+  "出雲市駅": {
+    "qid": "Q860288",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Izumoshi_station01n4592.jpg/500px-Izumoshi_station01n4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Izumoshi_station01n4592.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "浜田駅": {
+    "qid": "Q5643969",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/JR_Hamada_Station_ac.jpg/500px-JR_Hamada_Station_ac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Hamada_Station_ac.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Asturio Cantabrio",
+    "fetched_at": "2026-05-02"
+  },
+  "益田駅": {
+    "qid": "Q6785654",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Platform_of_Masuda_Station.jpg/500px-Platform_of_Masuda_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Platform_of_Masuda_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "出雲大社前駅（一畑電車）": {
+    "qid": "Q11240833",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Izumo_Taisha-mae_Station_2022_oct_2_various_13_23_39_501000.jpeg/500px-Izumo_Taisha-mae_Station_2022_oct_2_various_13_23_39_501000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Izumo_Taisha-mae_Station_2022_oct_2_various_13_23_39_501000.jpeg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Nesnad",
+    "fetched_at": "2026-05-02"
+  },
+  "静岡駅": {
+    "qid": "Q801440",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Shizuoka_Station.jpg/500px-Shizuoka_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shizuoka_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "江戸村のとくぞう",
+    "fetched_at": "2026-05-02"
+  },
+  "浜松駅": {
+    "qid": "Q603640",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/JRC-HamamatsuStation-NorthGate.jpg/500px-JRC-HamamatsuStation-NorthGate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRC-HamamatsuStation-NorthGate.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Onagadori",
+    "fetched_at": "2026-05-02"
+  },
+  "熱海駅": {
+    "qid": "Q800412",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Atami-STA.jpg/500px-Atami-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Atami-STA.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "三島駅": {
+    "qid": "Q375061",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mishima_sta.jpg/500px-Mishima_sta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Mishima_sta.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "S-yamada at Japanese Wikipedia",
+    "fetched_at": "2026-05-02"
+  },
+  "宇都宮駅": {
+    "qid": "Q801549",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Utsunomiya-STA_West.jpg/500px-Utsunomiya-STA_West.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Utsunomiya-STA_West.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "日光駅": {
+    "qid": "Q1048777",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRE_Nikko-STA.jpg/500px-JRE_Nikko-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Nikko-STA.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "那須塩原駅": {
+    "qid": "Q369523",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nasushiobara-STA_Local-line-Platforms.jpg/500px-Nasushiobara-STA_Local-line-Platforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nasushiobara-STA_Local-line-Platforms.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "鬼怒川温泉駅": {
+    "qid": "Q6414419",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/170826_Kinugawa_Onsen_Station_Nikko_Japan02s3.jpg/500px-170826_Kinugawa_Onsen_Station_Nikko_Japan02s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:170826_Kinugawa_Onsen_Station_Nikko_Japan02s3.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "徳島駅": {
+    "qid": "Q860775",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tokushima_Railway_Station_%28platform%29.jpg/500px-Tokushima_Railway_Station_%28platform%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokushima_Railway_Station_(platform).jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Kounosu",
+    "fetched_at": "2026-05-02"
+  },
+  "鳴門駅": {
+    "qid": "Q6966484",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Platform_of_Naruto_Station.jpg/500px-Platform_of_Naruto_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Platform_of_Naruto_Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "そらみみ",
+    "fetched_at": "2026-05-02"
+  },
+  "阿波池田駅": {
+    "qid": "Q578436",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Awa-Ikeda_Station-2018-01.jpg/500px-Awa-Ikeda_Station-2018-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Awa-Ikeda_Station-2018-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Gohachiyasu1214 This photo was taken with Canon EOS 450D",
+    "fetched_at": "2026-05-02"
+  },
+  "大歩危駅": {
+    "qid": "Q900681",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JRS_%C5%8Dboke_sta.jpg/500px-JRS_%C5%8Dboke_sta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRS_%C5%8Dboke_sta.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Mitsuki-2368",
+    "fetched_at": "2026-05-02"
+  },
+  "東京駅（新幹線4路線が発着）": {
+    "qid": "Q283196",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/500px-Tokyo-STA_Marunouchi-Entrance_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tokyo-STA_Marunouchi-Entrance_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新宿駅（世界最多乗降客数）": {
+    "qid": "Q801447",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/JRE-Shinjuku-STA_South-entrance.jpg/500px-JRE-Shinjuku-STA_South-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Shinjuku-STA_South-entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "渋谷駅": {
+    "qid": "Q428811",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E6%B8%8B%E8%B0%B7%E9%A7%8520200525.jpg/500px-%E6%B8%8B%E8%B0%B7%E9%A7%8520200525.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E8%B0%B7%E9%A7%8520200525.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "片割れ靴下 (unpaired sock)",
+    "fetched_at": "2026-05-02"
+  },
+  "上野駅": {
+    "qid": "Q801551",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/JRE-Ueno-STA.jpg/500px-JRE-Ueno-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Ueno-STA.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "品川駅": {
+    "qid": "Q801442",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/JRE-Shinagawa-STA_Takanawa-entrance.jpg/500px-JRE-Shinagawa-STA_Takanawa-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE-Shinagawa-STA_Takanawa-entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "池袋駅": {
+    "qid": "Q173919",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ikebukuro-STA_East.jpg/500px-Ikebukuro-STA_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Ikebukuro-STA_East.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "鳥取駅": {
+    "qid": "Q858295",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tottori_st10s2720.jpg/500px-Tottori_st10s2720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Tottori_st10s2720.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "米子駅": {
+    "qid": "Q1139558",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%E7%B1%B3%E5%AD%90%E9%A7%85%E9%A7%85%E8%88%8E.jpg/500px-%E7%B1%B3%E5%AD%90%E9%A7%85%E9%A7%85%E8%88%8E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E7%B1%B3%E5%AD%90%E9%A7%85%E9%A7%85%E8%88%8E.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "You19994",
+    "fetched_at": "2026-05-02"
+  },
+  "倉吉駅": {
+    "qid": "Q899254",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kurayoshi_Station%2C_north_entrance.jpg/500px-Kurayoshi_Station%2C_north_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kurayoshi_Station,_north_entrance.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Saigen Jiro",
+    "fetched_at": "2026-05-02"
+  },
+  "境港駅": {
+    "qid": "Q7402786",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/JRW_Sakaiminato-STA_Platform.jpg/500px-JRW_Sakaiminato-STA_Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRW_Sakaiminato-STA_Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "富山駅": {
+    "qid": "Q1053070",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Toyama_station_2019-08-12%281%29_sa.jpg/500px-Toyama_station_2019-08-12%281%29_sa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Toyama_station_2019-08-12(1)_sa.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Araisyohei",
+    "fetched_at": "2026-05-02"
+  },
+  "高岡駅": {
+    "qid": "Q871547",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Takaoka-STA_Zuiryuji-entrance.jpg/500px-Takaoka-STA_Zuiryuji-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Takaoka-STA_Zuiryuji-entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新高岡駅（北陸新幹線）": {
+    "qid": "Q7497129",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shin-Takaoka-STA_Johana-line-Platform.jpg/500px-Shin-Takaoka-STA_Johana-line-Platform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shin-Takaoka-STA_Johana-line-Platform.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "黒部宇奈月温泉駅（北陸新幹線）": {
+    "qid": "Q7497114",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kurobe-Unazukionsen_Station.jpg/500px-Kurobe-Unazukionsen_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kurobe-Unazukionsen_Station.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "RESPITE",
+    "fetched_at": "2026-05-02"
+  },
+  "和歌山駅": {
+    "qid": "Q1044107",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wakayama-STA_Central-entrance_MIO.jpg/500px-Wakayama-STA_Central-entrance_MIO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Wakayama-STA_Central-entrance_MIO.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新宮駅": {
+    "qid": "Q5357415",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Shingu_Station01s4s4592.jpg/500px-Shingu_Station01s4s4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shingu_Station01s4s4592.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "白浜駅": {
+    "qid": "Q2888561",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/JRW_Shirahama-STA_Platforms.jpg/500px-JRW_Shirahama-STA_Platforms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRW_Shirahama-STA_Platforms.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "串本駅": {
+    "qid": "Q2682092",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E4%B8%B2%E6%9C%AC%E9%A7%85_%E9%A7%85%E8%88%8E.2021.jpg/500px-%E4%B8%B2%E6%9C%AC%E9%A7%85_%E9%A7%85%E8%88%8E.2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E4%B8%B2%E6%9C%AC%E9%A7%85_%E9%A7%85%E8%88%8E.2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ほっきー",
+    "fetched_at": "2026-05-02"
+  },
+  "紀伊勝浦駅": {
+    "qid": "Q2584999",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/KiikatsuuraSt.jpg/500px-KiikatsuuraSt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:KiikatsuuraSt.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Kouchiumi",
+    "fetched_at": "2026-05-02"
+  },
+  "高野山駅（南海ケーブル）": {
+    "qid": "Q6455335",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nankai_Koyasan_Station_20161112.jpg/500px-Nankai_Koyasan_Station_20161112.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Nankai_Koyasan_Station_20161112.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "KishujiRapid",
+    "fetched_at": "2026-05-02"
+  },
+  "山形駅": {
+    "qid": "Q1135793",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/JR_East_Yamagata_Station_East_Exit%2C_Yamagata_Pref.jpg/500px-JR_East_Yamagata_Station_East_Exit%2C_Yamagata_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Yamagata_Station_East_Exit,_Yamagata_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "米沢駅": {
+    "qid": "Q1137040",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Yonezawa_station001.JPG/500px-Yonezawa_station001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Yonezawa_station001.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Vanquish0",
+    "fetched_at": "2026-05-02"
+  },
+  "鶴岡駅": {
+    "qid": "Q7850300",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JR_East_Tsuruoka_Station_building.jpg/500px-JR_East_Tsuruoka_Station_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Tsuruoka_Station_building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "酒田駅": {
+    "qid": "Q11315202",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JR_East_Sakata_Station_building%2C_Yamagata_Pref.jpg/500px-JR_East_Sakata_Station_building%2C_Yamagata_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Sakata_Station_building,_Yamagata_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "新庄駅": {
+    "qid": "Q1188523",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JR_East_Shinj%C5%8D_Station_Platform_1%E3%83%BB2%E3%83%BB5%2C_Yamagata_Pref.jpg/500px-JR_East_Shinj%C5%8D_Station_Platform_1%E3%83%BB2%E3%83%BB5%2C_Yamagata_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_East_Shinj%C5%8D_Station_Platform_1%E3%83%BB2%E3%83%BB5,_Yamagata_Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  },
+  "新山口駅（山陽新幹線）": {
+    "qid": "Q1136574",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Shin-Yamaguchi-STA_Concourse.jpg/500px-Shin-Yamaguchi-STA_Concourse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shin-Yamaguchi-STA_Concourse.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "下関駅": {
+    "qid": "Q1130253",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Shimonoseki_station_20150502.JPG/500px-Shimonoseki_station_20150502.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Shimonoseki_station_20150502.JPG",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Hirosin41",
+    "fetched_at": "2026-05-02"
+  },
+  "萩駅": {
+    "qid": "Q5638728",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/JRW_Hagi-STA.jpg/500px-JRW_Hagi-STA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRW_Hagi-STA.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MaedaAkihiko",
+    "fetched_at": "2026-05-02"
+  },
+  "新下関駅": {
+    "qid": "Q1074353",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/%E6%96%B0%E4%B8%8B%E9%96%A2%E9%A7%85_%E6%9D%B1%E5%8F%A3%EF%BC%882023%E5%B9%B49%E6%9C%88%EF%BC%89.jpg/500px-%E6%96%B0%E4%B8%8B%E9%96%A2%E9%A7%85_%E6%9D%B1%E5%8F%A3%EF%BC%882023%E5%B9%B49%E6%9C%88%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E4%B8%8B%E9%96%A2%E9%A7%85_%E6%9D%B1%E5%8F%A3%EF%BC%882023%E5%B9%B49%E6%9C%88%EF%BC%89.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "なしはな",
+    "fetched_at": "2026-05-02"
+  },
+  "甲府駅": {
+    "qid": "Q1066072",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/K%C5%8Dfu_Station_201904a.jpg/500px-K%C5%8Dfu_Station_201904a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:K%C5%8Dfu_Station_201904a.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "江戸村のとくぞう",
+    "fetched_at": "2026-05-02"
+  },
+  "大月駅": {
+    "qid": "Q843189",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JRE_Otsuki-STA_Platform4-5.jpg/500px-JRE_Otsuki-STA_Platform4-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JRE_Otsuki-STA_Platform4-5.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "MaedaAkihiko This photo was taken with Panasonic Lumix DC-FZ…",
+    "fetched_at": "2026-05-02"
+  },
+  "河口湖駅（富士急行）": {
+    "qid": "Q6379504",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/170505_Kawaguchiko_Station_Kawaguchiko_Yamanashi_pref_Japan03s3.jpg/500px-170505_Kawaguchiko_Station_Kawaguchiko_Yamanashi_pref_Japan03s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:170505_Kawaguchiko_Station_Kawaguchiko_Yamanashi_pref_Japan03s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "663highland",
+    "fetched_at": "2026-05-02"
+  },
+  "韮崎駅": {
+    "qid": "Q8014441",
+    "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JR_Chuo-Main-Line_Nirasaki_Station_building.jpg/500px-JR_Chuo-Main-Line_Nirasaki_Station_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page_url": "https://commons.wikimedia.org/wiki/File:JR_Chuo-Main-Line_Nirasaki_Station_building.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister0124",
+    "fetched_at": "2026-05-02"
+  }
+}

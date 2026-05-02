@@ -1,0 +1,11 @@
+id: saikai
+name: 西海国立公園
+kana: さいかいこくりつこうえん
+category: national_park
+prefectures:
+- 長崎県
+designation_year: 1955
+highlights:
+- 九十九島
+- 五島列島
+- 平戸島

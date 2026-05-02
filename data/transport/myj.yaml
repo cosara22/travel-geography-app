@@ -1,0 +1,8 @@
+id: myj
+name: 松山空港
+kana: まつやまくうこう
+type: airport
+code: MYJ
+prefectures:
+- 愛媛県
+tags: []

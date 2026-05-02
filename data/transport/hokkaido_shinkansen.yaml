@@ -1,0 +1,10 @@
+id: hokkaido_shinkansen
+name: 北海道新幹線
+kana: ほっかいどうしんかんせん
+type: shinkansen
+prefectures:
+- 青森県
+- 北海道
+tags:
+- 2016年開業
+- 青函トンネル

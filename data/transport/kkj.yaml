@@ -1,0 +1,10 @@
+id: kkj
+name: 北九州空港
+kana: きたきゅうしゅうくうこう
+type: airport
+code: KKJ
+prefectures:
+- 福岡県
+tags:
+- 24時間運用
+- 海上空港

@@ -1,0 +1,12 @@
+id: ito
+name: 伊東温泉
+kana: いとうおんせん
+prefecture: 静岡県
+category: onsen
+location:
+  city: 伊東市
+spring_quality:
+- 塩化物泉
+tags:
+- 源泉数全国2位
+- 湧出量全国2位

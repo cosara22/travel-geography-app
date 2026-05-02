@@ -1,0 +1,8 @@
+id: fks
+name: 福島空港
+kana: ふくしまくうこう
+type: airport
+code: FKS
+prefectures:
+- 福島県
+tags: []

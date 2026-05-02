@@ -1,0 +1,8 @@
+id: ash_asj
+name: 奄美空港
+kana: あまみくうこう
+type: airport
+code: ASJ
+prefectures:
+- 鹿児島県
+tags: []

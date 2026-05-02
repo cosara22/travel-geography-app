@@ -1,0 +1,9 @@
+id: fuk
+name: 福岡空港
+kana: ふくおかくうこう
+type: airport
+code: FUK
+prefectures:
+- 福岡県
+tags:
+- 市街地直結

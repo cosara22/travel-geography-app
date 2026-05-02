@@ -1,0 +1,9 @@
+id: alpine_route
+name: 立山黒部アルペンルート
+kana: たてやまくろべアルペンルート
+type: tourist_railway
+prefectures:
+- 富山県
+- 長野県
+tags:
+- 雪の大谷

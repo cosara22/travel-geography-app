@@ -1,0 +1,17 @@
+id: hokuriku_shinkansen
+name: 北陸新幹線
+kana: ほくりくしんかんせん
+type: shinkansen
+prefectures:
+- 東京都
+- 埼玉県
+- 群馬県
+- 長野県
+- 新潟県
+- 富山県
+- 石川県
+- 福井県
+tags:
+- かがやき
+- はくたか
+- 2024年敦賀延伸

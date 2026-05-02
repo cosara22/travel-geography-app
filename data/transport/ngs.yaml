@@ -1,0 +1,9 @@
+id: ngs
+name: 長崎空港
+kana: ながさきくうこう
+type: airport
+code: NGS
+prefectures:
+- 長崎県
+tags:
+- 世界初の海上空港

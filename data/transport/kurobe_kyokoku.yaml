@@ -1,0 +1,8 @@
+id: kurobe_kyokoku
+name: 黒部峡谷鉄道
+kana: くろべきょうこくてつどう
+type: tourist_railway
+prefectures:
+- 富山県
+tags:
+- トロッコ電車

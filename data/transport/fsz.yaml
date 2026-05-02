@@ -1,0 +1,9 @@
+id: fsz
+name: 静岡空港
+kana: しずおかくうこう
+type: airport
+code: FSZ
+prefectures:
+- 静岡県
+tags:
+- 富士山静岡空港

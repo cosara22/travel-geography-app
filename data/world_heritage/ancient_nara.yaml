@@ -1,0 +1,16 @@
+id: ancient_nara
+name: 古都奈良の文化財
+kana: ことならのぶんかざい
+type: cultural
+year: 1998
+prefectures:
+- 奈良県
+components:
+- 東大寺
+- 興福寺
+- 春日大社
+- 春日山原始林
+- 元興寺
+- 薬師寺
+- 唐招提寺
+- 平城宮跡

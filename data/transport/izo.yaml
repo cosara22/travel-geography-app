@@ -1,0 +1,9 @@
+id: izo
+name: 出雲縁結び空港
+kana: いずもえんむすびくうこう
+type: airport
+code: IZO
+prefectures:
+- 島根県
+tags:
+- 出雲大社

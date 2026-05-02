@@ -1,0 +1,12 @@
+id: kinosaki
+name: 城崎温泉
+kana: きのさきおんせん
+prefecture: 兵庫県
+category: onsen
+location:
+  city: 豊岡市
+spring_quality:
+- 塩化物泉
+tags:
+- 外湯七湯
+- 志賀直哉『城の崎にて』

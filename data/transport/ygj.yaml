@@ -1,0 +1,9 @@
+id: ygj
+name: 米子鬼太郎空港
+kana: よなごきたろうくうこう
+type: airport
+code: YGJ
+prefectures:
+- 鳥取県
+tags:
+- ゲゲゲの鬼太郎

@@ -1,0 +1,14 @@
+id: naruko
+name: 鳴子温泉郷
+kana: なるこおんせんきょう
+prefecture: 宮城県
+category: onsen
+location:
+  city: 大崎市
+spring_quality:
+- 硫黄泉
+- 酸性泉
+- 塩化物泉
+tags:
+- こけし発祥
+- 源泉数日本2位級

@@ -1,0 +1,11 @@
+id: itm
+name: 大阪国際空港（伊丹）
+kana: おおさかこくさいくうこう
+type: airport
+code: ITM
+prefectures:
+- 大阪府
+- 兵庫県
+tags:
+- 国内線
+- 通称伊丹

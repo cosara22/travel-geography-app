@@ -1,0 +1,10 @@
+id: yamagata_shinkansen
+name: 山形新幹線
+kana: やまがたしんかんせん
+type: shinkansen
+prefectures:
+- 福島県
+- 山形県
+tags:
+- ミニ新幹線
+- つばさ

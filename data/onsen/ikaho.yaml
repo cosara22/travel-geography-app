@@ -1,0 +1,14 @@
+id: ikaho
+name: 伊香保温泉
+kana: いかほおんせん
+prefecture: 群馬県
+category: onsen
+location:
+  city: 渋川市
+spring_quality:
+- 塩化物泉
+- 硫酸塩泉
+tags:
+- 石段街
+- 黄金の湯
+- 白銀の湯

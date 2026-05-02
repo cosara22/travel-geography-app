@@ -1,0 +1,9 @@
+id: iwk
+name: 岩国錦帯橋空港
+kana: いわにしきんたいきょうくうこう
+type: airport
+code: IWK
+prefectures:
+- 山口県
+tags:
+- 錦帯橋

@@ -1,0 +1,10 @@
+id: nrt
+name: 成田国際空港
+kana: なりたこくさいくうこう
+type: airport
+code: NRT
+prefectures:
+- 千葉県
+tags:
+- 国際線主要
+- 1978年開港

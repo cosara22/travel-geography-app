@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>早見表 — Nippon Geo Quest</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-slate-50 min-h-screen">
+  <header class="bg-amber-600 text-white shadow">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+      <h1 class="text-xl font-bold">📚 早見表</h1>
+      <a href="index.html" class="text-amber-100 hover:text-white text-sm">← ホーム</a>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-6 py-6">
+    <!-- タブ -->
+    <div class="flex border-b mb-4 overflow-x-auto">
+      <button data-tab="heritage" class="tab-btn active px-4 py-2 font-medium text-sm whitespace-nowrap">🌍 世界遺産</button>
+      <button data-tab="parks" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">🏔️ 国立公園</button>
+      <button data-tab="onsen" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">♨️ 温泉</button>
+      <button data-tab="festivals" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">🎌 祭り</button>
+      <button data-tab="cuisine" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">🍜 郷土料理</button>
+      <button data-tab="airports" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">✈️ 空港コード</button>
+      <button data-tab="threes" class="tab-btn px-4 py-2 font-medium text-sm whitespace-nowrap">🏆 日本三大○○</button>
+    </div>
+
+    <input type="text" id="search-input" placeholder="検索（カタカナ／ひらがな／漢字）..." class="w-full p-3 mb-4 border rounded shadow-sm focus:outline-none focus:ring-2 focus:ring-amber-400">
+
+    <div id="content-area" class="bg-white rounded-lg shadow p-6">
+      <div class="text-slate-500 text-sm">読み込み中…</div>
+    </div>
+  </main>
+
+  <script src="js/data.js?v=3"></script>
+  <script>
+    let GEO = null;
+    let IMAGES = { world_heritage: {}, national_parks: {}, onsen: {}, festivals: {}, cuisine: {} };
+    let currentTab = "heritage";
+    let searchKeyword = "";
+
+    function matchesSearch(text) {
+      if (!searchKeyword) return true;
+      return text.toLowerCase().includes(searchKeyword.toLowerCase());
+    }
+
+    // 名前から日本語Wikipediaの記事URLを生成（カッコ・ハイフン以降を除去して短縮形に）
+    function wikipediaUrl(name) {
+      const clean = (name || "").replace(/[（(].*$/, "").split(/[-―‐]/)[0].trim();
+      return clean ? `https://ja.wikipedia.org/wiki/${encodeURIComponent(clean)}` : "";
+    }
+
+    function wikipediaLink(name, label = "📖 Wikipediaで詳しく") {
+      const url = wikipediaUrl(name);
+      if (!url) return "";
+      return `<a href="${url}" target="_blank" rel="noopener" class="inline-block text-xs text-blue-600 hover:underline mt-1">${label} →</a>`;
+    }
+
+    // 画像つき情報のクレジット行（撮影者・ライセンス、1行truncate＋tooltip）
+    function creditCaption(img) {
+      if (!img) return "";
+      const author = img.author || "Unknown";
+      const license = img.license || "";
+      const fullCredit = (author + " / " + license).replace(/"/g, "&quot;");
+      return `
+        <p class="text-[10px] text-slate-400 mt-1 leading-tight truncate" title="${fullCredit}">
+          📷 ${author} / <a href="${img.license_url}" target="_blank" rel="noopener" class="hover:underline">${license}</a>
+        </p>`;
+    }
+
+    // 上部画像つきコンパクトカード（onsen/festivals/cuisine 用）
+    // bodyHTML は名前・所在・タグなどの本文部分。
+    function compactCard(img, name, bodyHTML, accentClass = "bg-slate-50") {
+      const imgHTML = img ? `
+        <a href="${img.page_url}" target="_blank" rel="noopener" class="block">
+          <img src="${img.thumb_url}" alt="${name}" loading="lazy"
+               class="w-full h-32 object-cover rounded-t"
+               onerror="this.style.display='none'">
+        </a>` : "";
+      return `
+        <div class="${accentClass} rounded shadow-sm overflow-hidden flex flex-col">
+          ${imgHTML}
+          <div class="p-2 flex-1 flex flex-col">
+            ${bodyHTML}
+            <div class="mt-auto">${creditCaption(img)}</div>
+          </div>
+        </div>`;
+    }
+
+    // 画像列（左側、固定幅）。img未取得なら空文字。
+    function imageColumn(img, alt) {
+      if (!img) return "";
+      return `
+        <div class="flex-shrink-0 w-56">
+          <a href="${img.page_url}" target="_blank" rel="noopener" class="block">
+            <img src="${img.thumb_url}" alt="${alt}" loading="lazy"
+                 class="w-56 h-40 object-cover rounded shadow-sm"
+                 onerror="this.parentElement.parentElement.style.display='none'">
+          </a>
+          ${creditCaption(img)}
+        </div>`;
+    }
+
+    function renderHeritage() {
+      const items = Object.values(GEO.world_heritage);
+      const cultural = items.filter(i => i.type === "cultural").filter(i =>
+        matchesSearch(i.name + i.kana + i.prefectures.join(""))
+      );
+      const natural = items.filter(i => i.type === "natural").filter(i =>
+        matchesSearch(i.name + i.kana + i.prefectures.join(""))
+      );
+
+      const renderItem = (h) => `
+        <div class="border-l-4 border-blue-400 pl-3 py-3 mb-3">
+          <div class="flex gap-4 items-start">
+            ${imageColumn(IMAGES.world_heritage[h.id], h.name)}
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2 mb-1 flex-wrap">
+                <strong class="text-slate-800">${h.name}</strong>
+                <span class="text-xs bg-blue-100 text-blue-700 px-2 rounded">${h.year}年</span>
+                <span class="text-xs text-slate-500">${h.prefectures.join("・")}</span>
+              </div>
+              ${h.components && h.components.length ? `<p class="text-xs text-slate-600 mt-1 leading-relaxed">構成資産: ${h.components.slice(0, 5).join(" / ")}${h.components.length > 5 ? ` ほか${h.components.length - 5}件` : ""}</p>` : ""}
+              ${wikipediaLink(h.name)}
+            </div>
+          </div>
+        </div>
+      `;
+
+      return `
+        <h2 class="text-lg font-bold mb-3">🏛️ 文化遺産（${cultural.length}件）</h2>
+        ${cultural.map(renderItem).join("")}
+        <h2 class="text-lg font-bold mb-3 mt-6">🌳 自然遺産（${natural.length}件）</h2>
+        ${natural.map(renderItem).join("")}
+      `;
+    }
+
+    function renderParks() {
+      const items = Object.values(GEO.national_parks).filter(i =>
+        matchesSearch(i.name + i.kana + i.prefectures.join(""))
+      );
+      // 地方順にソート
+      const sorted = items.sort((a, b) => a.designation_year - b.designation_year);
+      return `
+        <h2 class="text-lg font-bold mb-3">🏔️ 国立公園 全${sorted.length}件（指定年順）</h2>
+        ${sorted.map(p => `
+          <div class="border-l-4 border-emerald-400 pl-3 py-3 mb-3">
+            <div class="flex gap-4 items-start">
+              ${imageColumn(IMAGES.national_parks[p.id], p.name)}
+              <div class="flex-1 min-w-0">
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
+                  <strong class="text-slate-800">${p.name}</strong>
+                  <span class="text-xs bg-emerald-100 text-emerald-700 px-2 rounded">${p.designation_year}年</span>
+                  <span class="text-xs text-slate-500">${p.prefectures.join("・")}</span>
+                </div>
+                <p class="text-xs text-slate-600">${(p.highlights || []).slice(0, 4).join(" / ")}</p>
+                ${wikipediaLink(p.name)}
+              </div>
+            </div>
+          </div>
+        `).join("")}
+      `;
+    }
+
+    function renderOnsen() {
+      const items = Object.values(GEO.onsen).filter(i =>
+        matchesSearch(i.name + i.kana + i.prefecture + (i.tags || []).join(""))
+      );
+      // タグ別グループ
+      const groups = {};
+      items.forEach(o => {
+        const tags = (o.tags || []).filter(t => t.includes("三") || t.includes("名"));
+        const key = tags.length > 0 ? tags[0] : "その他";
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(o);
+      });
+      return Object.entries(groups).map(([k, list]) => `
+        <h3 class="text-sm font-bold text-slate-700 mt-4 mb-2">${k} <span class="text-xs text-slate-400">(${list.length})</span></h3>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 mb-4">
+          ${list.map(o => compactCard(IMAGES.onsen[o.id], o.name, `
+            <strong class="text-sm text-slate-800">${o.name}</strong>
+            <p class="text-xs text-slate-500 mt-0.5">${o.prefecture}</p>
+            ${(o.spring_quality || []).length ? `<p class="text-[11px] text-slate-600 mt-1">♨️ ${(o.spring_quality || []).join("・")}</p>` : ""}
+            ${(o.tags || []).length ? `<p class="text-[10px] text-slate-400 mt-1">${(o.tags || []).join(", ")}</p>` : ""}
+          `, "bg-rose-50/50")).join("")}
+        </div>
+      `).join("");
+    }
+
+    function renderFestivals() {
+      const items = Object.values(GEO.festivals).filter(i =>
+        matchesSearch(i.name + i.kana + i.prefecture)
+      );
+      // 月別グループ
+      const byMonth = {};
+      items.forEach(f => {
+        const m = f.month || "?";
+        if (!byMonth[m]) byMonth[m] = [];
+        byMonth[m].push(f);
+      });
+      const monthOrder = Object.keys(byMonth).sort((a, b) => (Number(a) || 99) - (Number(b) || 99));
+      return monthOrder.map(m => `
+        <h3 class="text-sm font-bold text-slate-700 mt-4 mb-2">${m === "?" ? "通年・他" : m + "月"} <span class="text-xs text-slate-400">(${byMonth[m].length})</span></h3>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 mb-4">
+          ${byMonth[m].map(f => compactCard(IMAGES.festivals[f.id], f.name, `
+            <strong class="text-sm text-slate-800">${f.name}</strong>
+            <p class="text-xs text-slate-500 mt-0.5">${f.prefecture}${f.city ? " " + f.city : ""}</p>
+            ${(f.tags || []).length ? `<p class="text-[10px] text-slate-400 mt-1">${(f.tags || []).join(", ")}</p>` : ""}
+          `, "bg-amber-50/50")).join("")}
+        </div>
+      `).join("");
+    }
+
+    function renderCuisine() {
+      const items = Object.values(GEO.cuisine).filter(i =>
+        matchesSearch(i.name + i.kana + i.prefecture)
+      );
+      const groups = {};
+      items.forEach(c => {
+        const cat = c.category || "other";
+        if (!groups[cat]) groups[cat] = [];
+        groups[cat].push(c);
+      });
+      const catLabel = {
+        dish: "🍚 郷土料理", sweet: "🍡 菓子", agriculture: "🌾 農産物",
+        fisheries: "🐟 水産物", craft: "🎨 工芸品", alcohol: "🍶 酒類", other: "📦 その他"
+      };
+      return Object.entries(groups).map(([cat, list]) => `
+        <h3 class="text-sm font-bold text-slate-700 mt-4 mb-2">${catLabel[cat] || cat} <span class="text-xs text-slate-400">(${list.length})</span></h3>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 mb-4">
+          ${list.map(c => compactCard(IMAGES.cuisine[c.id], c.name, `
+            <strong class="text-sm text-slate-800">${c.name}</strong>
+            <p class="text-xs text-slate-500 mt-0.5">${c.prefecture}</p>
+            ${(c.tags || []).length ? `<p class="text-[10px] text-slate-400 mt-1">${(c.tags || []).join(", ")}</p>` : ""}
+          `, "bg-stone-50")).join("")}
+        </div>
+      `).join("");
+    }
+
+    function renderAirports() {
+      const items = Object.values(GEO.transport)
+        .filter(t => t.type === "airport" && t.code)
+        .filter(i => matchesSearch(i.name + i.kana + i.code + (i.prefectures || []).join("")))
+        .sort((a, b) => a.code.localeCompare(b.code));
+      return `
+        <table class="w-full text-sm">
+          <thead class="bg-slate-100 text-xs text-slate-600">
+            <tr><th class="text-left p-2">コード</th><th class="text-left p-2">空港名</th><th class="text-left p-2">所在</th></tr>
+          </thead>
+          <tbody>
+            ${items.map(a => `
+              <tr class="border-b">
+                <td class="p-2 font-mono font-bold text-blue-700">${a.code}</td>
+                <td class="p-2">${a.name}</td>
+                <td class="p-2 text-xs">${(a.prefectures || []).join("・")}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+    }
+
+    function renderThrees() {
+      const data = [
+        ["日本三名園", "偕楽園（茨城）/ 兼六園（石川）/ 後楽園（岡山）"],
+        ["日本三名泉", "草津温泉（群馬）/ 有馬温泉（兵庫）/ 下呂温泉（岐阜）"],
+        ["日本三古湯", "道後温泉（愛媛）/ 有馬温泉（兵庫）/ 白浜温泉（和歌山）"],
+        ["日本三景", "松島（宮城）/ 天橋立（京都）/ 宮島（広島）"],
+        ["日本三名瀑", "華厳の滝（栃木）/ 那智の滝（和歌山）/ 袋田の滝（茨城）"],
+        ["日本三大鍾乳洞", "秋芳洞（山口）/ 龍泉洞（岩手）/ 龍河洞（高知）"],
+        ["日本三大盆踊り", "阿波おどり（徳島）/ 西馬音内盆踊り（秋田）/ 郡上おどり（岐阜）"],
+        ["日本三大祭", "祇園祭（京都）/ 天神祭（大阪）/ 神田祭（東京）"],
+        ["京都三大祭", "祇園祭・葵祭・時代祭"],
+        ["江戸三大祭", "神田祭・山王祭・深川祭（または三社祭）"],
+        ["東北三大祭", "青森ねぶた・秋田竿燈・仙台七夕"],
+        ["日本三大美祭", "高山祭（岐阜）/ 祇園祭（京都）/ 秩父夜祭（埼玉）"],
+        ["日本三大曳山祭", "祇園祭・高山祭・秩父夜祭"],
+        ["日本三大和牛", "松阪牛（三重）/ 神戸ビーフ（兵庫）/ 近江牛（滋賀）"],
+        ["日本三大うどん", "讃岐うどん（香川）/ 稲庭うどん（秋田）/ 水沢うどん（群馬）"],
+        ["日本三大急流", "最上川（山形）/ 富士川（山梨〜静岡）/ 球磨川（熊本）"],
+        ["日本三奇橋", "猿橋（山梨）/ 錦帯橋（山口）/ かずら橋（徳島）"],
+        ["日本三大奇景", "妙義山（群馬）/ 寒霞渓（香川）/ 耶馬渓（大分）"],
+        ["日本三大カルデラ湖", "摩周湖・屈斜路湖・阿寒湖（北海道）"],
+        ["国宝5天守", "姫路・松本・犬山・彦根・松江"],
+        ["現存12天守", "弘前・松本・丸岡・犬山・彦根・姫路・松江・備中松山・丸亀・松山・宇和島・高知"],
+        ["日本三大美肌の湯", "嬉野（佐賀）/ 斐乃上（島根）/ 喜連川（栃木）"],
+        ["日本三大稲荷", "伏見稲荷（京都）/ 豊川稲荷（愛知）/ 祐徳稲荷（佐賀）"],
+        ["日本三大天神", "北野天満宮（京都）/ 太宰府天満宮（福岡）/ 防府天満宮（山口）"],
+        ["日本三大松原", "虹の松原（佐賀）/ 三保の松原（静岡）/ 気比の松原（福井）"],
+        ["日本三大花火", "大曲（秋田）/ 長岡（新潟）/ 土浦（茨城）"],
+        ["奥州三名湯", "飯坂温泉（福島）/ 東山温泉（福島）/ 鳴子温泉（宮城）"],
+        ["日本三名橋", "錦帯橋（山口）/ 日本橋（東京）/ 眼鏡橋（長崎）"],
+      ];
+      const items = data.filter(d => matchesSearch(d[0] + d[1]));
+      return `
+        <table class="w-full text-sm">
+          <thead class="bg-slate-100 text-xs text-slate-600">
+            <tr><th class="text-left p-2 w-1/4">名称</th><th class="text-left p-2">構成</th></tr>
+          </thead>
+          <tbody>
+            ${items.map(d => `
+              <tr class="border-b hover:bg-amber-50">
+                <td class="p-2 font-bold text-slate-800">${d[0]}</td>
+                <td class="p-2 text-slate-700">${d[1]}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+    }
+
+    const RENDERERS = {
+      heritage: renderHeritage,
+      parks: renderParks,
+      onsen: renderOnsen,
+      festivals: renderFestivals,
+      cuisine: renderCuisine,
+      airports: renderAirports,
+      threes: renderThrees,
+    };
+
+    function render() {
+      const r = RENDERERS[currentTab];
+      document.getElementById("content-area").innerHTML = r ? r() : "";
+    }
+
+    (async () => {
+      try {
+        const [geo, whImg, npImg, onsenImg, festImg, cuisineImg] = await Promise.all([
+          loadGeoData(),
+          loadImageIndex("world_heritage"),
+          loadImageIndex("national_parks"),
+          loadImageIndex("onsen"),
+          loadImageIndex("festivals"),
+          loadImageIndex("cuisine"),
+        ]);
+        GEO = geo;
+        IMAGES.world_heritage = whImg;
+        IMAGES.national_parks = npImg;
+        IMAGES.onsen = onsenImg;
+        IMAGES.festivals = festImg;
+        IMAGES.cuisine = cuisineImg;
+        render();
+      } catch (e) {
+        document.getElementById("content-area").innerHTML = `<div class="text-red-600">データロード失敗: ${e.message}</div>`;
+      }
+
+      document.querySelectorAll(".tab-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          currentTab = btn.dataset.tab;
+          render();
+        });
+      });
+
+      document.getElementById("search-input").addEventListener("input", (e) => {
+        searchKeyword = e.target.value.trim();
+        render();
+      });
+    })();
+  </script>
+</body>
+</html>

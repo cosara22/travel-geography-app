@@ -1,0 +1,11 @@
+id: ngo
+name: 中部国際空港（セントレア）
+kana: ちゅうぶこくさいくうこう
+type: airport
+code: NGO
+prefectures:
+- 愛知県
+tags:
+- セントレア
+- 海上空港
+- 2005年開港

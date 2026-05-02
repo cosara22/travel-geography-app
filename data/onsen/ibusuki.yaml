@@ -1,0 +1,11 @@
+id: ibusuki
+name: 指宿温泉
+kana: いぶすきおんせん
+prefecture: 鹿児島県
+category: onsen
+location:
+  city: 指宿市
+spring_quality:
+- 塩化物泉
+tags:
+- 天然砂むし温泉

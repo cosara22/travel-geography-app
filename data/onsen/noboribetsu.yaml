@@ -1,0 +1,14 @@
+id: noboribetsu
+name: 登別温泉
+kana: のぼりべつおんせん
+prefecture: 北海道
+category: onsen
+location:
+  city: 登別市
+spring_quality:
+- 硫黄泉
+- 塩化物泉
+- 硫酸塩泉
+tags:
+- 地獄谷
+- 北海道屈指

@@ -1,0 +1,10 @@
+id: kyushu_shinkansen
+name: 九州新幹線
+kana: きゅうしゅうしんかんせん
+type: shinkansen
+prefectures:
+- 福岡県
+- 熊本県
+- 鹿児島県
+tags:
+- JR九州

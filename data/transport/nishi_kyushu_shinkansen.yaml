@@ -1,0 +1,9 @@
+id: nishi_kyushu_shinkansen
+name: 西九州新幹線
+kana: にしきゅうしゅうしんかんせん
+type: shinkansen
+prefectures:
+- 佐賀県
+- 長崎県
+tags:
+- 2022年開業

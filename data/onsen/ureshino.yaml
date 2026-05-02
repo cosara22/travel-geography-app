@@ -1,0 +1,11 @@
+id: ureshino
+name: 嬉野温泉
+kana: うれしのおんせん
+prefecture: 佐賀県
+category: onsen
+location:
+  city: 嬉野市
+spring_quality:
+- 炭酸水素塩泉
+tags:
+- 日本三大美肌の湯

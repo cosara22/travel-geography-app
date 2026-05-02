@@ -1,0 +1,9 @@
+id: mmb
+name: 女満別空港
+kana: めまんべつくうこう
+type: airport
+code: MMB
+prefectures:
+- 北海道
+tags:
+- 知床・網走の玄関

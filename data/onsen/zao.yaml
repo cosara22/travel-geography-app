@@ -1,0 +1,12 @@
+id: zao
+name: 蔵王温泉
+kana: ざおうおんせん
+prefecture: 山形県
+category: onsen
+location:
+  city: 山形市
+spring_quality:
+- 硫黄泉
+- 酸性泉
+tags:
+- 強酸性硫黄泉

@@ -1,0 +1,8 @@
+id: noto_railway
+name: のと鉄道
+kana: のとてつどう
+type: tourist_railway
+prefectures:
+- 石川県
+tags:
+- 能登

@@ -1,0 +1,11 @@
+id: kix
+name: 関西国際空港
+kana: かんさいこくさいくうこう
+type: airport
+code: KIX
+prefectures:
+- 大阪府
+tags:
+- 24時間運用
+- 海上空港
+- 1994年開港

@@ -1,0 +1,9 @@
+id: yakushima
+name: 屋久島
+kana: やくしま
+type: natural
+year: 1993
+prefectures:
+- 鹿児島県
+components:
+- 屋久島中央山岳地帯

@@ -1,0 +1,11 @@
+id: higashiyama
+name: 東山温泉
+kana: ひがしやまおんせん
+prefecture: 福島県
+category: onsen
+location:
+  city: 会津若松市
+spring_quality:
+- 塩化物泉
+tags:
+- 奥州三名湯

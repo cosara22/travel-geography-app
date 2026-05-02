@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nippon Geo Quest — 日本地理ビジュアル探索アプリ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-slate-50 min-h-screen">
+  <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white shadow">
+    <div class="max-w-5xl mx-auto px-6 py-8">
+      <h1 class="text-3xl font-bold">🗾 Nippon Geo Quest</h1>
+      <p class="mt-2 text-blue-100">Wikidata + Wikimedia Commons から自動収集した日本地理データを<br class="hidden sm:inline">クイズ・地図・早見表で楽しく学べる静的Webアプリ</p>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-6 py-10">
+
+    <section class="mb-8">
+      <h2 class="text-xl font-bold text-slate-800 mb-4">3つの探索モード</h2>
+      <div class="grid md:grid-cols-3 gap-4">
+        <a href="quiz.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-blue-500">
+          <div class="text-4xl mb-2">📝</div>
+          <h3 class="text-lg font-bold text-slate-800">問題演習</h3>
+          <p class="text-sm text-slate-600 mt-1">観光地・温泉・世界遺産・郷土料理などのランダム4択問題</p>
+        </a>
+        <a href="map.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-emerald-500">
+          <div class="text-4xl mb-2">🗾</div>
+          <h3 class="text-lg font-bold text-slate-800">地図で確認</h3>
+          <p class="text-sm text-slate-600 mt-1">日本地図から都道府県を選んで観光資源を確認</p>
+        </a>
+        <a href="lookup.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-amber-500">
+          <div class="text-4xl mb-2">📚</div>
+          <h3 class="text-lg font-bold text-slate-800">早見表</h3>
+          <p class="text-sm text-slate-600 mt-1">世界遺産・国立公園・温泉・祭り・郷土料理を写真つきで一覧</p>
+        </a>
+      </div>
+    </section>
+
+    <section class="bg-white rounded-lg shadow p-6 mb-8">
+      <h2 class="text-xl font-bold text-slate-800 mb-3">📊 クイズスコア</h2>
+      <div id="score-stats" class="text-slate-600">
+        <p class="text-sm">クイズを始めると、ここにモード別の正答率が表示されます。</p>
+      </div>
+      <button id="reset-scores" class="mt-3 text-xs text-red-600 hover:underline">スコアをリセット</button>
+    </section>
+
+    <section class="bg-white rounded-lg shadow p-6">
+      <h2 class="text-xl font-bold text-slate-800 mb-3">📋 データベース統計</h2>
+      <div id="db-stats" class="grid grid-cols-2 md:grid-cols-4 gap-3 text-sm">
+        <div class="text-slate-500">読み込み中…</div>
+      </div>
+    </section>
+
+    <footer class="mt-10 text-center text-xs text-slate-400">
+      <p>データ: <a href="https://www.wikidata.org/" class="hover:underline" target="_blank" rel="noopener">Wikidata</a> / <a href="https://commons.wikimedia.org/" class="hover:underline" target="_blank" rel="noopener">Wikimedia Commons</a> / <a href="https://nlftp.mlit.go.jp/" class="hover:underline" target="_blank" rel="noopener">国土数値情報</a> / <a href="https://www.openstreetmap.org/" class="hover:underline" target="_blank" rel="noopener">OpenStreetMap</a></p>
+      <p class="mt-1"><a href="https://github.com/example/travel-geography-app" class="hover:underline" target="_blank" rel="noopener">GitHub (Source Code)</a> · MIT License</p>
+    </footer>
+  </main>
+
+  <script src="js/data.js?v=2"></script>
+  <script>
+    (async () => {
+      // DB統計
+      try {
+        const data = await loadGeoData();
+        const stats = [
+          { label: "都道府県", count: Object.keys(data.prefectures).length, emoji: "🏯" },
+          { label: "世界遺産", count: Object.keys(data.world_heritage).length, emoji: "🌍" },
+          { label: "国立公園", count: Object.keys(data.national_parks).length, emoji: "🏔️" },
+          { label: "温泉", count: Object.keys(data.onsen).length, emoji: "♨️" },
+          { label: "祭り", count: Object.keys(data.festivals).length, emoji: "🎌" },
+          { label: "郷土料理", count: Object.keys(data.cuisine).length, emoji: "🍜" },
+          { label: "交通機関", count: Object.keys(data.transport).length, emoji: "🚄" },
+        ];
+        document.getElementById("db-stats").innerHTML = stats
+          .map(s => `<div class="bg-slate-50 rounded px-3 py-2"><span class="mr-1">${s.emoji}</span><span class="text-slate-700">${s.label}</span> <span class="font-bold text-blue-600">${s.count}</span></div>`)
+          .join("");
+      } catch (e) {
+        document.getElementById("db-stats").innerHTML = `<div class="text-red-600 col-span-4">データロード失敗: ${e.message}<br><small>※ <code>file://</code> で開いた場合はローカルサーバー経由でアクセスしてください（README.md 参照）</small></div>`;
+      }
+
+      // スコア表示
+      const scores = ScoreStore.load();
+      const scoreEl = document.getElementById("score-stats");
+      const modes = Object.keys(scores);
+      if (modes.length === 0) {
+        // 既定メッセージ維持
+      } else {
+        scoreEl.innerHTML = modes.map(m => {
+          const s = scores[m];
+          const pct = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+          const color = pct >= 80 ? "text-emerald-600" : pct >= 60 ? "text-amber-600" : "text-red-600";
+          return `<div class="flex items-center gap-3 py-1">
+            <span class="font-medium text-slate-700 w-40">${m}</span>
+            <span class="${color} font-bold">${s.correct}/${s.total} (${pct}%)</span>
+            <div class="flex-1 bg-slate-200 rounded h-2 overflow-hidden">
+              <div class="h-full bg-gradient-to-r from-blue-400 to-blue-600" style="width:${pct}%"></div>
+            </div>
+          </div>`;
+        }).join("");
+      }
+
+      document.getElementById("reset-scores").addEventListener("click", () => {
+        if (confirm("クイズスコアを全てリセットしますか？")) {
+          ScoreStore.reset();
+          location.reload();
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

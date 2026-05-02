@@ -1,0 +1,12 @@
+id: unzen
+name: 雲仙温泉
+kana: うんぜんおんせん
+prefecture: 長崎県
+category: onsen
+location:
+  city: 雲仙市
+spring_quality:
+- 硫黄泉
+tags:
+- 雲仙地獄
+- 国立公園

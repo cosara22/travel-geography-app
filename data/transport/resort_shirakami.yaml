@@ -1,0 +1,10 @@
+id: resort_shirakami
+name: リゾートしらかみ
+kana: リゾートしらかみ
+type: tourist_railway
+prefectures:
+- 秋田県
+- 青森県
+tags:
+- 五能線
+- 白神山地

@@ -1,0 +1,8 @@
+id: hna
+name: いわて花巻空港
+kana: いわてはなまきくうこう
+type: airport
+code: HNA
+prefectures:
+- 岩手県
+tags: []

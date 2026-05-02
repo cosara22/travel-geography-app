@@ -1,0 +1,9 @@
+id: sdj
+name: 仙台空港
+kana: せんだいくうこう
+type: airport
+code: SDJ
+prefectures:
+- 宮城県
+tags:
+- 東北の玄関

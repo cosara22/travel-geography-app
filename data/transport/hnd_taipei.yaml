@@ -1,0 +1,9 @@
+id: hnd_taipei
+name: 茨城空港
+kana: いばらきくうこう
+type: airport
+code: IBR
+prefectures:
+- 茨城県
+tags:
+- 百里基地併用

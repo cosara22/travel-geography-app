@@ -1,0 +1,11 @@
+id: shirahone
+name: 白骨温泉
+kana: しらほねおんせん
+prefecture: 長野県
+category: onsen
+location:
+  city: 松本市
+spring_quality:
+- 硫化水素泉
+tags:
+- 乳白色の湯

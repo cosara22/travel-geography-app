@@ -1,0 +1,13 @@
+id: amami_okinawa
+name: 奄美大島、徳之島、沖縄島北部及び西表島
+kana: あまみおおしま、とくのしま、おきなわじまほくぶおよびいりおもてじま
+type: natural
+year: 2021
+prefectures:
+- 鹿児島県
+- 沖縄県
+components:
+- 奄美大島
+- 徳之島
+- 沖縄島北部（やんばる）
+- 西表島

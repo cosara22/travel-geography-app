@@ -1,0 +1,9 @@
+id: kum
+name: 屋久島空港
+kana: やくしまくうこう
+type: airport
+code: KUM
+prefectures:
+- 鹿児島県
+tags:
+- 屋久島

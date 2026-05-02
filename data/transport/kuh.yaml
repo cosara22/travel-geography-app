@@ -1,0 +1,8 @@
+id: kuh
+name: 釧路空港
+kana: くしろくうこう
+type: airport
+code: KUH
+prefectures:
+- 北海道
+tags: []

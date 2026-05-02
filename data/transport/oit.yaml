@@ -1,0 +1,8 @@
+id: oit
+name: 大分空港
+kana: おおいたくうこう
+type: airport
+code: OIT
+prefectures:
+- 大分県
+tags: []

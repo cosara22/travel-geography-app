@@ -1,0 +1,61 @@
+id: ibaraki
+name: 茨城県
+kana: いばらきけん
+code: 08
+region: 関東
+capital: 水戸市
+attractions:
+- 偕楽園
+- 弘道館
+- 袋田の滝
+- 国営ひたち海浜公園
+- 牛久大仏
+- 霞ヶ浦
+- 鹿島神宮
+- 五浦海岸
+- 筑波山
+- JAXA筑波宇宙センター
+- アクアワールド大洗水族館
+- 大洗磯前神社
+onsen:
+- 袋田温泉
+- 大子温泉
+- 五浦温泉
+festivals:
+- 水戸黄門まつり（8月）
+- 笠間の菊まつり
+cuisine:
+- 水戸納豆
+- あんこう鍋
+- メロン（生産日本一）
+- 干し芋（生産日本一）
+- けんちん汁
+world_heritage: []
+national_parks: []
+capes: []
+islands: []
+lakes:
+- 霞ヶ浦
+- 北浦
+mountains:
+- 筑波山
+- 八溝山
+rivers:
+- 那珂川
+- 久慈川
+- 鬼怒川
+- 利根川
+airports:
+- 茨城空港
+jr_lines:
+- 常磐線
+- 水郡線
+- 鹿島線
+- 水戸線
+stations:
+- 水戸駅
+- 土浦駅
+- 取手駅
+- 日立駅
+source_pages:
+- G p.34-44（関東地方の問題に含む）

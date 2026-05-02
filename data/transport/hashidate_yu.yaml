@@ -1,0 +1,9 @@
+id: hashidate_yu
+name: 京都丹後鉄道
+kana: きょうとたんごてつどう
+type: tourist_railway
+prefectures:
+- 京都府
+- 兵庫県
+tags:
+- 天橋立

@@ -1,0 +1,17 @@
+id: chubu_sangaku
+name: 中部山岳国立公園
+kana: ちゅうぶさんがくこくりつこうえん
+category: national_park
+prefectures:
+- 新潟県
+- 富山県
+- 長野県
+- 岐阜県
+designation_year: 1934
+highlights:
+- 北アルプス（飛驒山脈）
+- 槍ヶ岳
+- 穂高岳
+- 立山
+- 上高地
+- 黒部峡谷

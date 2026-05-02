@@ -1,0 +1,118 @@
+/* webapp 共通スタイル（Tailwind CDN を補完するもの） */
+
+body {
+  font-family: 'Segoe UI', 'Hiragino Sans', 'Meiryo', sans-serif;
+}
+
+/* タブのアクティブスタイル */
+.tab-btn {
+  color: #64748b;
+  border-bottom: 3px solid transparent;
+  background: none;
+}
+.tab-btn:hover {
+  color: #d97706;
+}
+.tab-btn.active {
+  color: #d97706;
+  border-bottom-color: #d97706;
+}
+
+/* SVG地図のマーカー */
+.pref-node:hover {
+  filter: brightness(1.1);
+}
+
+/* 全国地図のPOIピン: 白フチ廃止、ドロップシャドウで識別 */
+#poi-layer > g {
+  filter: drop-shadow(0 0.5px 0.8px rgba(0, 0, 0, 0.45));
+  transition: filter 0.12s;
+}
+#poi-layer > g:hover {
+  filter: drop-shadow(0 0 3px rgba(29, 78, 216, 0.7));
+}
+
+/* スクロールバーを薄く（地図詳細パネル） */
+aside::-webkit-scrollbar {
+  width: 6px;
+}
+aside::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+/* ===== 拡大地図 (aside 上部) ===== */
+.zoom-map-sticky {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10;
+  padding: 1.25rem 1.25rem 0.5rem 1.25rem;
+  border-bottom: 1px solid #e2e8f0;
+  /* asideのrounded-lg内側で角を合わせる */
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+#zoom-map {
+  aspect-ratio: 1 / 1;
+  max-height: 320px;
+  cursor: grab;
+  touch-action: none;  /* ブラウザのタッチデフォルト挙動を無効化 */
+  user-select: none;
+}
+#zoom-map .zoom-pref-outline {
+  fill: none;
+  stroke: #475569;
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+  pointer-events: none;
+  vector-effect: non-scaling-stroke;
+}
+#zoom-map .zoom-muni-path {
+  stroke: white;
+  stroke-width: 0.4;
+  fill-opacity: 0.55;
+  cursor: pointer;
+  transition: fill-opacity 0.12s, stroke-width 0.12s;
+  vector-effect: non-scaling-stroke;
+}
+#zoom-map .zoom-muni-path:hover {
+  fill-opacity: 0.9;
+  stroke: #1d4ed8;
+  stroke-width: 1.4;
+}
+#zoom-map .zoom-poi {
+  cursor: pointer;
+  transition: filter 0.12s;
+  /* 白フチの代わりに、ピン全体に控えめなドロップシャドウで背景と分離 */
+  filter: drop-shadow(0 0.5px 0.8px rgba(0, 0, 0, 0.45));
+}
+#zoom-map .zoom-poi:hover {
+  filter: drop-shadow(0 0 3px rgba(29, 78, 216, 0.7));
+}
+#zoom-map .zoom-poi circle {
+  vector-effect: non-scaling-stroke;
+}
+
+.zoom-ctrl-btn {
+  width: 26px;
+  height: 26px;
+  border: 1px solid #cbd5e1;
+  background: white;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 1;
+  cursor: pointer;
+  color: #475569;
+  transition: background 0.1s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.zoom-ctrl-btn:hover {
+  background: #f1f5f9;
+  color: #1e293b;
+}
+.zoom-ctrl-btn:active {
+  background: #e2e8f0;
+}

@@ -1,0 +1,12 @@
+id: amami_gunto
+name: 奄美群島国立公園
+kana: あまみぐんとうこくりつこうえん
+category: national_park
+prefectures:
+- 鹿児島県
+designation_year: 2017
+highlights:
+- 奄美大島
+- 徳之島
+- 沖永良部島
+- 与論島

@@ -1,0 +1,12 @@
+id: kirishima
+name: 霧島温泉郷
+kana: きりしまおんせんきょう
+prefecture: 鹿児島県
+category: onsen
+location:
+  city: 霧島市
+spring_quality:
+- 硫黄泉
+- 炭酸水素塩泉
+tags:
+- 坂本龍馬新婚旅行

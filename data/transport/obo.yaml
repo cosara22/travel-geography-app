@@ -1,0 +1,8 @@
+id: obo
+name: 帯広空港
+kana: おびひろくうこう
+type: airport
+code: OBO
+prefectures:
+- 北海道
+tags: []

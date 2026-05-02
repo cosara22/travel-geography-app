@@ -1,0 +1,8 @@
+id: axt
+name: 秋田空港
+kana: あきたくうこう
+type: airport
+code: AXT
+prefectures:
+- 秋田県
+tags: []

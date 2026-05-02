@@ -1,0 +1,11 @@
+id: ogasawara
+name: 小笠原諸島
+kana: おがさわらしょとう
+type: natural
+year: 2011
+prefectures:
+- 東京都
+components:
+- 父島
+- 母島
+- 聟島列島

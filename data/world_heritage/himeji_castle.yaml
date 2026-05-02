@@ -1,0 +1,12 @@
+id: himeji_castle
+name: 姫路城
+kana: ひめじじょう
+type: cultural
+year: 1993
+prefectures:
+- 兵庫県
+components:
+- 大天守
+- 小天守
+- 渡櫓
+- 城郭

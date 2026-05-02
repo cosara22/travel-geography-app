@@ -1,0 +1,8 @@
+id: syo
+name: 庄内空港
+kana: しょうないくうこう
+type: airport
+code: SYO
+prefectures:
+- 山形県
+tags: []

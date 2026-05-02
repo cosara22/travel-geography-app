@@ -1,0 +1,9 @@
+id: yufuin_no_mori
+name: ゆふいんの森
+kana: ゆふいんのもり
+type: tourist_railway
+prefectures:
+- 福岡県
+- 大分県
+tags:
+- JR九州

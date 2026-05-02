@@ -1,0 +1,8 @@
+id: tak
+name: 高松空港
+kana: たかまつくうこう
+type: airport
+code: TAK
+prefectures:
+- 香川県
+tags: []

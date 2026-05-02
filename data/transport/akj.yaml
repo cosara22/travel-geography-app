@@ -1,0 +1,9 @@
+id: akj
+name: 旭川空港
+kana: あさひかわくうこう
+type: airport
+code: AKJ
+prefectures:
+- 北海道
+tags:
+- 大雪山

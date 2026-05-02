@@ -1,0 +1,13 @@
+id: hakusan
+name: 白山国立公園
+kana: はくさんこくりつこうえん
+category: national_park
+prefectures:
+- 富山県
+- 石川県
+- 福井県
+- 岐阜県
+designation_year: 1962
+highlights:
+- 白山
+- 白山比咩神社

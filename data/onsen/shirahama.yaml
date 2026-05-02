@@ -1,0 +1,12 @@
+id: shirahama
+name: 白浜温泉
+kana: しらはまおんせん
+prefecture: 和歌山県
+category: onsen
+location:
+  city: 白浜町
+spring_quality:
+- 塩化物泉
+tags:
+- 日本三古湯
+- 崎の湯

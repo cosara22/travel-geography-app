@@ -1,0 +1,15 @@
+id: seven_stars
+name: ななつ星 in 九州
+kana: ななつぼしインきゅうしゅう
+type: tourist_railway
+prefectures:
+- 福岡県
+- 佐賀県
+- 長崎県
+- 熊本県
+- 大分県
+- 宮崎県
+- 鹿児島県
+tags:
+- クルーズトレイン
+- JR九州

@@ -1,0 +1,12 @@
+id: dogo
+name: 道後温泉
+kana: どうごおんせん
+prefecture: 愛媛県
+category: onsen
+location:
+  city: 松山市
+spring_quality:
+- 単純温泉
+tags:
+- 日本三古湯
+- 夏目漱石『坊っちゃん』

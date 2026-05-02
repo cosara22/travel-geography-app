@@ -1,0 +1,9 @@
+id: kcz
+name: 高知龍馬空港
+kana: こうちりょうまくうこう
+type: airport
+code: KCZ
+prefectures:
+- 高知県
+tags:
+- 坂本龍馬

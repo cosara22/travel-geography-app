@@ -1,0 +1,11 @@
+id: nikko
+name: 日光の社寺
+kana: にっこうのしゃじ
+type: cultural
+year: 1999
+prefectures:
+- 栃木県
+components:
+- 日光東照宮
+- 日光二荒山神社
+- 日光山輪王寺
