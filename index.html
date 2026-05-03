@@ -20,7 +20,7 @@
       <div class="flex items-center gap-1 text-sm">
         <a href="map.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">地図</a>
         <a href="quiz.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">クイズ</a>
-        <a href="lookup.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">早見表</a>
+        <a href="lookup.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">図鑑</a>
         <a href="https://github.com/cosara22/travel-geography-app" target="_blank" rel="noopener"
            class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition inline-flex items-center gap-1.5">
           <svg viewBox="0 0 16 16" class="w-4 h-4 fill-current" aria-hidden="true">
@@ -47,7 +47,7 @@
         </h1>
         <p class="mt-6 text-slate-700 leading-relaxed">
           Wikidata と Wikimedia Commons から自動収集した日本地理データを、<br class="hidden sm:inline">
-          クイズ・地図・早見表で楽しく学べる静的Webアプリ。
+          クイズ・地図・図鑑で楽しく学べる静的Webアプリ。
         </p>
         <div class="mt-8 flex flex-wrap gap-3">
           <a href="quiz.html"
@@ -98,7 +98,7 @@
          class="group relative overflow-hidden rounded-3xl bg-white shadow-xl shadow-slate-200/60 p-6 hover:shadow-2xl hover:-translate-y-1 transition">
         <div class="flex items-center gap-3">
           <span class="w-12 h-12 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-500 grid place-items-center text-white text-2xl shadow-md shadow-orange-500/30">📚</span>
-          <h3 class="text-lg font-bold text-slate-900">早見表</h3>
+          <h3 class="text-lg font-bold text-slate-900">ビジュアル図鑑</h3>
         </div>
         <p class="text-sm text-slate-600 mt-3">世界遺産・国立公園・温泉・祭り・郷土料理を写真つきで一覧</p>
         <div id="preview-lookup" class="mt-4 h-28 rounded-2xl overflow-hidden relative bg-gradient-to-br from-amber-50 to-orange-100 grid place-items-center">
@@ -250,7 +250,7 @@
       `;
     }
 
-    // 早見表: 6枚のサムネをグリッド配置（カタログ閲覧の雰囲気）
+    // ビジュアル図鑑: 6枚のサムネをグリッド配置（カタログ閲覧の雰囲気）
     function renderLookupPreview(images) {
       const picks = [
         images.world_heritage?.ancient_kyoto,

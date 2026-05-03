@@ -1,6 +1,6 @@
 # 🗾 Nippon Geo Quest
 
-> **Wikidata + Wikimedia Commons + 国土数値情報 + OpenStreetMap** から日本の地理データを自動収集し、写真クイズ・地図探索・早見表で楽しく学べる静的Webアプリ
+> **Wikidata + Wikimedia Commons + 国土数値情報 + OpenStreetMap** から日本の地理データを自動収集し、写真クイズ・地図探索・ビジュアル図鑑で楽しく学べる静的Webアプリ
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Deploy on Vercel](https://img.shields.io/badge/deploy-Vercel-black.svg)](https://vercel.com)
@@ -12,7 +12,7 @@
 ## 📸 スクリーンショット
 
 ### ホーム画面
-3つの探索モード（クイズ・地図・早見表）と統計情報を表示。
+3つの探索モード（クイズ・地図・ビジュアル図鑑）と統計情報を表示。
 
 ![ホーム画面](docs/screenshots/01-home.png)
 
@@ -26,10 +26,10 @@ GeoJSON ベースの本物の県境マップ。クリックで都道府県の詳
 
 ![日本地図と詳細パネル](docs/screenshots/03-map.png)
 
-### 早見表
+### ビジュアル図鑑
 タブ式の一覧。世界遺産・国立公園・温泉・祭り・郷土料理の各カードに Wikimedia Commons の写真と撮影者・ライセンス表示。
 
-![早見表（世界遺産タブ）](docs/screenshots/04-lookup-heritage.png)
+![ビジュアル図鑑（世界遺産タブ）](docs/screenshots/04-lookup-heritage.png)
 
 ## 🎯 概要
 
@@ -97,7 +97,7 @@ GeoJSON ベースの本物の県境マップ。47都道府県を地方別に色�
 - OSM観光POIレイヤー（注目スポット / 主要カテゴリ / 全件 のフィルタ）
 - 沖縄は本土から切り出して左上にデフォルメ配置
 
-### 3. 📚 早見表（lookup.html）
+### 3. 📚 ビジュアル図鑑（lookup.html）
 タブ7種＋全文検索。世界遺産・国立公園・温泉・祭り・郷土料理は **Wikimedia Commons の写真つきカード**で表示。
 
 ## 📊 画像取得の達成率（73.2%）
