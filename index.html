@@ -189,6 +189,59 @@
       { key: ['world_heritage', 'shirakawago_gokayama'], pos: 'bottom-12 right-2 sm:bottom-16 sm:right-4', size: 'w-20 h-20 sm:w-28 sm:h-28', rot: 'rotate-[-4deg]' },
     ];
 
+    // 日本シルエットを SVG で背景に描画（japan.geojson から動的生成）
+    async function renderJapanSilhouette() {
+      const collage = document.getElementById('hero-collage');
+      if (!collage) return;
+      try {
+        const res = await fetch('public/japan.geojson');
+        if (!res.ok) return;
+        const geojson = await res.json();
+
+        // 本土のみ (沖縄は左下に飛ぶので除外、自然にクリップされる)
+        const lngMin = 128.5, lngMax = 146.0;
+        const latMin = 30.5,  latMax = 45.7;
+        const W = 400, H = 400;
+        const project = ([lng, lat]) => [
+          ((lng - lngMin) / (lngMax - lngMin)) * W,
+          ((latMax - lat) / (latMax - latMin)) * H,
+        ];
+        const ringToPath = (ring) => ring.map(([lng, lat], i) => {
+          const [x, y] = project([lng, lat]);
+          return `${i === 0 ? 'M' : 'L'}${x.toFixed(1)} ${y.toFixed(1)}`;
+        }).join(' ') + 'Z';
+
+        const paths = [];
+        for (const f of geojson.features) {
+          const g = f.geometry;
+          const polys = g.type === 'MultiPolygon' ? g.coordinates : [g.coordinates];
+          for (const poly of polys) {
+            for (const ring of poly) {
+              paths.push(ringToPath(ring));
+            }
+          }
+        }
+
+        const svgWrap = document.createElement('div');
+        svgWrap.className = 'absolute inset-0 grid place-items-center pointer-events-none';
+        svgWrap.innerHTML = `
+          <svg viewBox="0 0 ${W} ${H}" class="w-full h-full" preserveAspectRatio="xMidYMid meet">
+            <defs>
+              <linearGradient id="jp-silhouette" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.85"/>
+                <stop offset="100%" stop-color="#ffffff" stop-opacity="0.55"/>
+              </linearGradient>
+            </defs>
+            <path d="${paths.join(' ')}" fill="url(#jp-silhouette)" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.6"/>
+          </svg>
+        `;
+        // 浮遊写真より背面に置く（最初の子として挿入）
+        collage.insertBefore(svgWrap, collage.firstChild);
+      } catch (e) {
+        // 失敗しても写真コラージュは独立して動作するので無視
+      }
+    }
+
     function renderHeroCollage(images) {
       const collage = document.getElementById('hero-collage');
       if (!collage) return;
@@ -291,8 +344,11 @@
         const allImages = await Promise.all(cats.map(c => loadImageIndex(c).catch(() => ({}))));
         cats.forEach((c, i) => { imagesByCat[c] = allImages[i] || {}; });
 
-        // ヒーロー浮遊写真 + 各 Bento カードのプレビュー画像
+        // ヒーロー: 日本シルエット背景 + 浮遊写真コラージュ
+        renderJapanSilhouette();   // async 単独で fire-and-forget（写真より先に背面 DOM 挿入）
         renderHeroCollage(imagesByCat);
+
+        // Bento カードのプレビュー画像
         renderQuizPreview(imagesByCat);
         renderMapPreview(imagesByCat);
         renderLookupPreview(imagesByCat);
