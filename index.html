@@ -77,7 +77,7 @@
           <h3 class="text-lg font-bold text-slate-900">問題演習</h3>
         </div>
         <p class="text-sm text-slate-600 mt-3">観光地・温泉・世界遺産・郷土料理などのランダム4択問題</p>
-        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100 grid place-items-center">
+        <div id="preview-quiz" class="mt-4 h-28 rounded-2xl overflow-hidden relative bg-gradient-to-br from-blue-50 to-indigo-100 grid place-items-center">
           <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">📝</span>
         </div>
       </a>
@@ -89,7 +89,7 @@
           <h3 class="text-lg font-bold text-slate-900">地図で確認</h3>
         </div>
         <p class="text-sm text-slate-600 mt-3">日本地図から都道府県を選んで観光資源を確認</p>
-        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-emerald-50 to-teal-100 grid place-items-center">
+        <div id="preview-map" class="mt-4 h-28 rounded-2xl overflow-hidden relative bg-gradient-to-br from-emerald-50 to-teal-100 grid place-items-center">
           <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">🗾</span>
         </div>
       </a>
@@ -101,7 +101,7 @@
           <h3 class="text-lg font-bold text-slate-900">早見表</h3>
         </div>
         <p class="text-sm text-slate-600 mt-3">世界遺産・国立公園・温泉・祭り・郷土料理を写真つきで一覧</p>
-        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-amber-50 to-orange-100 grid place-items-center">
+        <div id="preview-lookup" class="mt-4 h-28 rounded-2xl overflow-hidden relative bg-gradient-to-br from-amber-50 to-orange-100 grid place-items-center">
           <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">📚</span>
         </div>
       </a>
@@ -207,6 +207,75 @@
       });
     }
 
+    // ===== Bento カードのプレビュー画像 =====
+
+    // 問題演習: 3枚の写真を扇状に並べて「写真クイズ」感を演出
+    function renderQuizPreview(images) {
+      const picks = [
+        images.world_heritage?.mt_fuji,
+        images.world_heritage?.itsukushima,
+        images.cuisine?.akafuku,
+      ].filter(p => p && p.thumb_url);
+      if (picks.length < 3) return;
+      const el = document.getElementById('preview-quiz');
+      if (!el) return;
+      el.classList.remove('grid', 'place-items-center');
+      el.innerHTML = `
+        <div class="absolute inset-0 bg-gradient-to-br from-blue-100/70 to-indigo-200/70"></div>
+        <div class="absolute inset-0 flex items-center justify-center gap-2">
+          <img src="${picks[0].thumb_url}" class="w-16 h-16 rounded-xl shadow-xl ring-2 ring-white object-cover -rotate-6 group-hover:-translate-x-1 group-hover:-rotate-12 transition" alt="" loading="lazy">
+          <img src="${picks[1].thumb_url}" class="w-16 h-16 rounded-xl shadow-xl ring-2 ring-white object-cover -translate-y-1 group-hover:-translate-y-2 transition" alt="" loading="lazy">
+          <img src="${picks[2].thumb_url}" class="w-16 h-16 rounded-xl shadow-xl ring-2 ring-white object-cover rotate-6 group-hover:translate-x-1 group-hover:rotate-12 transition" alt="" loading="lazy">
+        </div>
+        <span class="absolute top-1.5 right-2 text-base bg-white/90 backdrop-blur rounded-full w-7 h-7 grid place-items-center shadow-md">❓</span>
+      `;
+    }
+
+    // 地図: 1枚の風景写真をフルブリードで表示、47都道府県バッジを overlay
+    function renderMapPreview(images) {
+      const photo = images.world_heritage?.mt_fuji || images.world_heritage?.itsukushima;
+      if (!photo || !photo.thumb_url) return;
+      const el = document.getElementById('preview-map');
+      if (!el) return;
+      el.classList.remove('grid', 'place-items-center');
+      el.innerHTML = `
+        <img src="${photo.thumb_url}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" alt="" loading="lazy">
+        <div class="absolute inset-0 bg-gradient-to-t from-emerald-900/60 via-emerald-700/10 to-transparent"></div>
+        <div class="absolute top-2 right-2 bg-white/95 backdrop-blur rounded-full px-2.5 py-1 text-[11px] font-bold text-emerald-700 shadow-md inline-flex items-center gap-1">
+          📍 47都道府県
+        </div>
+        <div class="absolute bottom-2 left-2 text-[10px] text-white font-medium bg-black/30 backdrop-blur rounded-full px-2 py-0.5">
+          GeoJSON × 写真
+        </div>
+      `;
+    }
+
+    // 早見表: 6枚のサムネをグリッド配置（カタログ閲覧の雰囲気）
+    function renderLookupPreview(images) {
+      const picks = [
+        images.world_heritage?.ancient_kyoto,
+        images.world_heritage?.shirakawago_gokayama,
+        images.onsen?.kusatsu,
+        images.cuisine?.hakata_ramen,
+        images.festivals?.gion_matsuri,
+        images.national_parks?.akan_mashu,
+      ].filter(p => p && p.thumb_url).slice(0, 6);
+      if (picks.length < 6) return;
+      const el = document.getElementById('preview-lookup');
+      if (!el) return;
+      el.classList.remove('grid', 'place-items-center', 'bg-gradient-to-br', 'from-amber-50', 'to-orange-100');
+      el.classList.add('bg-amber-50');
+      el.innerHTML = `
+        <div class="absolute inset-0 grid grid-cols-3 grid-rows-2 gap-1 p-1.5">
+          ${picks.map(p => `
+            <div class="rounded-md overflow-hidden shadow-sm ring-1 ring-amber-200/60 group-hover:ring-amber-400/70 transition">
+              <img src="${p.thumb_url}" class="w-full h-full object-cover" alt="" loading="lazy" onerror="this.parentElement.style.display='none'">
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
     (async () => {
       let geoData = null;
       let imagesByCat = { world_heritage: {}, cuisine: {} };
@@ -222,8 +291,11 @@
         const allImages = await Promise.all(cats.map(c => loadImageIndex(c).catch(() => ({}))));
         cats.forEach((c, i) => { imagesByCat[c] = allImages[i] || {}; });
 
-        // ヒーロー浮遊写真
+        // ヒーロー浮遊写真 + 各 Bento カードのプレビュー画像
         renderHeroCollage(imagesByCat);
+        renderQuizPreview(imagesByCat);
+        renderMapPreview(imagesByCat);
+        renderLookupPreview(imagesByCat);
 
         // 大型統計の数値
         const totalPhotos = Object.values(imagesByCat).reduce((sum, idx) => sum + Object.keys(idx).length, 0);
