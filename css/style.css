@@ -1,7 +1,19 @@
 /* webapp 共通スタイル（Tailwind CDN を補完するもの） */
 
 body {
-  font-family: 'Segoe UI', 'Hiragino Sans', 'Meiryo', sans-serif;
+  font-family: 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif;
+}
+
+/* ===== ホーム画面: ヒーロー浮遊写真の上下フロート ===== */
+/* Tailwind の rotate-* (transform) と衝突しないよう、CSS individual property の
+   `translate` を使う。これは transform から独立しているため、回転を維持したまま
+   translateY だけアニメさせられる。 */
+@keyframes hero-float {
+  0%, 100% { translate: 0 0; }
+  50%      { translate: 0 -10px; }
+}
+.hero-float {
+  animation: hero-float 5s ease-in-out infinite;
 }
 
 /* タブのアクティブスタイル */

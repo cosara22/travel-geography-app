@@ -5,109 +5,283 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nippon Geo Quest — 日本地理ビジュアル探索アプリ</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
 </head>
-<body class="bg-slate-50 min-h-screen">
-  <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white shadow">
-    <div class="max-w-5xl mx-auto px-6 py-8">
-      <h1 class="text-3xl font-bold">🗾 Nippon Geo Quest</h1>
-      <p class="mt-2 text-blue-100">Wikidata + Wikimedia Commons から自動収集した日本地理データを<br class="hidden sm:inline">クイズ・地図・早見表で楽しく学べる静的Webアプリ</p>
+<body class="bg-white text-slate-900 min-h-screen antialiased">
+
+  <!-- ===== Sticky Navbar ===== -->
+  <nav class="sticky top-0 z-50 backdrop-blur-md bg-white/70 border-b border-slate-200/60">
+    <div class="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
+      <a href="index.html" class="flex items-center gap-2 font-semibold text-slate-900">
+        <span class="text-xl">🗾</span>
+        <span class="hidden sm:inline">Nippon Geo Quest</span>
+        <span class="sm:hidden">ニッポン・ジオ・クエスト</span>
+      </a>
+      <div class="flex items-center gap-1 text-sm">
+        <a href="map.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">地図</a>
+        <a href="quiz.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">クイズ</a>
+        <a href="lookup.html" class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition">早見表</a>
+        <a href="https://github.com/cosara22/travel-geography-app" target="_blank" rel="noopener"
+           class="px-3 py-1.5 rounded-full text-slate-700 hover:bg-slate-100 transition inline-flex items-center gap-1.5">
+          <svg viewBox="0 0 16 16" class="w-4 h-4 fill-current" aria-hidden="true">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+          </svg>
+          <span class="hidden sm:inline">GitHub</span>
+        </a>
+      </div>
     </div>
-  </header>
+  </nav>
 
-  <main class="max-w-5xl mx-auto px-6 py-10">
+  <!-- ===== Hero ===== -->
+  <section class="relative overflow-hidden bg-gradient-to-br from-rose-100 via-purple-100 to-amber-50">
+    <!-- 装飾ぼかしブロブ -->
+    <div class="absolute -top-20 -left-20 w-96 h-96 bg-pink-300/40 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute top-40 -right-20 w-96 h-96 bg-purple-300/40 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute -bottom-20 left-1/3 w-96 h-96 bg-amber-200/30 rounded-full blur-3xl pointer-events-none"></div>
 
-    <section class="mb-8">
-      <h2 class="text-xl font-bold text-slate-800 mb-4">3つの探索モード</h2>
-      <div class="grid md:grid-cols-3 gap-4">
-        <a href="quiz.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-blue-500">
-          <div class="text-4xl mb-2">📝</div>
-          <h3 class="text-lg font-bold text-slate-800">問題演習</h3>
-          <p class="text-sm text-slate-600 mt-1">観光地・温泉・世界遺産・郷土料理などのランダム4択問題</p>
-        </a>
-        <a href="map.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-emerald-500">
-          <div class="text-4xl mb-2">🗾</div>
-          <h3 class="text-lg font-bold text-slate-800">地図で確認</h3>
-          <p class="text-sm text-slate-600 mt-1">日本地図から都道府県を選んで観光資源を確認</p>
-        </a>
-        <a href="lookup.html" class="block bg-white rounded-lg shadow hover:shadow-lg transition-shadow p-6 border-l-4 border-amber-500">
-          <div class="text-4xl mb-2">📚</div>
-          <h3 class="text-lg font-bold text-slate-800">早見表</h3>
-          <p class="text-sm text-slate-600 mt-1">世界遺産・国立公園・温泉・祭り・郷土料理を写真つきで一覧</p>
-        </a>
+    <div class="relative max-w-7xl mx-auto px-6 py-16 lg:py-24 grid lg:grid-cols-2 gap-12 items-center">
+      <!-- 左: テキスト + CTA -->
+      <div>
+        <h1 class="text-5xl md:text-6xl font-bold leading-tight text-slate-900">
+          日本を、<br>視覚でめぐる
+        </h1>
+        <p class="mt-6 text-slate-700 leading-relaxed">
+          Wikidata と Wikimedia Commons から自動収集した日本地理データを、<br class="hidden sm:inline">
+          クイズ・地図・早見表で楽しく学べる静的Webアプリ。
+        </p>
+        <div class="mt-8 flex flex-wrap gap-3">
+          <a href="quiz.html"
+             class="px-6 py-3 bg-indigo-600 text-white rounded-full font-medium shadow-lg shadow-indigo-500/30 hover:bg-indigo-700 hover:shadow-xl transition">
+            クエスト開始 →
+          </a>
+          <a href="map.html"
+             class="px-6 py-3 bg-white/70 backdrop-blur border border-white/80 text-slate-800 rounded-full font-medium hover:bg-white transition">
+            地図を見る
+          </a>
+        </div>
       </div>
-    </section>
 
-    <section class="bg-white rounded-lg shadow p-6 mb-8">
-      <h2 class="text-xl font-bold text-slate-800 mb-3">📊 クイズスコア</h2>
-      <div id="score-stats" class="text-slate-600">
-        <p class="text-sm">クイズを始めると、ここにモード別の正答率が表示されます。</p>
+      <!-- 右: 浮遊写真カード -->
+      <div id="hero-collage" class="relative h-72 sm:h-80 lg:h-96"></div>
+    </div>
+  </section>
+
+  <!-- ===== Bento Mode Cards ===== -->
+  <section class="relative max-w-7xl mx-auto px-6 -mt-8 mb-12">
+    <div class="grid md:grid-cols-3 gap-5">
+
+      <a href="quiz.html"
+         class="group relative overflow-hidden rounded-3xl bg-white shadow-xl shadow-slate-200/60 p-6 hover:shadow-2xl hover:-translate-y-1 transition">
+        <div class="flex items-center gap-3">
+          <span class="w-12 h-12 rounded-2xl bg-gradient-to-br from-blue-400 to-indigo-500 grid place-items-center text-white text-2xl shadow-md shadow-indigo-500/30">📝</span>
+          <h3 class="text-lg font-bold text-slate-900">問題演習</h3>
+        </div>
+        <p class="text-sm text-slate-600 mt-3">観光地・温泉・世界遺産・郷土料理などのランダム4択問題</p>
+        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100 grid place-items-center">
+          <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">📝</span>
+        </div>
+      </a>
+
+      <a href="map.html"
+         class="group relative overflow-hidden rounded-3xl bg-white shadow-xl shadow-slate-200/60 p-6 hover:shadow-2xl hover:-translate-y-1 transition">
+        <div class="flex items-center gap-3">
+          <span class="w-12 h-12 rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-500 grid place-items-center text-white text-2xl shadow-md shadow-emerald-500/30">🗾</span>
+          <h3 class="text-lg font-bold text-slate-900">地図で確認</h3>
+        </div>
+        <p class="text-sm text-slate-600 mt-3">日本地図から都道府県を選んで観光資源を確認</p>
+        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-emerald-50 to-teal-100 grid place-items-center">
+          <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">🗾</span>
+        </div>
+      </a>
+
+      <a href="lookup.html"
+         class="group relative overflow-hidden rounded-3xl bg-white shadow-xl shadow-slate-200/60 p-6 hover:shadow-2xl hover:-translate-y-1 transition">
+        <div class="flex items-center gap-3">
+          <span class="w-12 h-12 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-500 grid place-items-center text-white text-2xl shadow-md shadow-orange-500/30">📚</span>
+          <h3 class="text-lg font-bold text-slate-900">早見表</h3>
+        </div>
+        <p class="text-sm text-slate-600 mt-3">世界遺産・国立公園・温泉・祭り・郷土料理を写真つきで一覧</p>
+        <div class="mt-4 h-28 rounded-2xl overflow-hidden bg-gradient-to-br from-amber-50 to-orange-100 grid place-items-center">
+          <span class="text-5xl opacity-30 group-hover:scale-110 transition-transform duration-500">📚</span>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- ===== Stats Strip + 詳細統計 ===== -->
+  <section class="max-w-7xl mx-auto px-6 pb-12">
+    <!-- 1段目: 大型ビジュアル統計 -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+      <div class="bg-gradient-to-br from-rose-50 to-rose-100 rounded-3xl p-6 text-center border border-rose-200/50">
+        <div class="text-3xl">📸</div>
+        <div id="stat-photos" class="text-3xl font-bold text-rose-600 mt-1">—</div>
+        <div class="text-xs text-rose-700 font-medium mt-1">写真</div>
       </div>
-      <button id="reset-scores" class="mt-3 text-xs text-red-600 hover:underline">スコアをリセット</button>
-    </section>
-
-    <section class="bg-white rounded-lg shadow p-6">
-      <h2 class="text-xl font-bold text-slate-800 mb-3">📋 データベース統計</h2>
-      <div id="db-stats" class="grid grid-cols-2 md:grid-cols-4 gap-3 text-sm">
-        <div class="text-slate-500">読み込み中…</div>
+      <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-3xl p-6 text-center border border-blue-200/50">
+        <div class="text-3xl">📍</div>
+        <div id="stat-prefectures" class="text-3xl font-bold text-blue-600 mt-1">—</div>
+        <div class="text-xs text-blue-700 font-medium mt-1">都道府県</div>
       </div>
-    </section>
+      <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-3xl p-6 text-center border border-purple-200/50">
+        <div class="text-3xl">📚</div>
+        <div id="stat-categories" class="text-3xl font-bold text-purple-600 mt-1">14</div>
+        <div class="text-xs text-purple-700 font-medium mt-1">カテゴリ</div>
+      </div>
+      <div class="bg-gradient-to-br from-pink-50 to-pink-100 rounded-3xl p-6 text-center border border-pink-200/50">
+        <div class="text-3xl">❤️</div>
+        <div class="text-3xl font-bold text-pink-600 mt-1">100%</div>
+        <div class="text-xs text-pink-700 font-medium mt-1">オープンソース</div>
+      </div>
+    </div>
 
-    <footer class="mt-10 text-center text-xs text-slate-400">
-      <p>データ: <a href="https://www.wikidata.org/" class="hover:underline" target="_blank" rel="noopener">Wikidata</a> / <a href="https://commons.wikimedia.org/" class="hover:underline" target="_blank" rel="noopener">Wikimedia Commons</a> / <a href="https://nlftp.mlit.go.jp/" class="hover:underline" target="_blank" rel="noopener">国土数値情報</a> / <a href="https://www.openstreetmap.org/" class="hover:underline" target="_blank" rel="noopener">OpenStreetMap</a></p>
-      <p class="mt-1"><a href="https://github.com/cosara22/travel-geography-app" class="hover:underline" target="_blank" rel="noopener">GitHub (Source Code)</a> · MIT License</p>
-    </footer>
-  </main>
+    <!-- 2段目: 既存「データベース統計」をチップ風に -->
+    <div class="bg-white/60 backdrop-blur rounded-2xl border border-slate-200/60 p-4">
+      <h3 class="text-xs font-bold text-slate-500 uppercase tracking-wider mb-3">📋 データベース内訳</h3>
+      <div id="db-stats" class="flex flex-wrap gap-2 text-sm">
+        <div class="text-slate-400">読み込み中…</div>
+      </div>
+    </div>
+  </section>
 
-  <script src="js/data.js?v=2"></script>
+  <!-- ===== クイズスコア（あれば表示） ===== -->
+  <section id="score-section" class="max-w-7xl mx-auto px-6 pb-12 hidden">
+    <div class="bg-white/70 backdrop-blur rounded-2xl border border-slate-200/60 shadow-sm p-6">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="text-base font-bold text-slate-800">📊 クイズスコア</h2>
+        <button id="reset-scores" class="text-xs text-slate-400 hover:text-red-600 hover:underline">リセット</button>
+      </div>
+      <div id="score-stats" class="text-slate-600"></div>
+    </div>
+  </section>
+
+  <!-- ===== Footer ===== -->
+  <footer class="border-t border-slate-200 bg-slate-50/50 py-8 mt-4">
+    <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-500">
+      <div class="flex items-center gap-2">
+        <span>🗾</span>
+        <span>Nippon Geo Quest</span>
+      </div>
+      <div class="flex items-center gap-3 flex-wrap justify-center">
+        <span>データ:</span>
+        <a class="hover:underline" href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a>
+        <span class="text-slate-300">·</span>
+        <a class="hover:underline" href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>
+        <span class="text-slate-300">·</span>
+        <a class="hover:underline" href="https://nlftp.mlit.go.jp/" target="_blank" rel="noopener">国土数値情報</a>
+        <span class="text-slate-300">·</span>
+        <a class="hover:underline" href="https://www.openstreetmap.org/" target="_blank" rel="noopener">OpenStreetMap</a>
+      </div>
+      <a class="hover:underline" href="https://github.com/cosara22/travel-geography-app" target="_blank" rel="noopener">
+        github.com/cosara22/travel-geography-app
+      </a>
+    </div>
+    <p class="text-center text-[10px] text-slate-400 mt-3">MIT License · Code & data are open source</p>
+  </footer>
+
+  <script src="js/data.js?v=4"></script>
   <script>
-    (async () => {
-      // DB統計
-      try {
-        const data = await loadGeoData();
-        const stats = [
-          { label: "都道府県", count: Object.keys(data.prefectures).length, emoji: "🏯" },
-          { label: "世界遺産", count: Object.keys(data.world_heritage).length, emoji: "🌍" },
-          { label: "国立公園", count: Object.keys(data.national_parks).length, emoji: "🏔️" },
-          { label: "温泉", count: Object.keys(data.onsen).length, emoji: "♨️" },
-          { label: "祭り", count: Object.keys(data.festivals).length, emoji: "🎌" },
-          { label: "郷土料理", count: Object.keys(data.cuisine).length, emoji: "🍜" },
-          { label: "交通機関", count: Object.keys(data.transport).length, emoji: "🚄" },
-        ];
-        document.getElementById("db-stats").innerHTML = stats
-          .map(s => `<div class="bg-slate-50 rounded px-3 py-2"><span class="mr-1">${s.emoji}</span><span class="text-slate-700">${s.label}</span> <span class="font-bold text-blue-600">${s.count}</span></div>`)
-          .join("");
-      } catch (e) {
-        document.getElementById("db-stats").innerHTML = `<div class="text-red-600 col-span-4">データロード失敗: ${e.message}<br><small>※ <code>file://</code> で開いた場合はローカルサーバー経由でアクセスしてください（README.md 参照）</small></div>`;
-      }
+    // 浮遊写真カードのレイアウト定義
+    const HERO_PICKS = [
+      { key: ['world_heritage', 'mt_fuji'],            pos: 'top-2 left-4 sm:top-4 sm:left-8',         size: 'w-28 h-28 sm:w-36 sm:h-36',  rot: 'rotate-[-6deg]' },
+      { key: ['world_heritage', 'itsukushima'],        pos: 'top-20 right-4 sm:top-24 sm:right-12',    size: 'w-24 h-24 sm:w-32 sm:h-32',  rot: 'rotate-[8deg]'  },
+      { key: ['cuisine',        'hakata_ramen'],       pos: 'bottom-2 left-1/4 sm:bottom-4 sm:left-1/3', size: 'w-24 h-24 sm:w-32 sm:h-32', rot: 'rotate-[4deg]'  },
+      { key: ['world_heritage', 'shirakawago_gokayama'], pos: 'bottom-12 right-2 sm:bottom-16 sm:right-4', size: 'w-20 h-20 sm:w-28 sm:h-28', rot: 'rotate-[-4deg]' },
+    ];
 
-      // スコア表示
-      const scores = ScoreStore.load();
-      const scoreEl = document.getElementById("score-stats");
-      const modes = Object.keys(scores);
-      if (modes.length === 0) {
-        // 既定メッセージ維持
-      } else {
-        scoreEl.innerHTML = modes.map(m => {
-          const s = scores[m];
-          const pct = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
-          const color = pct >= 80 ? "text-emerald-600" : pct >= 60 ? "text-amber-600" : "text-red-600";
-          return `<div class="flex items-center gap-3 py-1">
-            <span class="font-medium text-slate-700 w-40">${m}</span>
-            <span class="${color} font-bold">${s.correct}/${s.total} (${pct}%)</span>
-            <div class="flex-1 bg-slate-200 rounded h-2 overflow-hidden">
-              <div class="h-full bg-gradient-to-r from-blue-400 to-blue-600" style="width:${pct}%"></div>
-            </div>
-          </div>`;
-        }).join("");
-      }
-
-      document.getElementById("reset-scores").addEventListener("click", () => {
-        if (confirm("クイズスコアを全てリセットしますか？")) {
-          ScoreStore.reset();
-          location.reload();
-        }
+    function renderHeroCollage(images) {
+      const collage = document.getElementById('hero-collage');
+      if (!collage) return;
+      HERO_PICKS.forEach((p, idx) => {
+        const [cat, id] = p.key;
+        const img = images[cat] && images[cat][id];
+        if (!img) return;
+        const a = document.createElement('a');
+        a.href = img.page_url || '#';
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.className = `absolute ${p.pos} ${p.size} ${p.rot} rounded-2xl overflow-hidden shadow-2xl ring-4 ring-white hover:ring-rose-200 hover:scale-105 transition-all duration-300 hero-float`;
+        a.style.animationDelay = `${idx * 0.7}s`;
+        a.innerHTML = `<img src="${img.thumb_url}" alt="${img.author || ''}" class="w-full h-full object-cover" loading="lazy" onerror="this.parentElement.style.display='none'">`;
+        collage.appendChild(a);
       });
+    }
+
+    (async () => {
+      let geoData = null;
+      let imagesByCat = { world_heritage: {}, cuisine: {} };
+
+      try {
+        // GEOデータ
+        geoData = await loadGeoData();
+
+        // 大型統計の数値（写真総数、都道府県数）を計算するため、画像JSONを並列ロード
+        const cats = ['world_heritage', 'national_parks', 'onsen', 'festivals', 'cuisine',
+                      'attractions', 'mountains', 'islands', 'lakes', 'capes', 'rivers',
+                      'stations', 'airports', 'jr_lines'];
+        const allImages = await Promise.all(cats.map(c => loadImageIndex(c).catch(() => ({}))));
+        cats.forEach((c, i) => { imagesByCat[c] = allImages[i] || {}; });
+
+        // ヒーロー浮遊写真
+        renderHeroCollage(imagesByCat);
+
+        // 大型統計の数値
+        const totalPhotos = Object.values(imagesByCat).reduce((sum, idx) => sum + Object.keys(idx).length, 0);
+        document.getElementById('stat-photos').textContent = totalPhotos.toLocaleString();
+        document.getElementById('stat-prefectures').textContent = Object.keys(geoData.prefectures).length;
+        document.getElementById('stat-categories').textContent = cats.length;
+
+        // 既存DB統計（チップ形式に更新）
+        const dbStats = [
+          { label: '都道府県', count: Object.keys(geoData.prefectures).length, emoji: '🏯' },
+          { label: '世界遺産', count: Object.keys(geoData.world_heritage).length, emoji: '🌍' },
+          { label: '国立公園', count: Object.keys(geoData.national_parks).length, emoji: '🏔️' },
+          { label: '温泉',     count: Object.keys(geoData.onsen).length,          emoji: '♨️' },
+          { label: '祭り',     count: Object.keys(geoData.festivals).length,      emoji: '🎌' },
+          { label: '郷土料理', count: Object.keys(geoData.cuisine).length,        emoji: '🍜' },
+          { label: '交通機関', count: Object.keys(geoData.transport).length,      emoji: '🚄' },
+        ];
+        document.getElementById('db-stats').innerHTML = dbStats
+          .map(s => `<span class="inline-flex items-center gap-1.5 bg-slate-100 hover:bg-slate-200 transition rounded-full px-3 py-1 text-xs">
+              <span>${s.emoji}</span>
+              <span class="text-slate-700">${s.label}</span>
+              <span class="font-bold text-slate-900">${s.count}</span>
+            </span>`)
+          .join('');
+      } catch (e) {
+        document.getElementById('db-stats').innerHTML = `<div class="text-red-600 text-xs">データロード失敗: ${e.message}<br>※ <code>file://</code> で開いた場合はローカルサーバー経由でアクセスしてください（README.md 参照）</div>`;
+      }
+
+      // クイズスコア（あれば表示）
+      try {
+        const scores = ScoreStore.load();
+        const modes = Object.keys(scores);
+        const section = document.getElementById('score-section');
+        const scoreEl = document.getElementById('score-stats');
+        if (modes.length > 0) {
+          section.classList.remove('hidden');
+          scoreEl.innerHTML = modes.map(m => {
+            const s = scores[m];
+            const pct = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+            const color = pct >= 80 ? 'text-emerald-600' : pct >= 60 ? 'text-amber-600' : 'text-red-600';
+            return `<div class="flex items-center gap-3 py-1.5 text-sm">
+              <span class="font-medium text-slate-700 flex-shrink-0 w-44 truncate">${m}</span>
+              <span class="${color} font-bold flex-shrink-0 w-24 text-right">${s.correct}/${s.total} (${pct}%)</span>
+              <div class="flex-1 bg-slate-200 rounded-full h-2 overflow-hidden">
+                <div class="h-full bg-gradient-to-r from-indigo-400 to-indigo-600 rounded-full transition-all" style="width:${pct}%"></div>
+              </div>
+            </div>`;
+          }).join('');
+        }
+        document.getElementById('reset-scores').addEventListener('click', () => {
+          if (confirm('クイズスコアを全てリセットしますか？')) {
+            ScoreStore.reset();
+            location.reload();
+          }
+        });
+      } catch (e) {
+        // スコア機能が無効でも他の機能は動かす
+      }
     })();
   </script>
 </body>
