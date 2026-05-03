@@ -225,14 +225,26 @@
         const svgWrap = document.createElement('div');
         svgWrap.className = 'absolute inset-0 grid place-items-center pointer-events-none';
         svgWrap.innerHTML = `
-          <svg viewBox="0 0 ${W} ${H}" class="w-full h-full" preserveAspectRatio="xMidYMid meet">
+          <svg viewBox="0 0 ${W} ${H}" class="w-full h-full" preserveAspectRatio="xMidYMid meet" overflow="visible">
             <defs>
-              <linearGradient id="jp-silhouette" x1="0%" y1="0%" x2="0%" y2="100%">
-                <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.85"/>
-                <stop offset="100%" stop-color="#ffffff" stop-opacity="0.55"/>
+              <!-- 斜め方向グラデーション（光源は左上想定、右下にかけて影色へ） -->
+              <linearGradient id="jp-fill" x1="20%" y1="0%" x2="80%" y2="100%">
+                <stop offset="0%"   stop-color="#ffffff" stop-opacity="1.00"/>
+                <stop offset="45%"  stop-color="#f1f5f9" stop-opacity="0.95"/>
+                <stop offset="100%" stop-color="#64748b" stop-opacity="0.75"/>
               </linearGradient>
+              <!-- ドロップシャドウ + 内側ハイライトの2段フィルタ（立体感） -->
+              <filter id="jp-emboss" x="-20%" y="-20%" width="140%" height="140%">
+                <!-- 影層: 右下方向に offset、ぼかし強め -->
+                <feDropShadow dx="3" dy="8" stdDeviation="6" flood-color="#1e293b" flood-opacity="0.40"/>
+                <!-- ハイライト層: 左上方向に offset、白光 -->
+                <feDropShadow dx="-1" dy="-1" stdDeviation="0.5" flood-color="#ffffff" flood-opacity="0.7"/>
+              </filter>
             </defs>
-            <path d="${paths.join(' ')}" fill="url(#jp-silhouette)" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.6"/>
+            <path d="${paths.join(' ')}"
+                  fill="url(#jp-fill)"
+                  stroke="#475569" stroke-width="0.6" stroke-opacity="0.45"
+                  filter="url(#jp-emboss)"/>
           </svg>
         `;
         // 浮遊写真より背面に置く（最初の子として挿入）
